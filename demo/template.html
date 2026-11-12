@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Why are we losing? A win/loss brief with its evidence</title>
+<meta name="description" content="A board brief on why a fictional software company loses deals. Click any claim to read the buyer quotes and deals behind it. Synthetic deals with planted patterns.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --desk:#e9ecf1; --sheet:#fff; --ink:#121b2d; --ink2:#4a566b; --rule:#d3d9e2; --navy:#1b3160;
+  --lamp:#ffcb45; --lamp-soft:#fff3c9; --red:#b3271e; --sea:#2a6c70; --margin:#f6f7fa;
+  --c-price:#dd9a00; --c-multistate:#1b3160; --c-feature:#5183d6; --c-broker:#2a6c70; --c-slow_demo:#8a5aa3; --c-stall:#8791a1; --c-unclear:#d3d9e2;
+  --serif:'Fraunces',Georgia,'Times New Roman',serif; --sans:'Public Sans','Segoe UI',system-ui,-apple-system,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{margin:0;background:var(--desk);color:var(--ink);font:16.5px/1.6 var(--sans)}
+a{color:var(--navy);text-underline-offset:3px}
+:focus-visible{outline:3px solid var(--navy);outline-offset:2px;border-radius:3px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;line-height:1.12;margin:0;letter-spacing:-.01em}
+button{font:inherit;color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+/* masthead */
+.mast{background:var(--ink);color:#eef1f6}
+.mast .wrap{padding-top:16px;padding-bottom:40px}
+.mast nav{display:flex;flex-wrap:wrap;gap:6px 20px;justify-content:space-between;font-size:14.5px}
+.mast nav div{display:flex;flex-wrap:wrap;gap:6px 18px}
+.mast a{color:#c7d0df;text-decoration:none}
+.mast a:hover{color:var(--lamp)}
+.mast h1{font-size:clamp(40px,7vw,84px);font-weight:700;margin:44px 0 16px;max-width:13ch}
+.mast h1 mark{background:linear-gradient(transparent 58%,var(--lamp) 58%,var(--lamp) 92%,transparent 92%);color:inherit;padding:0 .08em}
+.mast .lede{max-width:62ch;font-size:18.5px;color:#dfe5ee;margin:0 0 18px}
+.fict{max-width:70ch;font-size:15px;color:#c7d0df;border-left:4px solid var(--lamp);padding-left:12px;margin:0}
+.how{margin:26px 0 0;font-size:15.5px;color:#fff;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.how .demo{background:var(--lamp-soft);color:var(--ink);border-bottom:2px solid var(--lamp);padding:1px 6px;border-radius:2px}
+
+section{padding:44px 0}
+.kicker{font-size:14.5px;color:var(--ink2);margin:0 0 6px}
+.sec-h{font-size:clamp(26px,3.6vw,38px);margin-bottom:10px;max-width:24ch}
+.sec-p{max-width:68ch;color:var(--ink2);margin:0 0 22px}
+
+/* memo */
+.memo{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:22px 26px;max-width:760px;font-family:var(--serif);font-size:17.5px;line-height:1.55}
+.memo .hd{font:14.5px/1.5 var(--sans);color:var(--ink2);border-bottom:1px solid var(--rule);padding-bottom:10px;margin-bottom:12px}
+.memo p{margin:0 0 10px}
+.memo p:last-child{margin:0}
+
+/* reader */
+.reader{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:28px;align-items:start}
+.paper{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:38px 44px 34px;box-shadow:0 1px 0 #fff inset,0 10px 30px -18px rgba(18,27,45,.35)}
+.paper + .paper{margin-top:22px}
+.paper .top{display:flex;justify-content:space-between;gap:12px;font-size:13.5px;color:var(--ink2);border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:24px}
+.paper h2{font-size:30px;margin-bottom:6px}
+.paper h3{font-size:21px;margin:30px 0 10px}
+.paper h3:first-of-type{margin-top:22px}
+.paper p{font-family:var(--serif);font-size:18px;line-height:1.6;margin:0 0 14px}
+.paper .sub{font:15px/1.5 var(--sans);color:var(--ink2);margin-bottom:0}
+.claim{background:linear-gradient(transparent 62%,var(--lamp-soft) 62%);cursor:pointer;border-radius:2px;box-decoration-break:clone;-webkit-box-decoration-break:clone;transition:background .15s}
+.claim:hover{background:linear-gradient(transparent 62%,var(--lamp) 62%)}
+.claim[aria-expanded=true]{background:var(--lamp)}
+.tag{display:inline-block;font:600 12.5px/1 var(--sans);padding:4px 8px;border-radius:3px;margin-right:8px;vertical-align:2px;background:var(--ink);color:#fff}
+.tag.v-partly{background:var(--c-price);color:var(--ink)}
+.tag.v-supported{background:var(--sea)}
+.tag.v-not{background:var(--red)}
+.tag.owner{background:var(--navy)}
+.limits{font:15.5px/1.55 var(--sans);color:var(--ink2);padding-left:20px;margin:6px 0 0}
+.limits li{margin:6px 0}
+
+/* charts */
+figure{margin:20px 0 22px;padding:16px 18px;background:var(--margin);border-radius:4px}
+figcaption{font:600 15px/1.35 var(--sans);margin-bottom:12px}
+.pair{display:grid;gap:8px}
+.pair .r{display:grid;grid-template-columns:150px 1fr 48px;gap:10px;align-items:center;font-size:14.5px}
+.bar{height:22px;border-radius:2px}
+.pair b{font:600 15px var(--sans)}
+.stack{display:grid;gap:10px}
+.stack .r{display:grid;grid-template-columns:86px 1fr;gap:10px;align-items:center;font-size:14.5px}
+.stack .track{display:flex;height:26px;border-radius:2px;overflow:hidden;gap:2px}
+.stack .seg{display:grid;place-items:center;font:600 12.5px var(--sans);color:#fff;min-width:0}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13.5px;color:var(--ink2);margin-top:12px}
+.legend i{display:inline-block;width:11px;height:11px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.fall{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;align-items:end;height:150px}
+.fall .col{display:flex;flex-direction:column;justify-content:flex-end;height:100%;position:relative}
+.fall .blk{border-radius:2px}
+.fall .lab{font-size:13.5px;color:var(--ink2);margin-top:6px;line-height:1.3}
+.fall .val{font:600 15px var(--sans);margin-bottom:4px}
+.falllabs{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+
+/* margin */
+.margin{position:sticky;top:14px;max-height:calc(100vh - 28px);overflow:auto;background:var(--margin);border:1px solid var(--rule);border-left:4px solid var(--lamp);border-radius:4px;padding:18px 18px 20px}
+.margin h3{font:600 15px var(--sans);letter-spacing:0;margin-bottom:8px}
+.margin .empty{color:var(--ink2);font-size:15px}
+.margin .ctext{font-family:var(--serif);font-size:15.5px;line-height:1.45;color:var(--ink2);margin:0 0 14px;padding-bottom:12px;border-bottom:1px solid var(--rule)}
+.figs{list-style:none;padding:0;margin:0 0 14px;font-size:14.5px}
+.figs li{display:flex;gap:10px;padding:4px 0;border-bottom:1px dotted var(--rule)}
+.figs b{min-width:54px;font-weight:700}
+.q{margin:0 0 12px;padding:10px 12px;background:#fff;border:1px solid var(--rule);border-radius:4px}
+.q blockquote{margin:0 0 6px;font-family:var(--serif);font-size:16.5px;line-height:1.45}
+.q button,.chip,.row{all:unset;cursor:pointer;box-sizing:border-box}
+.q button{font-size:13.5px;color:var(--navy);text-decoration:underline;text-underline-offset:3px}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:8px}
+.chip{font:500 12.5px var(--sans);padding:3px 7px;border:1px solid var(--rule);border-radius:3px;background:#fff}
+.chip:hover,.chip:focus-visible{border-color:var(--navy);background:var(--lamp-soft)}
+.more{all:unset;cursor:pointer;font-size:13.5px;color:var(--navy);text-decoration:underline;margin-top:8px;display:inline-block}
+.checked{font-size:13.5px;color:var(--sea);margin:12px 0 0}
+
+/* scorecard */
+.score{width:100%;border-collapse:collapse;background:var(--sheet);border:1px solid var(--rule);font-size:15.5px}
+.score th,.score td{text-align:left;padding:11px 14px;border-top:1px solid var(--rule);vertical-align:top}
+.score th{font-weight:600;font-size:14px;color:var(--ink2);border-top:0}
+.score td:first-child{font-weight:600;white-space:nowrap}
+.res{font-weight:700}
+.note{max-width:900px;background:var(--lamp-soft);border-left:4px solid var(--lamp);padding:14px 18px;margin:20px 0 0;font-size:16px}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:22px;margin-top:26px}
+.card{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:18px 20px}
+.card h3{font-size:20px;margin-bottom:8px}
+.card p,.card li{font-size:15.5px;color:var(--ink2)}
+.card ol,.card ul{padding-left:20px;margin:6px 0 0}
+.card li{margin:5px 0}
+.mini{width:100%;border-collapse:collapse;font-size:14.5px;margin-top:6px}
+.mini td,.mini th{padding:5px 6px;border-top:1px solid var(--rule);text-align:left}
+.mini th{font-weight:600;color:var(--ink2)}
+
+/* appendix */
+.filters{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:12px;align-items:end}
+.filters label{font-size:13.5px;color:var(--ink2);display:grid;gap:3px}
+.filters select,.filters input{font:15px var(--sans);padding:7px 9px;border:1px solid var(--rule);border-radius:4px;background:#fff;color:var(--ink);min-width:150px}
+.list{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;max-height:520px;overflow:auto}
+.row{display:grid;grid-template-columns:58px 78px minmax(0,1.3fr) 96px minmax(0,1fr) minmax(0,1.2fr);gap:10px;padding:9px 14px;border-top:1px solid var(--rule);font-size:14.5px;width:100%;align-items:center}
+.row:first-child{border-top:0}
+.row:hover,.row:focus-visible{background:var(--lamp-soft)}
+.row .dim{color:var(--ink2)}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:0}
+.count{font-size:14px;color:var(--ink2);margin:0 0 8px}
+
+/* dialog */
+dialog{border:0;border-radius:6px;padding:0;max-width:760px;width:calc(100vw - 24px);max-height:calc(100vh - 32px);color:var(--ink);box-shadow:0 30px 80px -20px rgba(0,0,0,.5)}
+dialog::backdrop{background:rgba(18,27,45,.55)}
+.dl-h{position:sticky;top:0;background:var(--ink);color:#fff;padding:14px 20px;display:flex;justify-content:space-between;gap:12px;align-items:start}
+.dl-h h3{font-size:22px}
+.dl-h p{margin:3px 0 0;font-size:14px;color:#c7d0df}
+.x{all:unset;cursor:pointer;font:600 14px var(--sans);padding:6px 10px;border:1px solid #6b7890;border-radius:4px;white-space:nowrap}
+.x:hover{background:#fff;color:var(--ink)}
+.dl-b{padding:18px 20px 22px}
+.versus{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}
+.versus div{border:1px solid var(--rule);border-radius:4px;padding:10px 12px;font-size:14px;color:var(--ink2)}
+.versus b{display:block;font:600 17px var(--serif);color:var(--ink);margin-top:2px}
+.turn{margin:0 0 9px;font-family:var(--serif);font-size:16.5px;line-height:1.5}
+.turn .who{font:600 13.5px var(--sans);color:var(--ink2);display:block}
+.turn mark,.mail mark{background:var(--lamp);padding:1px 0}
+.mail{white-space:pre-wrap;font-family:var(--serif);font-size:16px;background:var(--margin);border-radius:4px;padding:12px 14px;margin-top:6px}
+.dl-b h4{font:600 14.5px var(--sans);margin:18px 0 8px}
+.keybox{margin-top:16px;border-top:1px solid var(--rule);padding-top:12px;font-size:14.5px}
+.keybox button{all:unset;cursor:pointer;color:var(--navy);text-decoration:underline}
+
+footer{padding:30px 0 60px;font-size:14.5px;color:var(--ink2)}
+footer p{max-width:86ch}
+
+@media (max-width:960px){
+  .reader{grid-template-columns:1fr}
+  .margin{position:static;max-height:none;margin:4px 0 18px}
+  .paper{padding:24px 20px}
+  .paper p{font-size:17px}
+  .row{grid-template-columns:52px 1fr 1fr;row-gap:2px}
+  .row .hide-s{display:none}
+  .row > span:last-child{grid-column:2/-1}
+  .pair .r{grid-template-columns:110px 1fr 44px}
+  .versus{grid-template-columns:1fr}
+  .score td:first-child{white-space:normal}
+}
+</style>
+</head>
+<body>
+<header class="mast" id="top"><div class="wrap">
+  <nav aria-label="Sections"><strong>Win/loss intelligence agent</strong>
+    <div><a href="#brief">The brief</a><a href="#method">How it was tested</a><a href="#deals">All 400 deals</a><a href="https://github.com/RyColls/win-loss-intelligence-agent">Code</a></div></nav>
+  <h1>Why are we <mark>losing</mark>?</h1>
+  <p class="lede">A revenue chief has 400 closed deals, three competing explanations and a CRM she does not trust. This is the two-page brief an AI agent wrote for her board after reading every call. Each claim in it opens the buyer quotes and the deals behind it.</p>
+  <p class="fict">A fictional sample client. Lanternmere HR, its people, its competitors and all 400 deals are invented: synthetic deals with planted patterns, written for this project. The model calls that read them are real. Recovering planted patterns tests the method. It does not prove the agent would be as accurate on real deals.</p>
+  <p class="how">How to read it: <span class="demo">text marked like this</span> is a claim. Click one to see its evidence.</p>
+</div></header>
+
+<section id="ask"><div class="wrap">
+  <p class="kicker">The sample client’s starting point</p>
+  <h2 class="sec-h">The question</h2>
+  <div class="memo">
+    <div class="hd"><b>From:</b> Annika Lindqvist, Chief Revenue Officer (fictional) · <b>To:</b> Revenue Operations · <b>Subject:</b> Why are we losing?</div>
+    <p>Our win rate has gone from 28% to 19% in four quarters. In last week’s exec meeting I heard three explanations and no evidence.</p>
+    <p>Sales says we are too expensive. Product says we are missing features. Marketing says the broker channel sends us weak leads.</p>
+    <p>The CRM loss reason says “Price” on 61% of losses. I don’t believe it, because it is the first option in the dropdown.</p>
+    <p>We record every call. The answers are in the transcripts, and nobody has time to read 400 deals. I need a brief for the board meeting: what is causing the losses, by segment, with quotes I can read aloud, and what each team should do about it.</p>
+  </div>
+</div></section>
+
+<section id="brief" style="padding-top:8px"><div class="wrap">
+  <div class="reader">
+    <div id="papers"></div>
+    <aside class="margin" id="margin" aria-live="polite" aria-label="Evidence for the selected claim">
+      <h3>Evidence</h3><p class="empty">Click any marked claim in the brief. Its numbers, the buyers’ words and every deal behind it appear here.</p>
+    </aside>
+  </div>
+</div></section>
+
+<section id="method"><div class="wrap">
+  <p class="kicker">Method note</p>
+  <h2 class="sec-h">How it was tested</h2>
+  <p class="sec-p">The deals were generated in one step with planted patterns and an answer key. The analysis ran in a separate step and never saw the key. Afterwards the brief was scored against it. These are all seven checks, with counts.</p>
+  <div style="overflow-x:auto"><table class="score" id="score"></table></div>
+  <div class="note" id="ceiling"></div>
+  <div class="cols">
+    <div class="card"><h3>How a deal is coded</h3>
+      <ol><li>Claude Haiku pulled the buyers’ reason phrases from a sample of 40 losses. Claude Sonnet proposed seven reason categories from those phrases.</li>
+      <li>Claude Sonnet read each lost deal’s call notes and email, and nothing else: no CRM reason, no segment. It picked one main reason, an optional second one, a confidence level and one or two word-for-word quotes.</li>
+      <li>Code checked every quote against the source text. A quote that is not an exact copy is removed, along with the claim it supported.</li>
+      <li>Code counted everything. A second, separate piece of code recomputed every figure in the brief from the coded table.</li></ol></div>
+    <div class="card"><h3>Coding accuracy by reason</h3><table class="mini" id="byreason"></table></div>
+    <div class="card"><h3>Where the method is weak</h3><ul id="weak"></ul></div>
+    <div class="card"><h3>Two false trails, tested and set aside</h3><ul id="trails"></ul>
+      <p style="margin:10px 0 0">The answer key, the generation prompt and every writing brief are published in the repository, so a reader can see the test was fair.</p></div>
+  </div>
+</div></section>
+
+<section id="deals"><div class="wrap">
+  <p class="kicker">Evidence appendix</p>
+  <h2 class="sec-h">All 400 deals</h2>
+  <p class="sec-p">Every deal the agent read, with what the CRM says and what the agent coded. Open one to read the call.</p>
+  <div class="filters">
+    <label>Outcome<select id="f-out"><option value="">All</option><option value="lost">Lost</option><option value="won">Won</option></select></label>
+    <label>Company size<select id="f-seg"><option value="">All</option><option>50-99</option><option>100-199</option><option>200-500</option></select></label>
+    <label>Coded reason<select id="f-role"><option value="">All</option></select></label>
+    <label>CRM says<select id="f-crm"><option value="">All</option><option value="Price">Price</option><option value="other">Anything else</option></select></label>
+    <label>Search the calls<input id="f-q" type="search" placeholder="e.g. reciprocity"></label>
+  </div>
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+</div></section>
+
+<footer><div class="wrap">
+  <p>Lanternmere HR and Annika Lindqvist are fictional, as are Brasswick Payroll, Tallyhold, Corvane and every deal on this page. The starting figures in the memo are the sample client’s starting point. The deals are synthetic, with planted patterns. The scores are real, measured in this project against its own answer key. Nothing here is a finding about any real company or market, and nothing is deployed.</p>
+  <p>A proof of concept by Ryan Collins. <a href="https://github.com/RyColls/win-loss-intelligence-agent">Source, data, answer key and scores on GitHub</a> · <a href="#top">Back to top</a></p>
+</div></footer>
+
+<dialog id="dlg" aria-labelledby="dl-t"></dialog>
+
+<script>
+const D = /*__DATA__*/null;
+const $ = (s, r=document) => r.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const ROLE = {price:'Price', multistate:'Multi-state payroll tax', feature:'Other missing capability', broker:'Broker recommended a competitor',
+  slow_demo:'Slow demo', stall:'Project stalled', unclear:'No clear reason'};
+const ORDER = ['multistate','price','broker','slow_demo','stall','feature','unclear'];
+const SEGN = {'50-99':'50–99','100-199':'100–199','200-500':'200–500'};
+const deals = Object.fromEntries(D.deals.map(d => [d.id, d]));
+const claims = Object.fromEntries(D.brief.claims.map(c => [c.id, c]));
+const money = n => '$' + Number(n).toLocaleString('en-US');
+const r0 = n => Math.round(n);
+
+/* ---------- charts ---------- */
+function chartCRM() {
+  const c = D.stats.crm, a = c.crm_price_share, b = c.coded_price_share;
+  return `<figure><figcaption>The CRM says price three times as often as buyers do</figcaption><div class="pair">
+    <div class="r"><span>CRM dropdown</span><div class="bar" style="width:${a}%;background:var(--red)"></div><b>${r0(a)}%</b></div>
+    <div class="r"><span>Buyers’ own words</span><div class="bar" style="width:${b}%;background:var(--c-price)"></div><b>${r0(b)}%</b></div>
+    </div><div class="legend">Share of ${c.n_losses} lost deals where price is given as the main reason.</div></figure>`;
+}
+function chartSeg() {
+  const R = D.stats.reasons_by_segment;
+  const rows = Object.keys(SEGN).map(s => {
+    const segs = ORDER.filter(k => R[s].shares[k]).map(k => {
+      const v = R[s].shares[k];
+      return `<div class="seg" title="${esc(ROLE[k])}: ${r0(v)}% (${R[s].counts[k]} of ${R[s].n})" style="flex:${v};background:var(--c-${k});${k==='unclear'||k==='price'?'color:var(--ink)':''}">${v >= 9 ? r0(v) + '%' : ''}</div>`;
+    }).join('');
+    return `<div class="r"><span>${SEGN[s]}</span><div class="track" role="img" aria-label="${ORDER.filter(k => R[s].shares[k]).map(k => ROLE[k] + ' ' + r0(R[s].shares[k]) + '%').join(', ')}">${segs}</div></div>`;
+  }).join('');
+  return `<figure><figcaption>Each company size loses for a different main reason</figcaption><div class="stack">${rows}</div>
+    <div class="legend">${ORDER.map(k => `<span><i style="background:var(--c-${k})"></i>${esc(ROLE[k])}</span>`).join('')}</div></figure>`;
+}
+function chartFall() {
+  const d = D.stats.decomposition, w = D.stats.win_by_quarter, a = w[d.q0], b = w[d.q1], mix = Math.abs(d.mix_pts), perf = Math.abs(d.performance_pts);
+  const H = 120, px = v => v / a * H;
+  const col = (val, h, off, color, lab) => `<div class="col"><div class="val">${val}</div><div class="blk" style="height:${h}px;background:${color};margin-bottom:${off}px"></div></div>`;
+  return `<figure><figcaption>Less than half of the drop is a change in who we sell to</figcaption>
+    <div class="fall" role="img" aria-label="Win rate ${r0(a)} percent, minus ${mix.toFixed(1)} points from deal mix, minus ${perf.toFixed(1)} points from winning less within segments, equals ${r0(b)} percent">
+    ${col(r0(a) + '%', px(a), 0, 'var(--navy)')}${col('−' + mix.toFixed(1), px(mix), px(a - mix), 'var(--c-stall)')}${col('−' + perf.toFixed(1), px(perf), px(b), 'var(--red)')}${col(r0(b) + '%', px(b), 0, 'var(--navy)')}</div>
+    <div class="falllabs"><div class="lab">Win rate, ${d.q0}</div><div class="lab">More large-company deals in the mix</div><div class="lab">Winning less within each size</div><div class="lab">Win rate, ${d.q1}</div></div></figure>`;
+}
+
+/* ---------- the brief ---------- */
+const SECTIONS = {1:'The headline', 2:'Why we lose, by company size', 3:'The three theories', 4:'What winning deals have in common', 5:'Three recommended actions', 6:'What the data cannot tell us'};
+function claimHTML(c) {
+  let pre = '';
+  let text = c.text;
+  if (c.kind === 'verdict') {
+    const m = /^(.*?): (partly supported|not supported|supported)\. /.exec(text);
+    if (m) { const cls = m[2].startsWith('partly') ? 'v-partly' : m[2].startsWith('not') ? 'v-not' : 'v-supported';
+      pre = `<span class="tag ${cls}">${m[2][0].toUpperCase() + m[2].slice(1)}</span>`; text = m[1] + '. ' + text.slice(m[0].length); }
+  }
+  if (c.owner) pre = `<span class="tag owner">Owner: ${esc(c.owner)}</span>`;
+  return `<p>${pre}<span class="claim" role="button" tabindex="0" aria-expanded="false" data-c="${c.id}">${esc(text)}</span></p>`;
+}
+function renderBrief() {
+  const by = s => D.brief.claims.filter(c => c.section === s);
+  const sec = (s, extra='') => `<h3>${s}. ${SECTIONS[s]}</h3>${by(s).map(claimHTML).join('')}${extra}`;
+  const top = n => `<div class="top"><span>Lanternmere HR (fictional) · Board brief · Win/loss review, ${D.stats.decomposition.q0} to ${D.stats.decomposition.q1}</span><span>Page ${n} of 2</span></div>`;
+  $('#papers').innerHTML = `
+    <article class="paper">${top(1)}<h2>${esc(D.brief.title)}</h2>
+      <p class="sub">${D.deals.length} closed deals, ${D.stats.n_wins} won and ${D.stats.n_losses} lost. Reasons are coded from what buyers said on the calls, not from the CRM.</p>
+      ${sec(1, chartFall() + chartCRM())}${sec(2, chartSeg())}</article>
+    <article class="paper">${top(2)}${sec(3)}${sec(4)}${sec(5)}
+      <h3>6. ${SECTIONS[6]}</h3>${by(6).map(claimHTML).join('')}<ul class="limits">${D.brief.limits.map(l => `<li>${esc(l)}</li>`).join('')}</ul></article>`;
+}
+function showClaim(el) {
+  const c = claims[el.dataset.c];
+  document.querySelectorAll('.claim').forEach(x => x.setAttribute('aria-expanded', x === el ? 'true' : 'false'));
+  const figs = c.figs.map(f => `<li><b>${esc(f.shown)}${f.unit === 'pts' ? ' pts' : f.unit === 'x' ? '×' : ''}</b><span>${f.num !== undefined ? `${f.num} of ${f.den} deals` : f.unit === 'pts' ? 'points of win rate, from the shift-share split' : f.unit === 'n' ? 'deals, counted' : 'ratio of the two rates'}</span></li>`).join('');
+  const quotes = c.evidence.quotes.map(q => `<div class="q"><blockquote>“${esc(q.quote)}”</blockquote>
+    <button data-d="${q.deal_id}" data-q="${esc(q.quote)}">${esc(q.speaker)}, ${esc(q.company)} · ${q.deal_id} · read the call</button></div>`).join('');
+  const ids = c.evidence.deal_ids, CAP = 36;
+  const chips = ids.slice(0, CAP).map(i => `<button class="chip" data-d="${i}">${i}</button>`).join('');
+  const m = $('#margin');
+  m.innerHTML = `<h3>Evidence for this claim</h3><p class="ctext">${esc(c.text)}</p>
+    <h3>The numbers, recomputed in code</h3><ul class="figs">${figs}</ul>
+    ${quotes ? `<h3>In the buyers’ words</h3>${quotes}` : ''}
+    ${ids.length ? `<h3>${ids.length} deals behind it</h3><div class="chips" id="chips">${chips}</div>${ids.length > CAP ? `<button class="more" id="more">Show all ${ids.length}</button>` : ''}` : ''}
+    <p class="checked">Every quote matched its call word for word. Every number matched a recount.</p>`;
+  const more = $('#more');
+  if (more) more.onclick = () => { $('#chips').innerHTML = ids.map(i => `<button class="chip" data-d="${i}">${i}</button>`).join(''); more.remove(); };
+  if (matchMedia('(max-width:960px)').matches) { el.closest('p').after(m); }
+  else if (m.parentElement !== $('.reader')) { $('.reader').appendChild(m); }
+  m.scrollTop = 0;
+}
+document.addEventListener('click', e => {
+  const cl = e.target.closest('.claim'); if (cl) return showClaim(cl);
+  const d = e.target.closest('[data-d]'); if (d) return openDeal(d.dataset.d, d.dataset.q);
+});
+document.addEventListener('keydown', e => {
+  if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('claim')) { e.preventDefault(); showClaim(e.target); }
+});
+
+/* ---------- a deal ---------- */
+function markUp(text, quotes) {
+  let h = esc(text);
+  quotes.forEach(q => { const t = esc(q); const i = h.indexOf(t); if (i >= 0) h = h.slice(0, i) + '<mark>' + t + '</mark>' + h.slice(i + t.length); });
+  return h;
+}
+function openDeal(id, focusQuote) {
+  const d = deals[id], dlg = $('#dlg');
+  const qs = [...new Set([...(focusQuote ? [focusQuote] : []), ...d.quotes])];
+  const turns = d.notes.split('\n').filter(x => x.trim()).map(line => {
+    const i = line.indexOf(':');
+    const who = i > 0 && i < 60 ? line.slice(0, i) : '', body = who ? line.slice(i + 1).trim() : line;
+    return `<p class="turn">${who ? `<span class="who">${esc(who)}</span>` : ''}${markUp(body, qs)}</p>`;
+  }).join('');
+  const coded = d.won ? 'Won' : ROLE[d.role] + (d.sec ? ` (also: ${ROLE[d.sec].toLowerCase()})` : '');
+  dlg.innerHTML = `<div class="dl-h"><div><h3 id="dl-t">${esc(d.co)} · ${d.id}</h3>
+      <p>${d.won ? 'Won' : 'Lost'} · ${d.q} · ${SEGN[d.seg]} employees · ${esc(d.src)} lead · ${money(d.amt)} a year · ${d.wait} days to demo${d.comp !== 'none' ? ' · against ' + esc(d.comp) : ''}</p></div>
+      <button class="x" id="dl-x">Close</button></div>
+    <div class="dl-b">
+      ${d.won ? '' : `<div class="versus"><div>The CRM dropdown says<b>${esc(d.crm)}</b></div><div>The agent coded, from the call<b>${esc(coded)}</b>${d.conf ? d.conf + ' confidence' : ''}</div></div>`}
+      <p style="font-size:14px;color:var(--ink2);margin:0 0 12px">On the calls: ${esc(d.b1.join(', '))}; then ${esc(d.b2.join(', '))}. ${qs.length ? 'The agent’s quotes are highlighted.' : ''}</p>
+      ${turns}${d.email ? `<h4>Closing email</h4><div class="mail">${markUp(d.email, qs)}</div>` : ''}
+      ${d.won ? '' : `<div class="keybox"><button id="key-b" aria-expanded="false">Check this deal against the answer key</button><span id="key-o"></span></div>`}
+    </div>`;
+  $('#dl-x').onclick = () => dlg.close();
+  const kb = $('#key-b');
+  if (kb) kb.onclick = () => { kb.setAttribute('aria-expanded', 'true');
+    $('#key-o').innerHTML = `<br>Planted reason: <b>${esc(ROLE[d.truth])}</b>${d.truth2 ? ` (secondary: ${esc(ROLE[d.truth2].toLowerCase())})` : ''}. ${d.truth === d.role ? 'The agent’s main reason matches.' : 'The agent’s main reason differs.'}${d.truth2 && d.truth2 !== d.sec ? ' It did not pick up the secondary reason.' : ''} The agent never saw this.`; };
+  dlg.showModal();
+  const mk = dlg.querySelector('mark'); if (mk) mk.scrollIntoView({block:'center'});
+}
+$('#dlg').addEventListener('click', e => { if (e.target === $('#dlg')) $('#dlg').close(); });
+
+/* ---------- method ---------- */
+(function(){
+  const s = D.scores, a = D.accuracy, st = D.stability, cal = s.calibration;
+  const qi = s.quote_integrity, ni = s.number_integrity;
+  const rows = [
+    ['Pattern recovery', 'All 6 planted patterns found', `${s.pattern_recovery.found} of ${s.pattern_recovery.of}`],
+    ['False findings', '0', `${s.false_findings.count}`],
+    ['Coding accuracy', 'Report it', `${a.agree} of ${a.n} losses match the key on the main reason (${a.pct.toFixed(0)}%). Secondary reasons: ${a.secondary.recovered} of ${a.secondary.planted} recovered (${a.secondary.pct.toFixed(0)}%)`],
+    ['Quote integrity', '100%', `${qi.quotes_checked - qi.quotes_failed} of ${qi.quotes_checked} coder quotes are exact matches; ${qi.brief_quotes_checked - qi.brief_quotes_failed} of ${qi.brief_quotes_checked} quotes in the brief`],
+    ['Number integrity', '100%', `${ni.figures_checked - ni.problems.length} of ${ni.figures_checked} figures in the brief matched an independent recount`],
+    ['Calibration', 'Report both', Object.keys(cal).sort().map(k => `${k} confidence: ${cal[k].agree} of ${cal[k].n} correct`).join('; ') + (cal.low ? '' : '. No coding was rated low')],
+    ['Stability', 'Report disagreements', st ? `Two full runs agree on the main reason for ${st.same} of ${st.n} losses, on the secondary reason for ${st.secondary_same} and on confidence for ${st.confidence_same}. Verdicts ${st.verdicts_same ? 'match' : 'differ'}` : 'Not run'],
+  ];
+  $('#score').innerHTML = '<tr><th>Check</th><th>Target</th><th>Measured</th></tr>' + rows.map(r => `<tr><td>${r[0]}</td><td>${r[1]}</td><td class="res">${esc(r[2])}</td></tr>`).join('');
+  $('#ceiling').innerHTML = `<b>Read the ${a.pct.toFixed(0)}% with care.</b> A perfect match on ${a.n} deals says the test was too easy more than it says the agent is perfect. In these synthetic calls a buyer who has a reason states it fairly plainly. Real calls are messier. For scale, a keyword-matching baseline on the same deals matched ${D.keyword.agree} of ${a.n} (${D.keyword.pct.toFixed(0)}%) and found ${D.keyword.patterns} of 6 patterns, and the CRM dropdown’s “Price” was right on ${s.crm_dropdown_baseline.crm_price_correct} of ${s.crm_dropdown_baseline.crm_price_n} losses (${s.crm_dropdown_baseline.pct.toFixed(0)}%). The harder measure is the secondary reason, where the agent recovered only ${a.secondary.recovered} of ${a.secondary.planted}.`;
+  $('#byreason').innerHTML = '<tr><th>Planted reason</th><th>Matched</th></tr>' + Object.entries(a.by_reason).map(([k, v]) => `<tr><td><span class="dot" style="background:var(--c-${k})"></span>${esc(ROLE[k])}</td><td>${v.agree} of ${v.n}</td></tr>`).join('');
+  $('#weak').innerHTML = [
+    `Secondary reasons are mostly missed: ${a.secondary.recovered} of ${a.secondary.planted}. The agent was told to add one only when clearly present, and it erred toward leaving it out.`,
+    'Confidence ratings could not be tested. Every coding was right, so high and medium confidence look the same here.',
+    'The reason categories came from a 40-deal sample and were accepted as proposed, with no second reviewer. A reason no sampled buyer mentioned would have no category.',
+    'The model answers on this page were recorded from Claude Sonnet and Haiku running as subagents, then replayed. The direct API path is in the code and is unit-tested against a fake client, but was not run against the live API in this build.',
+    'A win-rate gap for slow demos or finance leaders is an association in 400 deals. It is not proof of cause.'
+  ].map(x => `<li>${esc(x)}</li>`).join('');
+  $('#trails').innerHTML = `<li><b>Rep tenure.</b> ${esc(s.false_findings.rep_tenure.replace(/^tested: /, '').replace(/; not reported.*/, ''))}. No real difference, so it is not in the brief.</li>
+    <li><b>Mobile app complaints.</b> Vivid, and planted in 8 calls. The agent coded none of them as the reason for a loss, and the brief does not mention them.</li>`;
+})();
+
+/* ---------- appendix ---------- */
+(function(){
+  $('#f-role').innerHTML += ORDER.map(k => `<option value="${k}">${esc(ROLE[k])}</option>`).join('');
+  const draw = () => {
+    const o = $('#f-out').value, sg = $('#f-seg').value, ro = $('#f-role').value, cr = $('#f-crm').value, q = $('#f-q').value.trim().toLowerCase();
+    const rows = D.deals.filter(d => (!o || (o === 'won') === d.won) && (!sg || d.seg === sg) && (!ro || d.role === ro)
+      && (!cr || (cr === 'Price' ? d.crm === 'Price' : (d.crm && d.crm !== 'Price'))) && (!q || (d.notes + ' ' + (d.email || '') + ' ' + d.co).toLowerCase().includes(q)));
+    $('#count').textContent = `${rows.length} of ${D.deals.length} deals`;
+    $('#list').innerHTML = rows.map(d => `<button class="row" data-d="${d.id}"><b>${d.id}</b><span class="dim hide-s">${d.q}</span><span>${esc(d.co)}</span>
+      <span class="dim hide-s">${SEGN[d.seg]} staff</span><span class="dim">${d.won ? 'Won' : 'CRM: ' + esc(d.crm)}</span>
+      <span>${d.won ? '' : `<span class="dot" style="background:var(--c-${d.role})"></span>${esc(ROLE[d.role])}`}</span></button>`).join('') || '<p style="padding:14px;margin:0;color:var(--ink2)">No deals match. Clear a filter.</p>';
+  };
+  ['f-out','f-seg','f-role','f-crm'].forEach(i => $('#' + i).addEventListener('change', draw));
+  $('#f-q').addEventListener('input', draw);
+  draw();
+})();
+
+renderBrief();
+if (location.hash.startsWith('#D') && deals[location.hash.slice(1)]) openDeal(location.hash.slice(1));
+</script>
+</body>
+</html>

@@ -1,0 +1,1069 @@
+[
+ {
+  "deal_id": "D041",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Plumtree Foods",
+  "segment_employees": 173,
+  "states_with_employees": 4,
+  "lead_source": "outbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Soren Hollander",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "VP of People"
+  ],
+  "second_buyer_name": "Wren Vasquez",
+  "buyer_titles_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 265,
+  "what_the_buyer_conveys": "They waited 4 days between the first call and the demo. By the time it happened the momentum or the sponsor's patience was gone and they had started something else. The buyer mentions the wait explicitly.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 60
+ },
+ {
+  "deal_id": "D042",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Juniper Labs",
+  "segment_employees": 115,
+  "states_with_employees": 3,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Bastian Zeller",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Dariusz Galbraith",
+  "buyer_titles_call2": [
+   "Benefits Manager",
+   "IT Manager"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 339,
+  "what_the_buyer_conveys": "A specific missing capability decided it: time-off accrual rules that differ by location. Not tax handling, not price. Secondary, mentioned briefly and clearly less important: They waited 7 days between the first call and the demo.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 103
+ },
+ {
+  "deal_id": "D043",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Juniper Dental Group",
+  "segment_employees": 150,
+  "states_with_employees": 3,
+  "lead_source": "outbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 10,
+  "buyer_name": "Marisol Dunmore",
+  "buyer_titles_call1": [
+   "Director of Operations",
+   "COO"
+  ],
+  "second_buyer_name": "Beatrix Hollander",
+  "buyer_titles_call2": [
+   "CFO"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 181,
+  "what_the_buyer_conveys": "They waited 10 days between the first call and the demo. By the time it happened the momentum or the sponsor's patience was gone and they had started something else. The buyer mentions the wait explicitly. Secondary, mentioned briefly and clearly less important: A specific missing capability decided it: time-off accrual rules that differ by location.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 77
+ },
+ {
+  "deal_id": "D044",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Ostrander Design Studio",
+  "segment_employees": 141,
+  "states_with_employees": 2,
+  "lead_source": "outbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Amara Rourke",
+  "buyer_titles_call1": [
+   "COO",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Priya Delacroix",
+  "buyer_titles_call2": [
+   "Operations Director",
+   "Head of People"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 261,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 86
+ },
+ {
+  "deal_id": "D045",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Pinecrest Analytics",
+  "segment_employees": 121,
+  "states_with_employees": 5,
+  "lead_source": "broker",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Rafferty Moreau",
+  "buyer_titles_call1": [
+   "VP of People",
+   "Chief People Officer"
+  ],
+  "second_buyer_name": "Maren Santangelo",
+  "buyer_titles_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 351,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 92
+ },
+ {
+  "deal_id": "D046",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Nettlebed Dental Group",
+  "segment_employees": 107,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Teodoro Ivarsson",
+  "buyer_titles_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Bram Santangelo",
+  "buyer_titles_call2": [
+   "HR Director",
+   "Compliance Lead"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 258,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 102
+ },
+ {
+  "deal_id": "D047",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Cobbledge Fabrication",
+  "segment_employees": 179,
+  "states_with_employees": 3,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Noor Vasquez",
+  "buyer_titles_call1": [
+   "Chief People Officer"
+  ],
+  "second_buyer_name": "Odalys Lindgren",
+  "buyer_titles_call2": [
+   "CFO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 374,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 89
+ },
+ {
+  "deal_id": "D048",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Kingsfold Health Partners",
+  "segment_employees": 122,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Fenella Nakamura",
+  "buyer_titles_call1": [
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Signe Ashgrove",
+  "buyer_titles_call2": [
+   "CFO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 230,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 87
+ },
+ {
+  "deal_id": "D049",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Quarry Design Studio",
+  "segment_employees": 183,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Oriel Rourke",
+  "buyer_titles_call1": [
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Signe Vasquez",
+  "buyer_titles_call2": [
+   "CFO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 239,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 89
+ },
+ {
+  "deal_id": "D050",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Saltmarsh Fabrication",
+  "segment_employees": 133,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 9,
+  "buyer_name": "Marisol Dunmore",
+  "buyer_titles_call1": [
+   "VP of People",
+   "Head of HR",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Rafferty Petrakis",
+  "buyer_titles_call2": [
+   "General Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 266,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 69
+ },
+ {
+  "deal_id": "D051",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Elmcroft Insurance Services",
+  "segment_employees": 157,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Thaddeus Thorsen",
+  "buyer_titles_call1": [
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Annelise Oyelaran",
+  "buyer_titles_call2": [
+   "HR Director",
+   "COO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 358,
+  "what_the_buyer_conveys": "They waited 5 days between the first call and the demo. By the time it happened the momentum or the sponsor's patience was gone and they had started something else. The buyer mentions the wait explicitly.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 61
+ },
+ {
+  "deal_id": "D052",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Outfitters",
+  "segment_employees": 145,
+  "states_with_employees": 4,
+  "lead_source": "broker",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 2,
+  "buyer_name": "Priya Parekh",
+  "buyer_titles_call1": [
+   "HR Director",
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Jules Valdivia",
+  "buyer_titles_call2": [
+   "Operations Director",
+   "Benefits Manager"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 311,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 66
+ },
+ {
+  "deal_id": "D053",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Veterinary Partners",
+  "segment_employees": 180,
+  "states_with_employees": 4,
+  "lead_source": "broker",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Linnea Ashgrove",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "HR Director"
+  ],
+  "second_buyer_name": "Beatrix Moreau",
+  "buyer_titles_call2": [
+   "Head of People",
+   "Payroll Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 342,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 91
+ },
+ {
+  "deal_id": "D054",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Marlow Veterinary Partners",
+  "segment_employees": 152,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Emeka Lindgren",
+  "buyer_titles_call1": [
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Bastian Abernethy",
+  "buyer_titles_call2": [
+   "Benefits Manager",
+   "COO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 262,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 80
+ },
+ {
+  "deal_id": "D055",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Hawkridge Engineering",
+  "segment_employees": 129,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 21,
+  "buyer_name": "Amara Petrakis",
+  "buyer_titles_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Ravi Vasquez",
+  "buyer_titles_call2": [
+   "Benefits Manager",
+   "HR Director"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 239,
+  "what_the_buyer_conveys": "A specific missing capability decided it: automatic benefits carrier file feeds. Not tax handling, not price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 94
+ },
+ {
+  "deal_id": "D056",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Juniper Media",
+  "segment_employees": 102,
+  "states_with_employees": 3,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 11,
+  "buyer_name": "Priya Petrakis",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Wren Castellane",
+  "buyer_titles_call2": [
+   "COO"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 360,
+  "what_the_buyer_conveys": "Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals. The buyer mentions the broker by role ('our broker') and says the bundle is what the broker put in front of them.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 97
+ },
+ {
+  "deal_id": "D057",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Plumtree Supply",
+  "segment_employees": 174,
+  "states_with_employees": 3,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Bastian Parekh",
+  "buyer_titles_call1": [
+   "HR Director",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Ingrid Zeller",
+  "buyer_titles_call2": [
+   "Finance Director",
+   "General Manager"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 280,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 52
+ },
+ {
+  "deal_id": "D058",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Oakhaven Brewing",
+  "segment_employees": 121,
+  "states_with_employees": 2,
+  "lead_source": "outbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Signe Cadogan",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "HR Director",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Soren Ashgrove",
+  "buyer_titles_call2": [
+   "IT Manager"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 283,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 105
+ },
+ {
+  "deal_id": "D059",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Zephyr Logistics",
+  "segment_employees": 133,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Lucian Santangelo",
+  "buyer_titles_call1": [
+   "VP of People",
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Signe Zeller",
+  "buyer_titles_call2": [
+   "Payroll Manager"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 198,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 78
+ },
+ {
+  "deal_id": "D060",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Marlow Brewing",
+  "segment_employees": 132,
+  "states_with_employees": 2,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Hollis Ashgrove",
+  "buyer_titles_call1": [
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Noor Ivarsson",
+  "buyer_titles_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 327,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 52
+ },
+ {
+  "deal_id": "D061",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Brightwater Freight",
+  "segment_employees": 144,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Linnea Ashgrove",
+  "buyer_titles_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Dariusz Thorsen",
+  "buyer_titles_call2": [
+   "COO"
+  ],
+  "voice": "brisk and practical",
+  "target_words_call_notes": 270,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 74
+ },
+ {
+  "deal_id": "D062",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Brightwater Builders",
+  "segment_employees": 163,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 6,
+  "buyer_name": "Omar Castellane",
+  "buyer_titles_call1": [
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Omar Abernethy",
+  "buyer_titles_call2": [
+   "General Manager",
+   "IT Manager"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 198,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 99
+ },
+ {
+  "deal_id": "D063",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Staffing",
+  "segment_employees": 167,
+  "states_with_employees": 2,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 11,
+  "buyer_name": "Ingrid Parekh",
+  "buyer_titles_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Emeka Thorsen",
+  "buyer_titles_call2": [
+   "Head of People",
+   "COO"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 222,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number. Secondary, mentioned briefly and clearly less important: They waited 11 days between the first call and the demo.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 107
+ },
+ {
+  "deal_id": "D064",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Pinecrest Supply",
+  "segment_employees": 118,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 2,
+  "buyer_name": "Thaddeus Hartigan",
+  "buyer_titles_call1": [
+   "COO",
+   "Chief People Officer"
+  ],
+  "second_buyer_name": "Idris Thorsen",
+  "buyer_titles_call2": [
+   "Operations Director",
+   "General Manager"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 175,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 104
+ },
+ {
+  "deal_id": "D065",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Vesper Clinics",
+  "segment_employees": 169,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Dariusz Ashgrove",
+  "buyer_titles_call1": [
+   "Office Manager",
+   "HR Director"
+  ],
+  "second_buyer_name": "Fenella Abernethy",
+  "buyer_titles_call2": [
+   "General Manager",
+   "IT Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 223,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 58
+ },
+ {
+  "deal_id": "D066",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Nettlebed Robotics",
+  "segment_employees": 170,
+  "states_with_employees": 2,
+  "lead_source": "outbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 1,
+  "buyer_name": "Lucian Thorsen",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "HR Director",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Rafferty Fairweather",
+  "buyer_titles_call2": [
+   "Benefits Manager"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 171,
+  "what_the_buyer_conveys": "They waited 1 days between the first call and the demo. By the time it happened the momentum or the sponsor's patience was gone and they had started something else. The buyer mentions the wait explicitly. Secondary, mentioned briefly and clearly less important: The project stalled: a budget freeze, a change of priorities or a sponsor leaving.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 46
+ },
+ {
+  "deal_id": "D067",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Quarry Energy Services",
+  "segment_employees": 156,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Emeka Brannigan",
+  "buyer_titles_call1": [
+   "VP of People",
+   "COO",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Kwame Vasquez",
+  "buyer_titles_call2": [
+   "Operations Director"
+  ],
+  "voice": "brisk and practical",
+  "target_words_call_notes": 266,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 69
+ },
+ {
+  "deal_id": "D068",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Hawkridge Freight",
+  "segment_employees": 192,
+  "states_with_employees": 2,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Tobias Ivarsson",
+  "buyer_titles_call1": [
+   "COO"
+  ],
+  "second_buyer_name": "Bastian Abernethy",
+  "buyer_titles_call2": [
+   "COO",
+   "Benefits Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 306,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear).",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 75
+ },
+ {
+  "deal_id": "D069",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Kingsfold Veterinary Partners",
+  "segment_employees": 158,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Teodoro Quillfeather",
+  "buyer_titles_call1": [
+   "People Operations Lead",
+   "HR Director"
+  ],
+  "second_buyer_name": "Beatrix Hollander",
+  "buyer_titles_call2": [
+   "HR Director"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 375,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 71
+ },
+ {
+  "deal_id": "D070",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Brightwater Supply",
+  "segment_employees": 159,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 14,
+  "buyer_name": "Fenella Brannigan",
+  "buyer_titles_call1": [
+   "HR Director",
+   "COO"
+  ],
+  "second_buyer_name": "Marisol Hollander",
+  "buyer_titles_call2": [
+   "IT Manager",
+   "HR Director"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 249,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 69
+ },
+ {
+  "deal_id": "D071",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Elmcroft Schools Network",
+  "segment_employees": 147,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Greta Castellane",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Idris Lindgren",
+  "buyer_titles_call2": [
+   "VP Finance",
+   "Compliance Lead"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 303,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 59
+ },
+ {
+  "deal_id": "D072",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Umber Fabrication",
+  "segment_employees": 115,
+  "states_with_employees": 4,
+  "lead_source": "broker",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 6,
+  "buyer_name": "Kwame Hartigan",
+  "buyer_titles_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Lucian Delacroix",
+  "buyer_titles_call2": [
+   "Head of Finance",
+   "Head of People"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 261,
+  "what_the_buyer_conveys": "A specific missing capability decided it: flexible reporting for their board. Not tax handling, not price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 58
+ },
+ {
+  "deal_id": "D073",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Marlow Health Partners",
+  "segment_employees": 179,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Fenella Petrakis",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Fenella Fairweather",
+  "buyer_titles_call2": [
+   "HR Director"
+  ],
+  "voice": "brisk and practical",
+  "target_words_call_notes": 262,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price. Secondary, mentioned briefly and clearly less important: They waited 4 days between the first call and the demo.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 75
+ },
+ {
+  "deal_id": "D074",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Insurance Services",
+  "segment_employees": 142,
+  "states_with_employees": 3,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Odalys Yarrow",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "HR Generalist",
+   "HR Director"
+  ],
+  "second_buyer_name": "Kofi Brannigan",
+  "buyer_titles_call2": [
+   "Compliance Lead",
+   "General Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 179,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 47
+ },
+ {
+  "deal_id": "D075",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Vesper Engineering",
+  "segment_employees": 168,
+  "states_with_employees": 2,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Annelise Whitlock",
+  "buyer_titles_call1": [
+   "COO",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Bastian Thorsen",
+  "buyer_titles_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 283,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number. Secondary, mentioned briefly and clearly less important: A specific missing capability decided it: an applicant tracking module.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 105
+ },
+ {
+  "deal_id": "D076",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Umber Builders",
+  "segment_employees": 131,
+  "states_with_employees": 5,
+  "lead_source": "broker",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 2,
+  "buyer_name": "Kwame Jessamy",
+  "buyer_titles_call1": [
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Soren Delacroix",
+  "buyer_titles_call2": [
+   "Operations Director",
+   "IT Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 371,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 66
+ },
+ {
+  "deal_id": "D077",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Umber Schools Network",
+  "segment_employees": 146,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Oriel Yarrow",
+  "buyer_titles_call1": [
+   "Office Manager",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Ingrid Ashgrove",
+  "buyer_titles_call2": [
+   "HR Director",
+   "Head of People"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 267,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 77
+ },
+ {
+  "deal_id": "D078",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Kestrel Logistics",
+  "segment_employees": 118,
+  "states_with_employees": 2,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Sunniva Delacroix",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "second_buyer_name": "Ingrid Thorsen",
+  "buyer_titles_call2": [
+   "IT Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 319,
+  "what_the_buyer_conveys": "Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals. The buyer mentions the broker by role ('our broker') and says the bundle is what the broker put in front of them. Secondary, mentioned briefly and clearly less important: A specific missing capability decided it: automatic benefits carrier file feeds.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 101
+ },
+ {
+  "deal_id": "D079",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Nettlebed Brewing",
+  "segment_employees": 103,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 15,
+  "buyer_name": "Kofi Jessamy",
+  "buyer_titles_call1": [
+   "People Operations Lead",
+   "COO"
+  ],
+  "second_buyer_name": "Idris Valdivia",
+  "buyer_titles_call2": [
+   "Head of People",
+   "Operations Director"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 264,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price. Secondary, mentioned briefly and clearly less important: They waited 15 days between the first call and the demo.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 57
+ },
+ {
+  "deal_id": "D080",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Ostrander Staffing",
+  "segment_employees": 157,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Priya Jessamy",
+  "buyer_titles_call1": [
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Greta Valdivia",
+  "buyer_titles_call2": [
+   "Finance Director"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 249,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 93
+ }
+]

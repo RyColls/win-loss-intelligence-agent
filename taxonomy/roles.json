@@ -1,0 +1,8 @@
+{
+ "price": ["price_over_budget"],
+ "multistate": ["tax_confidence"],
+ "feature": ["product_gap"],
+ "broker": ["broker_recommendation"],
+ "slow_demo": ["slow_response"],
+ "stall": ["budget_freeze"]
+}

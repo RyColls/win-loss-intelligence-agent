@@ -1,0 +1,163 @@
+{
+ "run": "recorded_B",
+ "backend": "recorded-B",
+ "model": "claude-sonnet-5-5 (Claude Code subagent)",
+ "pattern_recovery": {
+  "found": 6,
+  "of": 6,
+  "detail": [
+   {
+    "pattern": "P1 Feature gap upmarket",
+    "found": true,
+    "evidence": "200-500 losses: multi-state tax is the top reason at 54%; CRM says Price on 53% of them"
+   },
+   {
+    "pattern": "P2 Mix shift",
+    "found": true,
+    "evidence": "200-500 share 20% to 44%; mix explains 3.8 of 9.0 points"
+   },
+   {
+    "pattern": "P3 Broker conflict",
+    "found": true,
+    "evidence": "34% of broker losses coded broker-recommended (vs 0% elsewhere); 100% of those went to the bundler"
+   },
+   {
+    "pattern": "P4 Slow demos",
+    "found": true,
+    "evidence": "win rate 14% after a wait over 10 days vs 27%; slow share 16% to 41%"
+   },
+   {
+    "pattern": "P5 Finance leader on call two",
+    "found": true,
+    "evidence": "34% with a finance leader vs 20% without (1.7x)"
+   },
+   {
+    "pattern": "P6 Price is real in one place",
+    "found": true,
+    "evidence": "top reason by segment: {'50-99': 'price', '100-199': 'slow_demo', '200-500': 'multistate'}"
+   }
+  ]
+ },
+ "false_findings": {
+  "count": 0,
+  "claims": [],
+  "rep_tenure": "tested: won 44 months vs lost 48, p=0.22; not reported as a finding",
+  "mobile_app": "tested: 18 deals mention it, win rate 11% vs 24%, p=0.27; not reported as a finding"
+ },
+ "coding_accuracy": {
+  "n": 305,
+  "agree": 305,
+  "pct": 100.0,
+  "by_reason": {
+   "broker": {
+    "agree": 41,
+    "n": 41,
+    "pct": 100.0
+   },
+   "feature": {
+    "agree": 28,
+    "n": 28,
+    "pct": 100.0
+   },
+   "multistate": {
+    "agree": 57,
+    "n": 57,
+    "pct": 100.0
+   },
+   "price": {
+    "agree": 61,
+    "n": 61,
+    "pct": 100.0
+   },
+   "slow_demo": {
+    "agree": 45,
+    "n": 45,
+    "pct": 100.0
+   },
+   "stall": {
+    "agree": 33,
+    "n": 33,
+    "pct": 100.0
+   },
+   "unclear": {
+    "agree": 40,
+    "n": 40,
+    "pct": 100.0
+   }
+  },
+  "by_confidence": {
+   "high": {
+    "agree": 285,
+    "n": 285,
+    "pct": 100.0
+   },
+   "medium": {
+    "agree": 20,
+    "n": 20,
+    "pct": 100.0
+   }
+  },
+  "confusion": {
+   "unclear": {
+    "unclear": 40
+   },
+   "feature": {
+    "feature": 28
+   },
+   "price": {
+    "price": 61
+   },
+   "slow_demo": {
+    "slow_demo": 45
+   },
+   "broker": {
+    "broker": 41
+   },
+   "stall": {
+    "stall": 33
+   },
+   "multistate": {
+    "multistate": 57
+   }
+  },
+  "disagreements": [],
+  "disagreements_matching_true_secondary": 0,
+  "secondary": {
+   "planted": 89,
+   "recovered": 25,
+   "pct": 28.089887640449437,
+   "coded_where_none_planted": 0
+  }
+ },
+ "crm_dropdown_baseline": {
+  "crm_price_n": 186,
+  "crm_price_correct": 61,
+  "pct": 32.795698924731184
+ },
+ "quote_integrity": {
+  "quotes_checked": 353,
+  "quotes_failed": 0,
+  "codings_dropped": 0,
+  "quote_integrity_pct": 100.0,
+  "brief_quotes_checked": 39,
+  "brief_quotes_failed": 0,
+  "pct_in_brief": 100.0
+ },
+ "number_integrity": {
+  "figures_checked": 49,
+  "problems": [],
+  "number_integrity_pct": 100.0
+ },
+ "calibration": {
+  "high": {
+   "agree": 285,
+   "n": 285,
+   "pct": 100.0
+  },
+  "medium": {
+   "agree": 20,
+   "n": 20,
+   "pct": 100.0
+  }
+ }
+}

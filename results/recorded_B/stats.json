@@ -1,0 +1,638 @@
+{
+ "n_deals": 400,
+ "n_losses": 305,
+ "n_wins": 95,
+ "win_rates": {
+  "overall": 23.75,
+  "by_quarter": {
+   "2025-Q4": 28.0,
+   "2026-Q1": 26.0,
+   "2026-Q2": 22.0,
+   "2026-Q3": 19.0
+  },
+  "by_segment": {
+   "50-99": 28.46153846153846,
+   "100-199": 25.35211267605634,
+   "200-500": 17.1875
+  },
+  "by_quarter_segment": {
+   "2025-Q4|50-99": {
+    "n": 40,
+    "wins": 12,
+    "rate": 30.0
+   },
+   "2025-Q4|100-199": {
+    "n": 40,
+    "wins": 13,
+    "rate": 32.5
+   },
+   "2025-Q4|200-500": {
+    "n": 20,
+    "wins": 3,
+    "rate": 15.0
+   },
+   "2026-Q1|50-99": {
+    "n": 36,
+    "wins": 10,
+    "rate": 27.77777777777778
+   },
+   "2026-Q1|100-199": {
+    "n": 36,
+    "wins": 13,
+    "rate": 36.111111111111114
+   },
+   "2026-Q1|200-500": {
+    "n": 28,
+    "wins": 3,
+    "rate": 10.714285714285714
+   },
+   "2026-Q2|50-99": {
+    "n": 30,
+    "wins": 9,
+    "rate": 30.0
+   },
+   "2026-Q2|100-199": {
+    "n": 34,
+    "wins": 5,
+    "rate": 14.705882352941176
+   },
+   "2026-Q2|200-500": {
+    "n": 36,
+    "wins": 8,
+    "rate": 22.22222222222222
+   },
+   "2026-Q3|50-99": {
+    "n": 24,
+    "wins": 6,
+    "rate": 25.0
+   },
+   "2026-Q3|100-199": {
+    "n": 32,
+    "wins": 5,
+    "rate": 15.625
+   },
+   "2026-Q3|200-500": {
+    "n": 44,
+    "wins": 8,
+    "rate": 18.181818181818183
+   }
+  }
+ },
+ "mix": {
+  "2025-Q4": {
+   "50-99": 40.0,
+   "100-199": 40.0,
+   "200-500": 20.0
+  },
+  "2026-Q1": {
+   "50-99": 36.0,
+   "100-199": 36.0,
+   "200-500": 28.0
+  },
+  "2026-Q2": {
+   "50-99": 30.0,
+   "100-199": 34.0,
+   "200-500": 36.0
+  },
+  "2026-Q3": {
+   "50-99": 24.0,
+   "100-199": 32.0,
+   "200-500": 44.0
+  }
+ },
+ "decomposition": {
+  "q0": "2025-Q4",
+  "q1": "2026-Q3",
+  "total_pts": -9.0,
+  "mix_pts": -3.800000000000002,
+  "performance_pts": -5.2,
+  "mix_share_of_decline": 42.22222222222224,
+  "shares": {
+   "50-99": {
+    "q0": 40.0,
+    "q1": 24.0
+   },
+   "100-199": {
+    "q0": 40.0,
+    "q1": 32.0
+   },
+   "200-500": {
+    "q0": 20.0,
+    "q1": 44.0
+   }
+  },
+  "segment_rates": {
+   "50-99": {
+    "q0": 30.0,
+    "q1": 25.0
+   },
+   "100-199": {
+    "q0": 32.5,
+    "q1": 15.625
+   },
+   "200-500": {
+    "q0": 15.0,
+    "q1": 18.181818181818183
+   }
+  }
+ },
+ "reasons_by_segment": {
+  "100-199": {
+   "n": 106,
+   "counts": {
+    "slow_demo": 24,
+    "feature": 18,
+    "unclear": 14,
+    "stall": 20,
+    "price": 19,
+    "broker": 11
+   },
+   "shares": {
+    "slow_demo": 22.641509433962263,
+    "feature": 16.9811320754717,
+    "unclear": 13.20754716981132,
+    "stall": 18.867924528301888,
+    "price": 17.92452830188679,
+    "broker": 10.377358490566039
+   }
+  },
+  "200-500": {
+   "n": 106,
+   "counts": {
+    "multistate": 57,
+    "unclear": 17,
+    "stall": 6,
+    "broker": 12,
+    "feature": 4,
+    "slow_demo": 9,
+    "price": 1
+   },
+   "shares": {
+    "multistate": 53.77358490566038,
+    "unclear": 16.037735849056602,
+    "stall": 5.660377358490566,
+    "broker": 11.320754716981131,
+    "feature": 3.7735849056603774,
+    "slow_demo": 8.49056603773585,
+    "price": 0.9433962264150944
+   }
+  },
+  "50-99": {
+   "n": 93,
+   "counts": {
+    "unclear": 9,
+    "feature": 6,
+    "price": 41,
+    "slow_demo": 12,
+    "broker": 18,
+    "stall": 7
+   },
+   "shares": {
+    "unclear": 9.67741935483871,
+    "feature": 6.451612903225806,
+    "price": 44.086021505376344,
+    "slow_demo": 12.903225806451612,
+    "broker": 19.35483870967742,
+    "stall": 7.526881720430108
+   }
+  }
+ },
+ "reasons_by_source": {
+  "broker": {
+   "n": 122,
+   "counts": {
+    "unclear": 13,
+    "feature": 11,
+    "broker": 41,
+    "price": 18,
+    "stall": 8,
+    "multistate": 21,
+    "slow_demo": 10
+   },
+   "shares": {
+    "unclear": 10.655737704918034,
+    "feature": 9.01639344262295,
+    "broker": 33.60655737704918,
+    "price": 14.754098360655737,
+    "stall": 6.557377049180328,
+    "multistate": 17.21311475409836,
+    "slow_demo": 8.19672131147541
+   }
+  },
+  "inbound": {
+   "n": 159,
+   "counts": {
+    "price": 39,
+    "slow_demo": 29,
+    "stall": 23,
+    "unclear": 25,
+    "feature": 15,
+    "multistate": 28
+   },
+   "shares": {
+    "price": 24.528301886792452,
+    "slow_demo": 18.238993710691823,
+    "stall": 14.465408805031446,
+    "unclear": 15.723270440251572,
+    "feature": 9.433962264150944,
+    "multistate": 17.61006289308176
+   }
+  },
+  "outbound": {
+   "n": 24,
+   "counts": {
+    "unclear": 2,
+    "slow_demo": 6,
+    "multistate": 8,
+    "price": 4,
+    "feature": 2,
+    "stall": 2
+   },
+   "shares": {
+    "unclear": 8.333333333333334,
+    "slow_demo": 25.0,
+    "multistate": 33.333333333333336,
+    "price": 16.666666666666668,
+    "feature": 8.333333333333334,
+    "stall": 8.333333333333334
+   }
+  }
+ },
+ "reasons_by_competitor": {
+  "Brasswick Payroll": {
+   "n": 69,
+   "counts": {
+    "unclear": 14,
+    "feature": 8,
+    "price": 16,
+    "slow_demo": 15,
+    "multistate": 16
+   },
+   "shares": {
+    "unclear": 20.28985507246377,
+    "feature": 11.594202898550725,
+    "price": 23.18840579710145,
+    "slow_demo": 21.73913043478261,
+    "multistate": 23.18840579710145
+   }
+  },
+  "Corvane": {
+   "n": 63,
+   "counts": {
+    "slow_demo": 14,
+    "unclear": 8,
+    "feature": 6,
+    "multistate": 35
+   },
+   "shares": {
+    "slow_demo": 22.22222222222222,
+    "unclear": 12.698412698412698,
+    "feature": 9.523809523809524,
+    "multistate": 55.55555555555556
+   }
+  },
+  "Tallyhold": {
+   "n": 106,
+   "counts": {
+    "feature": 7,
+    "price": 35,
+    "slow_demo": 7,
+    "broker": 41,
+    "unclear": 10,
+    "multistate": 6
+   },
+   "shares": {
+    "feature": 6.60377358490566,
+    "price": 33.0188679245283,
+    "slow_demo": 6.60377358490566,
+    "broker": 38.679245283018865,
+    "unclear": 9.433962264150944,
+    "multistate": 5.660377358490566
+   }
+  },
+  "none": {
+   "n": 67,
+   "counts": {
+    "unclear": 8,
+    "stall": 33,
+    "price": 10,
+    "feature": 7,
+    "slow_demo": 9
+   },
+   "shares": {
+    "unclear": 11.940298507462687,
+    "stall": 49.25373134328358,
+    "price": 14.925373134328359,
+    "feature": 10.447761194029852,
+    "slow_demo": 13.432835820895523
+   }
+  }
+ },
+ "reasons_by_quarter": {
+  "2025-Q4": {
+   "n": 72,
+   "counts": {
+    "unclear": 10,
+    "feature": 7,
+    "price": 16,
+    "slow_demo": 8,
+    "broker": 10,
+    "stall": 12,
+    "multistate": 9
+   },
+   "shares": {
+    "unclear": 13.88888888888889,
+    "feature": 9.722222222222221,
+    "price": 22.22222222222222,
+    "slow_demo": 11.11111111111111,
+    "broker": 13.88888888888889,
+    "stall": 16.666666666666668,
+    "multistate": 12.5
+   }
+  },
+  "2026-Q1": {
+   "n": 74,
+   "counts": {
+    "price": 19,
+    "broker": 8,
+    "slow_demo": 8,
+    "stall": 8,
+    "unclear": 8,
+    "feature": 8,
+    "multistate": 15
+   },
+   "shares": {
+    "price": 25.675675675675677,
+    "broker": 10.81081081081081,
+    "slow_demo": 10.81081081081081,
+    "stall": 10.81081081081081,
+    "unclear": 10.81081081081081,
+    "feature": 10.81081081081081,
+    "multistate": 20.27027027027027
+   }
+  },
+  "2026-Q2": {
+   "n": 78,
+   "counts": {
+    "feature": 10,
+    "slow_demo": 10,
+    "stall": 8,
+    "price": 12,
+    "unclear": 9,
+    "broker": 12,
+    "multistate": 17
+   },
+   "shares": {
+    "feature": 12.820512820512821,
+    "slow_demo": 12.820512820512821,
+    "stall": 10.256410256410257,
+    "price": 15.384615384615385,
+    "unclear": 11.538461538461538,
+    "broker": 15.384615384615385,
+    "multistate": 21.794871794871796
+   }
+  },
+  "2026-Q3": {
+   "n": 81,
+   "counts": {
+    "slow_demo": 19,
+    "broker": 11,
+    "price": 14,
+    "unclear": 13,
+    "stall": 5,
+    "feature": 3,
+    "multistate": 16
+   },
+   "shares": {
+    "slow_demo": 23.45679012345679,
+    "broker": 13.580246913580247,
+    "price": 17.28395061728395,
+    "unclear": 16.049382716049383,
+    "stall": 6.172839506172839,
+    "feature": 3.7037037037037037,
+    "multistate": 19.753086419753085
+   }
+  }
+ },
+ "primary_by_segment": {
+  "100-199": {
+   "n": 106,
+   "counts": {
+    "slow_response": 24,
+    "product_gap": 18,
+    "unclear": 14,
+    "budget_freeze": 20,
+    "price_over_budget": 19,
+    "broker_recommendation": 11
+   },
+   "shares": {
+    "slow_response": 22.641509433962263,
+    "product_gap": 16.9811320754717,
+    "unclear": 13.20754716981132,
+    "budget_freeze": 18.867924528301888,
+    "price_over_budget": 17.92452830188679,
+    "broker_recommendation": 10.377358490566039
+   }
+  },
+  "200-500": {
+   "n": 106,
+   "counts": {
+    "tax_confidence": 57,
+    "unclear": 17,
+    "budget_freeze": 6,
+    "broker_recommendation": 12,
+    "product_gap": 4,
+    "slow_response": 9,
+    "price_over_budget": 1
+   },
+   "shares": {
+    "tax_confidence": 53.77358490566038,
+    "unclear": 16.037735849056602,
+    "budget_freeze": 5.660377358490566,
+    "broker_recommendation": 11.320754716981131,
+    "product_gap": 3.7735849056603774,
+    "slow_response": 8.49056603773585,
+    "price_over_budget": 0.9433962264150944
+   }
+  },
+  "50-99": {
+   "n": 93,
+   "counts": {
+    "unclear": 9,
+    "product_gap": 6,
+    "price_over_budget": 41,
+    "slow_response": 12,
+    "broker_recommendation": 18,
+    "budget_freeze": 7
+   },
+   "shares": {
+    "unclear": 9.67741935483871,
+    "product_gap": 6.451612903225806,
+    "price_over_budget": 44.086021505376344,
+    "slow_response": 12.903225806451612,
+    "broker_recommendation": 19.35483870967742,
+    "budget_freeze": 7.526881720430108
+   }
+  }
+ },
+ "crm": {
+  "crosstab": {
+   "Other": {
+    "unclear": 2,
+    "stall": 5,
+    "broker": 6,
+    "multistate": 11,
+    "slow_demo": 5,
+    "feature": 2
+   },
+   "Price": {
+    "feature": 14,
+    "price": 61,
+    "broker": 18,
+    "unclear": 23,
+    "slow_demo": 26,
+    "stall": 14,
+    "multistate": 30
+   },
+   "Timing / budget": {
+    "slow_demo": 2,
+    "broker": 5,
+    "unclear": 4,
+    "stall": 2,
+    "multistate": 5,
+    "feature": 3
+   },
+   "Went with competitor": {
+    "broker": 5,
+    "unclear": 4,
+    "feature": 2,
+    "slow_demo": 6,
+    "stall": 3,
+    "multistate": 7
+   },
+   "No decision": {
+    "stall": 3,
+    "broker": 4,
+    "feature": 5,
+    "unclear": 1,
+    "multistate": 2,
+    "slow_demo": 1
+   },
+   "Missing features": {
+    "stall": 6,
+    "slow_demo": 5,
+    "feature": 2,
+    "broker": 3,
+    "multistate": 2,
+    "unclear": 6
+   }
+  },
+  "crm_price_n": 186,
+  "crm_price_share": 60.98360655737705,
+  "coded_price_share": 20.0,
+  "crm_price_but_not_price": 125,
+  "crm_price_but_not_price_pct": 67.20430107526882,
+  "coded_price_marked_price": 61,
+  "n_losses": 305
+ },
+ "demo_wait": {
+  "slow_n": 95,
+  "fast_n": 305,
+  "slow_win_rate": 13.68421052631579,
+  "fast_win_rate": 26.885245901639344,
+  "ratio": 0.5089858793324775,
+  "by_quarter": {
+   "2025-Q4": {
+    "mean_wait": 6.18,
+    "slow_share": 16.0
+   },
+   "2026-Q1": {
+    "mean_wait": 7.03,
+    "slow_share": 13.0
+   },
+   "2026-Q2": {
+    "mean_wait": 8.78,
+    "slow_share": 25.0
+   },
+   "2026-Q3": {
+    "mean_wait": 10.52,
+    "slow_share": 41.0
+   }
+  }
+ },
+ "finance": {
+  "with_n": 108,
+  "without_n": 292,
+  "with_rate": 34.25925925925926,
+  "without_rate": 19.863013698630137,
+  "ratio": 1.7247765006385696
+ },
+ "broker": {
+  "broker_losses": 122,
+  "broker_win_rate": 18.666666666666668,
+  "other_win_rate": 26.8,
+  "broker_role_share": 33.60655737704918,
+  "other_role_share": 0.0,
+  "broker_role_to_bundler_pct": 100.0,
+  "broker_price_or_product_share": 40.98360655737705,
+  "other_price_or_product_share": 52.459016393442624
+ },
+ "false_trails": {
+  "rep_tenure": {
+   "won_mean_months": 44.21052631578947,
+   "lost_mean_months": 48.31475409836066,
+   "p_value": 0.21555688862227554
+  },
+  "mobile_app": {
+   "mention_n": 18,
+   "win_rate_with_mention": 11.11111111111111,
+   "win_rate_without": 24.345549738219894,
+   "p_value": 0.266746650669866
+  }
+ },
+ "theories": {
+  "sales_too_expensive": {
+   "verdict": "partly supported",
+   "overall_pct": 20.0,
+   "by_segment": {
+    "50-99": 44.086021505376344,
+    "100-199": 17.92452830188679,
+    "200-500": 0.9433962264150944
+   }
+  },
+  "product_missing_features": {
+   "verdict": "partly supported",
+   "overall_pct": 27.868852459016395,
+   "by_segment": {
+    "50-99": 6.451612903225806,
+    "100-199": 16.9811320754717,
+    "200-500": 57.54716981132076
+   }
+  },
+  "marketing_weak_broker_leads": {
+   "verdict": "partly supported",
+   "broker_losses": 122,
+   "broker_win_rate": 18.666666666666668,
+   "other_win_rate": 26.8,
+   "broker_role_share": 33.60655737704918,
+   "other_role_share": 0.0,
+   "broker_role_to_bundler_pct": 100.0,
+   "broker_price_or_product_share": 40.98360655737705,
+   "other_price_or_product_share": 52.459016393442624,
+   "win_rate_gap_pts": 8.133333333333333
+  }
+ },
+ "confidence": {
+  "high": 285,
+  "medium": 20
+ },
+ "overall_reasons": {
+  "unclear": 40,
+  "feature": 28,
+  "price": 61,
+  "slow_demo": 45,
+  "broker": 41,
+  "stall": 33,
+  "multistate": 57
+ }
+}

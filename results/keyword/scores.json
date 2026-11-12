@@ -1,0 +1,869 @@
+{
+ "run": "keyword",
+ "backend": "keyword",
+ "model": "none (regex baseline)",
+ "pattern_recovery": {
+  "found": 4,
+  "of": 6,
+  "detail": [
+   {
+    "pattern": "P1 Feature gap upmarket",
+    "found": false,
+    "evidence": "200-500 losses: multi-state tax is the top reason at 38%; CRM says Price on 58% of them"
+   },
+   {
+    "pattern": "P2 Mix shift",
+    "found": true,
+    "evidence": "200-500 share 20% to 44%; mix explains 3.8 of 9.0 points"
+   },
+   {
+    "pattern": "P3 Broker conflict",
+    "found": true,
+    "evidence": "33% of broker losses coded broker-recommended (vs 0% elsewhere); 85% of those went to the bundler"
+   },
+   {
+    "pattern": "P4 Slow demos",
+    "found": true,
+    "evidence": "win rate 14% after a wait over 10 days vs 27%; slow share 16% to 41%"
+   },
+   {
+    "pattern": "P5 Finance leader on call two",
+    "found": true,
+    "evidence": "34% with a finance leader vs 20% without (1.7x)"
+   },
+   {
+    "pattern": "P6 Price is real in one place",
+    "found": false,
+    "evidence": "top reason by segment: {'50-99': 'price', '100-199': 'price', '200-500': 'multistate'}"
+   }
+  ]
+ },
+ "false_findings": {
+  "count": 0,
+  "claims": [],
+  "rep_tenure": "tested: won 44 months vs lost 48, p=0.22; not reported as a finding",
+  "mobile_app": "tested: 18 deals mention it, win rate 11% vs 24%, p=0.27; not reported as a finding"
+ },
+ "coding_accuracy": {
+  "n": 305,
+  "agree": 207,
+  "pct": 67.8688524590164,
+  "by_reason": {
+   "broker": {
+    "agree": 34,
+    "n": 41,
+    "pct": 82.92682926829268
+   },
+   "feature": {
+    "agree": 0,
+    "n": 28,
+    "pct": 0.0
+   },
+   "multistate": {
+    "agree": 40,
+    "n": 57,
+    "pct": 70.17543859649123
+   },
+   "price": {
+    "agree": 58,
+    "n": 61,
+    "pct": 95.08196721311475
+   },
+   "slow_demo": {
+    "agree": 15,
+    "n": 45,
+    "pct": 33.333333333333336
+   },
+   "stall": {
+    "agree": 22,
+    "n": 33,
+    "pct": 66.66666666666667
+   },
+   "unclear": {
+    "agree": 38,
+    "n": 40,
+    "pct": 95.0
+   }
+  },
+  "by_confidence": {
+   "low": {
+    "agree": 115,
+    "n": 198,
+    "pct": 58.08080808080808
+   },
+   "medium": {
+    "agree": 92,
+    "n": 107,
+    "pct": 85.98130841121495
+   }
+  },
+  "confusion": {
+   "unclear": {
+    "unclear": 38,
+    "price": 1,
+    "slow_demo": 1
+   },
+   "feature": {
+    "stall": 1,
+    "unclear": 5,
+    "broker": 3,
+    "price": 18,
+    "multistate": 1
+   },
+   "price": {
+    "price": 58,
+    "unclear": 2,
+    "slow_demo": 1
+   },
+   "slow_demo": {
+    "slow_demo": 15,
+    "price": 8,
+    "multistate": 1,
+    "unclear": 18,
+    "stall": 2,
+    "broker": 1
+   },
+   "broker": {
+    "broker": 34,
+    "price": 6,
+    "stall": 1
+   },
+   "stall": {
+    "price": 6,
+    "unclear": 3,
+    "stall": 22,
+    "broker": 2
+   },
+   "multistate": {
+    "multistate": 40,
+    "price": 17
+   }
+  },
+  "disagreements": [
+   {
+    "deal_id": "D003",
+    "truth": "feature",
+    "coded": "stall",
+    "confidence": "low",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D009",
+    "truth": "broker",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D011",
+    "truth": "stall",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D012",
+    "truth": "price",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D014",
+    "truth": "broker",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D025",
+    "truth": "feature",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D031",
+    "truth": "stall",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D034",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D037",
+    "truth": "feature",
+    "coded": "broker",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D041",
+    "truth": "slow_demo",
+    "coded": "multistate",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D042",
+    "truth": "feature",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D043",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": "feature"
+   },
+   {
+    "deal_id": "D055",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D066",
+    "truth": "slow_demo",
+    "coded": "stall",
+    "confidence": "low",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D067",
+    "truth": "stall",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D070",
+    "truth": "stall",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D072",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D076",
+    "truth": "stall",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D077",
+    "truth": "unclear",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D078",
+    "truth": "broker",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "feature"
+   },
+   {
+    "deal_id": "D079",
+    "truth": "stall",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D090",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D093",
+    "truth": "feature",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D094",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D100",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D113",
+    "truth": "price",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D132",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D135",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D136",
+    "truth": "broker",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D138",
+    "truth": "stall",
+    "coded": "broker",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D142",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D144",
+    "truth": "stall",
+    "coded": "broker",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D147",
+    "truth": "slow_demo",
+    "coded": "stall",
+    "confidence": "low",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D148",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D154",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D156",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D159",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D165",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D166",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D170",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D171",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D172",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D174",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D177",
+    "truth": "stall",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D182",
+    "truth": "unclear",
+    "coded": "slow_demo",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D190",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D193",
+    "truth": "feature",
+    "coded": "broker",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D197",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D200",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D201",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D206",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D211",
+    "truth": "broker",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D215",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D221",
+    "truth": "price",
+    "coded": "slow_demo",
+    "confidence": "medium",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D228",
+    "truth": "broker",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "price"
+   },
+   {
+    "deal_id": "D232",
+    "truth": "feature",
+    "coded": "multistate",
+    "confidence": "medium",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D234",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D235",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D238",
+    "truth": "broker",
+    "coded": "stall",
+    "confidence": "low",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D240",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D245",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D247",
+    "truth": "feature",
+    "coded": "broker",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D249",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D250",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D252",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D254",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D257",
+    "truth": "stall",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D262",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "feature"
+   },
+   {
+    "deal_id": "D271",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D272",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D273",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D274",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D284",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": "stall"
+   },
+   {
+    "deal_id": "D286",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D289",
+    "truth": "feature",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": "multistate"
+   },
+   {
+    "deal_id": "D292",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": "multistate"
+   },
+   {
+    "deal_id": "D294",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D297",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D298",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "medium",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D301",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D314",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D316",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D322",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D328",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D329",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D331",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D334",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D338",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D344",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D345",
+    "truth": "feature",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": "slow_demo"
+   },
+   {
+    "deal_id": "D353",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": "broker"
+   },
+   {
+    "deal_id": "D354",
+    "truth": "feature",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D366",
+    "truth": "slow_demo",
+    "coded": "unclear",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D367",
+    "truth": "slow_demo",
+    "coded": "broker",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D371",
+    "truth": "slow_demo",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D378",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D389",
+    "truth": "multistate",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   },
+   {
+    "deal_id": "D400",
+    "truth": "stall",
+    "coded": "price",
+    "confidence": "low",
+    "truth_secondary": null
+   }
+  ],
+  "disagreements_matching_true_secondary": 20,
+  "secondary": {
+   "planted": 89,
+   "recovered": 11,
+   "pct": 12.359550561797754,
+   "coded_where_none_planted": 47
+  }
+ },
+ "crm_dropdown_baseline": {
+  "crm_price_n": 186,
+  "crm_price_correct": 61,
+  "pct": 32.795698924731184
+ },
+ "quote_integrity": {
+  "quotes_checked": 239,
+  "quotes_failed": 0,
+  "codings_dropped": 0,
+  "quote_integrity_pct": 100.0,
+  "brief_quotes_checked": 39,
+  "brief_quotes_failed": 0,
+  "pct_in_brief": 100.0
+ },
+ "number_integrity": {
+  "figures_checked": 49,
+  "problems": [],
+  "number_integrity_pct": 100.0
+ },
+ "calibration": {
+  "low": {
+   "agree": 115,
+   "n": 198,
+   "pct": 58.08080808080808
+  },
+  "medium": {
+   "agree": 92,
+   "n": 107,
+   "pct": 85.98130841121495
+  }
+ }
+}

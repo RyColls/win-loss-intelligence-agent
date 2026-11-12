@@ -1,0 +1,37 @@
+[
+  {
+    "id": "price_over_budget",
+    "name": "Price over budget or above competitor",
+    "definition": "The buyer says the quote was too high for their budget or higher than a competitor's, and the project itself was still going ahead. Use this instead of budget_freeze when the buyer is still buying but chose or wanted a cheaper option; use it instead of broker_recommendation when the buyer says cost, not a referral, drove the choice."
+  },
+  {
+    "id": "budget_freeze",
+    "name": "Internal freeze or hold on new spending",
+    "definition": "An internal decision by the buyer's leadership, owner, parent company or finance head paused or froze new vendors, software or spending, regardless of which product was on offer. Use this instead of price_over_budget when no competing quote or price comparison is mentioned and the whole project is stopped."
+  },
+  {
+    "id": "broker_recommendation",
+    "name": "Benefits broker recommended a competitor",
+    "definition": "The buyer chose a competitor because a trusted benefits broker or advisor recommended it, often as a bundle with a single point of contact. Use this instead of price_over_budget when the buyer attributes the decision to the broker relationship rather than to cost."
+  },
+  {
+    "id": "tax_confidence",
+    "name": "Lack of confidence in multi-state payroll tax handling",
+    "definition": "The buyer says unclear, deferred or unsettled answers about state, county or multi-state payroll tax handling left them unwilling to trust the product. Use this instead of product_gap when the concern is confidence in tax compliance and answers received, not a named missing feature."
+  },
+  {
+    "id": "slow_response",
+    "name": "Slow response or long wait before demo",
+    "definition": "The buyer points to the delay between first contact and the demo or follow-up as the reason, often because a competitor moved faster. Use this instead of unclear when a specific wait is cited, and instead of tax_confidence when the delay itself, not the content of the answers, is the complaint."
+  },
+  {
+    "id": "product_gap",
+    "name": "Missing product capability",
+    "definition": "The buyer names a specific workflow or reporting capability the product lacks or supports too narrowly, such as board reporting views or multi-step approval routing. Use this instead of tax_confidence when the gap is a general feature rather than payroll tax compliance."
+  },
+  {
+    "id": "unclear",
+    "name": "No clear reason stated",
+    "definition": "The text gives no reason, or only a vague statement from which none of the other categories can be determined. Use only when no other category clearly applies."
+  }
+]

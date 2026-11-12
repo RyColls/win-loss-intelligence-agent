@@ -1,0 +1,3225 @@
+{
+ "D002": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D003": {
+  "primary": "budget_freeze",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Marisol Hollander (HR Generalist): We are looking at the options. I would add, in the interest of candour, that the project itself has also slowed. Our finance team imposed a freeze on new software spending until the new year. So even had t"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D004": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Understood. If your budget changes, I'm around."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D005": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Beatrix Whitlock (Office Manager): And I will say the demonstration was good. It simply arrived after our momentum had gone. We were no longer in the mood to compare."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D007": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Casper Hollander (Operations Manager): Our broker. He's handled our benefits renewals for, what, eleven years? When he says this is the package for a company our size, I listen. He put the bundle in front of us, payroll and enrollment and r"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D009": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Thaddeus Brannigan (Operations Manager): And yeah, the price on the bundle was also a little lighter. But that's not it. If she'd put you in front of us, I'd be signing with you."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D010": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Understood. If budget changes next year, call me."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D011": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Oriel Thorsen (COO): The price was a bit more than we had pencilled in, I will mention, but that was not the reason. It is a matter of the calendar."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D012": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D014": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Soren Santangelo (VP of People): Our broker has managed our benefits renewals for nine years. In the proposal stage she presented a bundle, Tallyhold's payroll attached to the benefits administration she already uses, and she recommended it"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D015": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Signe Dunmore (Chief People Officer): Yes, and I feel just awful, because you've been so lovely. We're not going to be able to go forward. And it's really just the budget. I'd love to be able to say it's something exciting, but it's not."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D016": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D017": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Oriel Oyelaran (Office Manager): And we thought, will we miss the extras? Probably not that much? I don't know. We might. But it's a budget thing at the end of the day."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D020": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Thanks again for the time and for being so understanding on the call. As we said, the yearly cost was more than we could take on, and we went with a lower-priced option."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D021": {
+  "primary": "price_over_budget",
+  "secondary": "slow_response",
+  "confidence": "medium",
+  "quotes": [
+   "Marisol Santangelo (Chief People Officer): Of course, of course. So I, well, I've been thinking about how to say this. It's cost. Plain and simple. I want to say it up front."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D023": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Maren Fairweather (Office Manager): Our broker. She recommended them. She does our renewals. Has for years. She brought a bundle. Payroll, benefits, everything under one roof. She said it fits a practice our size. I trust her."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D025": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D026": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Priya Whitlock (Head of HR): Cost. Your proposal is about twelve thousand a year. We're eighty-one. So, a hundred forty-eight per head, roughly. Brasswick came in at around eight-two. Call it a hundred a head. Twelve versus eight. That's fo"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D027": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Beatrix Ashgrove (Finance Director): Three times. The gap is nearly five thousand a year. Per person, we're at a hundred sixty-eight with you and a hundred fifteen with them. I couldn't defend it at budget review."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D028": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D029": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Amara Okonkwo (People Operations Lead): Your demo was strong. I'll say that. Your team was sharp. But I can't change the budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D030": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Lucian Yarrow (Director of Operations): It's our broker, really. She's done our benefits renewals since before I got here, and she said, here, this is the bundle, payroll with the benefits side and the renewal stuff all together. She put it"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D031": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D033": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Greta Moreau (HR Director): Yes. Honestly, the day between the first call and the demo was enough. He had lost patience with research and wanted something running. The demonstration was good, I thought. But the momentum had gone, and we wer"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D034": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Sunniva Whitlock (HR Generalist): There was also a difference in cost, which I will mention for completeness, though it was not the principal matter. Corvane was a little lower."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D035": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Hollis Whitlock (Head of HR): Price. We're sixty-four people. Your quote is about ten-eight a year. Call it a hundred sixty-nine a head. Tallyhold is around seven-one. About a hundred eleven. That's thirty-seven hundred a year less. We run "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D036": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D037": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Linnea Petrakis (Office Manager): I might add that our broker also recommended Tallyhold, and we do tend to follow her advice on renewals. But had your feeds existed, I think we would have considered the matter differently."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D041": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Soren Hollander (Operations Manager): It was. I will say that. Your colleague answered the questions about multi-state filings well, and I took notes."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D042": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D043": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D045": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D046": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Thanks again for the time you and your team gave us over the past few weeks. I wanted to follow our call with something in writing. The group has put all new spending on hold while the owners work through a possible acquisition, so we are n"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D050": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rafferty Petrakis (General Manager): That's where I come in. I'm the one who signs off on the budget, and this year we've got the new press line going in at the plant, which is not cheap, and I told Marisol I just can't stretch to thirty. I"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D051": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Annelise Oyelaran (HR Director): Momentum matters in a project like this. We lost ours waiting, and the other vendor happened to be there."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D052": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D054": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Rep: That's a lot to absorb. Does the freeze apply across the board?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D055": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Ravi Vasquez (Benefits Manager): Tax stuff was fine, by the way. Cost was fine. Just the feeds."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D056": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Priya Petrakis (HR Generalist): Our broker. We've used her for six years. She handles our renewals, she negotiates with the carriers, she knows our people. When she says look at this one, I look at it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D059": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Signe Zeller (Payroll Manager): I can confirm that. I was told yesterday that every open initiative is on hold until the structure is settled. Our current system will simply continue."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D060": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Hollis Ashgrove (Head of HR): The annual cost does not fit our budget. Your proposal comes to approximately twenty-six thousand dollars for the year, which, across our 132 employees, is about two hundred dollars per head. The budget we were"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D062": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D063": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Ingrid Parekh (Head of HR): It's the yearly cost. You came in around thirty-four thousand. That's about two hundred a head for 167 people. We have twenty-five set aside. Tallyhold came in at about twenty-two. That's the whole story."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D064": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Idris Thorsen (Operations Director): And I told Thaddeus, we should pay for the better thing, I really did, and he said, Idris, I've got the budget my CFO gave me and it's twenty, and that's that. So there we are."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D066": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Rafferty Fairweather (Benefits Manager): There is a further matter, though a minor one. Our finance sponsor left the company last week, and the project has lost its principal voice. I do not believe that was decisive. The earlier shift had "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D067": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D070": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Fenella Brannigan (HR Director): The company has decided to reconsider its priorities for the coming year. Our leadership has asked every department to identify its top two initiatives, and a payroll migration did not make the list. Instead"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D072": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Kwame Hartigan (COO): Every quarter I have to put a package together for the board. Headcount by plant, overtime as a percent of labor cost, turnover by department, and they like to slice it differently every time. Last quarter somebody wan"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D073": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Fenella Petrakis (HR Generalist): Quick update, and it's not great news. The project is on hold."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D074": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Odalys Yarrow (Chief People Officer): Our CEO resigned on Monday. Board brought in an interim. First thing she did was freeze new projects. Everything."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D075": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Annelise Whitlock (COO): The annual cost does not fit our budget. Your proposal is approximately thirty-eight thousand dollars for the year. For our 168 employees, that is around two hundred and twenty-five dollars each. Tallyhold has propo"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D076": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Soren Delacroix (Operations Director): It's painful. We're 131 people across five states and the current setup has me re-keying hours from timesheets every other Friday. I'd love to stop. But I can't ask for a budget line this quarter."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D077": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Rep: I'll see what the budget allows."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D078": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Sunniva Delacroix (Operations Manager): She put the bundle in front of us. Payroll, benefits, time tracking, one price. She said it fits our size. A hundred and eighteen people, two states. I trust her."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D079": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D082": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Amara Hollander (Operations Manager): Taxes. We have people in six states and honestly that's the whole conversation. Let me give you a real one. We have two adjusters who live in Virginia and work out of our Maryland office. Another lives "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D083": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Imani Fairweather (Office Manager): Quick one first. You took a week to get us the demo. I'm not mad, I'm just noting it. Anyway, we're in nine states, and that's what I care about. Show me taxes.\nRep: Sure. Our engine calculates state with"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D084": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D085": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Delphine: Yes. Try the second week. By then we'll know whether the freeze lifts."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D088": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Linnea Underhill (Operations Manager): Good morning. I will be direct about our concern, if I may. We have employees in four states, and one of them is Pennsylvania. Our largest site is in Allegheny County, and we have people who live in ot"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D089": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Priya Santangelo (HR Generalist): Yeah, that was fast, which I liked, although now I've had one night to think and I woke up with more questions. Okay, so, five states. Let me think out loud. Our newest hire is a remote dispatcher in Georgi"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D090": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Nadia: Which is a separate issue from why I'm worried. Price is fine, by the way, it's a bit more than Brasswick and I'd pay it. I just can't stand behind a payroll provider who says 'check' for local taxes in eleven states."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D091": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Delphine Abernethy (Office Manager): Thanks. Keep this short. We have four states. One question matters. Taxes.\nRep: Go ahead.\nDelphine: We have a vet tech who lives in Pennsylvania. Works in Delaware. Wilmington has a city wage tax. Does y"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D092": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Thaddeus: It's not complicated. Our broker put it in front of us. The whole bundle, payroll, benefits admin, the carrier feeds, all of it, as one package. Our broker has handled our renewals for, what, nine years? I trust that person. When "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D093": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D094": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "medium",
+  "quotes": [
+   "Delphine Quillfeather (HR Generalist): We do, and I'm going to use it. Because I've been through two payroll vendors in six years and both cost us on taxes. We're in eleven states, and the one that's killing me is Ohio. Municipal income tax"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D095": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Imani Eastwood (HR Generalist): Okay, quickly, because the clock's running. Ten states. Biggest worry is taxes. Indiana first. County income tax, depends on where the employee lives on January first. Not where they work. We have thirty-odd "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D096": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Noor: Our broker recommended it. We've used the same broker for eleven years. They handle renewals for medical, dental, vision, and the 401k, and they put the Tallyhold bundle in front of us. One contract, one invoice, benefits carriers alr"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D097": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D098": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Dariusz: Our broker. Plain and simple. Our broker recommended it. They manage our renewals. Every year. They've been good to us. When they put the Tallyhold bundle in front of us, payroll and benefits together, I didn't see a reason to say "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D099": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Soren Rourke (Head of HR): Oh, you know, busy, busy. Look, I wanted to call you rather than just email, because you've been so nice. I'll just say it. We waited thirteen days for the demo. Thirteen. I counted, because our owner counted. She"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D100": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "medium",
+  "quotes": [
+   "Beatrix Thorsen (Compliance Lead): And my one. When a state sends a rate notice, say, unemployment, who gets it? We get one from somewhere new every year, and we've missed one before. It cost us."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D101": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "medium",
+  "quotes": [
+   "Casper Yarrow (VP Finance): The budget is the issue. We approved ten thousand for the year, and that was a stretch. I can't take twelve nine to the owners without cutting something else. Four thousand is two months of a coordinator's pay."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D103": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Thaddeus: Okay, so, our broker. Our broker put the whole package in front of us, payroll and the benefits piece, carriers feeding in, all that. We've had this broker since we opened the third clinic, and they do our renewals every year. So "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D104": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Calla: Yeah, it's the budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D105": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Calla Hartigan (VP of People): Oh, no worries, I was still finding my headset. So, funny enough, I was going to bring this up, because I like you all so much, and I feel a bit awkward. Okay. The yearly number. Seventy-eight people, three st"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D106": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Ingrid: I'm not criticizing. I'm describing why the momentum changed. By the time we did your demo, the owner had already seen a competitor's sandbox, and I had a spreadsheet with a column for each of them. We had ninety-eight employees in "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D107": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "medium",
+  "quotes": [
+   "Bastian Nakamura (HR Generalist): Good afternoon. I will go straight to the matter, if you do not mind. We have sixty-nine employees, one state. Your quote was fifteen dollars per employee per month, which is roughly twelve thousand four hu"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D108": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Wren: I appreciate it. But I'll tell you now, if I don't hear back by Friday, we'll sign with the cheaper one. We have to be live by January."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D109": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Ingrid Vasquez (Operations Director): I will add that I prefer your product. The scheduling screens are cleaner, and your team was far more responsive. But my budget is fixed. I have forty-eight hundred allocated, and I cannot go beyond it "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D111": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Noor: It's kind of boring, honestly. Our broker. We've had the same broker forever, since before I got here, and they handle our renewals, and they brought the whole bundle to us, with the benefits side and the payroll side together. I aske"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D113": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D116": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Nadia: Our owner pulled the plug on a handful of projects. We lost the biggest outdoor retail contract in September, and everything that wasn't keeping the lights on went in a drawer. Payroll migration was on the list. We have eighty-eight "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D118": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Ingrid: Our broker. They handle our renewals, and they brought us the package, payroll and benefits together. Our broker said it's the best fit for a company our size. Fifty-two people, three states. We trust them. They've been with us for "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D120": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Maren Eastwood (Finance Director): My budget line for this is nine thousand. I can't exceed it. I looked at the numbers twice. If your quote had been near ten, I would have taken it to the owner. At twelve three, I can't."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D121": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D123": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Omar Parekh (HR Director): Yes. I'll be direct, because I've already run this against our budget. You quoted us roughly nineteen thousand a year for eighty-one employees. That works out to about two hundred thirty-five per head. Our approve"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D124": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D125": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Rep: Thank you. If your budget moves, call me."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D127": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Understood. Is the cheaper option covering the same ground?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D128": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Rep: That's good to know. Is the freeze across the company?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D130": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Signe Thorsen (COO): Yes. Nineteen-two plays in our budget, twenty-six doesn't."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D131": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Linnea Hollander (Director of Operations): Appreciated. We'd rather be clear than waste your time. Thanks for everything. The demo was good. It's just the budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D132": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Nadia Brannigan (Operations Manager): Yeah. Okay. I'm tired, so I'll be plain. We need to hand our board a pack every quarter. Headcount by department, turnover, cost per hire, overtime trend. Different cut every time, because they keep cha"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D133": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "low",
+  "quotes": [
+   "Dariusz Fonseca (People Operations Lead): Yes. So, there's not much to say, and that's the update. Everything's paused."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D134": {
+  "primary": "price_over_budget",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "Jules Fairweather (Finance Director): The buildout's eating budget, yes. But if your price had been in the fourteen range we'd have pushed through."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D135": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D136": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Rep: Did the bundle price compare to ours?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D138": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Annelise Ivarsson (HR Generalist): Probably, yes. I should say, our broker mentioned Tallyhold at one point. He handles the renewals so we tend to listen. If it comes back to life, that might be where it lands. But that's later."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D142": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Ravi Eastwood (Chief People Officer): Not going with you. And I'm sorry, because the team's been great. It comes down to what our board asks for. Every quarter they want a different slice. Attrition by plant, headcount by shift, cost per hi"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D143": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D144": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Thaddeus Okonkwo (People Operations Lead): Although, I should mention, our broker did drop Tallyhold's name. He does our renewals, so I'll probably ask him about it when we pick this back up. It's not a thing yet, just something that came u"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D145": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Amara Yarrow (COO): Time. Thirteen days. That's how long we waited from first call to demo."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D146": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D147": {
+  "primary": "budget_freeze",
+  "secondary": "slow_response",
+  "confidence": "low",
+  "quotes": [
+   "Lucian Tillbrook (Head of Finance): I'd add, and this is secondary, that we're also in the middle of a cost review. Nothing is approved right now. It's on hold in some ways."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D148": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D149": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Yuki Vasquez (Director of Operations): No. And I don't want to waste your time. The product was solid. It's the budget, plain and simple."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D154": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D156": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Priya Santangelo (People Operations Lead): The payroll side was entirely satisfactory. Tax handling, in particular, was strong. Nor was the price a concern."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D157": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Sunniva Brannigan (HR Director): Cost. Your quote was about thirty-eight thousand. We have a hundred forty-four employees. That's about two sixty-five a head. Tallyhold is thirty-one. Seven thousand less."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D158": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Tobias Brannigan (HR Director): No. The product was good. Your team was sharp. It's the budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D159": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Kofi Galbraith (HR Generalist): No. Payroll side was fine. Price was fine. Honestly, if you had the reporting, we'd be signing."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D161": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Soren Nakamura (Chief People Officer): Our broker. She put a bundle in front of us last Tuesday. Payroll, benefits admin, time tracking. One contract, one renewal date."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D162": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "low",
+  "quotes": [
+   "Jules Vasquez (Chief People Officer): No, no, nobody. We just stopped. Maybe spring, maybe later, honestly I can't tell you. Can I ping you when things unfreeze?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D163": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Teodoro Parekh (HR Director): Primarily our broker. Our broker has handled our benefits renewals for, I believe, nine years. When she brought us the bundle, payroll, benefits administration and time tracking together, she presented it as th"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D165": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Bram Hartigan (Chief People Officer): Approvals. Okay, so, here's how it works for us. A raise request, or a bonus, goes from the team lead to the department head, then it goes to Yuki for the budget check, then it comes back to me. Four st"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D166": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Tobias Jessamy (Director of Operations): Honestly, it's the board packet. So every quarter our board wants, let me think, headcount by campus, overtime by campus, turnover, and then they always ask some new question I can't predict. Last ti"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D168": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Ravi Quillfeather (People Operations Lead): Your quote for 176 employees comes to roughly thirty-eight dollars per employee per month. That's about eighty thousand a year once you add the implementation fee. We have a ceiling of sixty thous"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D170": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Dariusz Valdivia (VP Finance): I had a budget meeting coming. I wanted a vendor lined up."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D171": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Kwame Santangelo (Compliance Lead): Price was a bit better over there too. Not by a lot."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D172": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Yuki Zeller (General Manager): Every quarter our investors want a labor cost view. Cost per hire by department. Against plan. Plus the mix of contractors versus employees. And it's never the same ask twice. Last quarter it was overtime as a"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D173": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Priya Okonkwo (HR Director): Okay, so, we've got people in four states now, and one of the things that keeps me up is, I've got a technician who lives in Kentucky and works in our Ohio office. Does your system figure out that reciprocity th"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D174": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Hollis Zeller (Controller): Price is a little above where I thought. Whatever. I'd pay it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D175": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Marisol Cadogan (COO): We have not chosen Lanternmere HR. We operate in eight states, and the payroll tax question has not been resolved to our satisfaction. Wren, would you summarise?\nWren Zeller (Payroll Manager): Certainly. Two specific "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D176": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D177": {
+  "primary": "price_over_budget",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "Bastian Delacroix (VP of People): Yeah. And, I mean, I put in a lot of work on this. Those thirteen days before the demo, I spent half of that chasing people internally. I got the sponsor, got the budget slotted. It was all there. I loved t"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D178": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Signe Hollander (People Operations Lead): Third quarter patient volume came in eleven percent under plan. On the sixth, our CFO froze all new vendor commitments over twenty-five thousand dollars through the end of the fiscal year. Our proje"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D179": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Sunniva Galbraith (HR Director): Twelve states. That's our reality, because we've got remote staff scattered everywhere. And I asked you how it works when someone lives in Maryland and works out of our D.C. office. Who gets the withholding?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D181": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Wren Brannigan (HR Generalist): So, um, it's a pause from us. Mostly. We've got staff in five states and the tax questions, they're the thing I couldn't get past. Like, in Indiana the county tax depends on where you lived on January first, "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D182": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Wren Eastwood (HR Director): Second, I want to put on record that your team was responsive. The longest we waited for a reply to an email was, I checked, about three hours. And the security questionnaire came back complete, forty-one pages,"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D183": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D184": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Amara Delacroix (CFO): Twenty-two dollars per employee per month. With three hundred thirty-nine people that's about eighty-nine and a half thousand a year. I round it to ninety."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D185": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Dariusz Galbraith (VP of People): Our broker, mostly. I mean, she's the one who does our benefits renewal every year. Every single year. And she came to us last month with this package, payroll, benefits, time clock, everything bundled, and"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D187": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Tobias Petrakis (COO): We have 248 employees across eight states. Roughly sixty percent are field crews who move between job sites. Dariusz handles payroll, so I'll let him walk through where we got stuck.\nDariusz Ivarsson (Payroll Manager)"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D188": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Wren Nakamura (VP of People): Payroll tax. Four states. Pennsylvania, New Jersey, Delaware, Maryland. I asked a few things. First, we have a bindery lead who lives in New Jersey and works in Pennsylvania. Reciprocity. Does the system know t"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D189": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Beatrix Hartigan (Operations Manager): It's our broker, really. We've used the same broker for, gosh, twelve years? He does our health plans, our dental, he does the renewals every fall, and I basically hand him the keys. And he came back a"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D190": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Bram Nakamura (Operations Manager): And I'm not saying it's, like, a bad product. It's good. Price was fine, I think you were right on what we expected. We'd pay it. If I could look at my twelve states and know it's right, we'd be signing."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D191": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Bastian Castellane (Director of Operations): Tax. Twelve states. We have remote engineers all over the place. Priya has the details.\nPriya Brannigan (Finance Director): Two examples. First. We have an engineer who lives in Connecticut and w"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D193": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Mirela Thorsen (HR Director): Secondary reason. Our broker recommended a different bundle, and he handles our renewals. That carried some weight, but if your feeds were there, I would have pushed back on him."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D194": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Mirela Okonkwo (Head of HR): We've decided not to proceed. The reason is state payroll tax handling. We have 447 employees across twelve states. In our evaluation, we logged forty-three questions. Thirty-eight were answered fully. Five were"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D195": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D196": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Casper Oyelaran (Payroll Manager): Six states. We place temps all over. Two situations. A temp works in Arizona, takes a placement in Nevada in July. Arizona withholding stops. Nevada has none. But the Arizona wages before that, W-2 reporti"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D197": {
+  "primary": "price_over_budget",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "Tobias Whitlock (HR Generalist): Small one. Our CFO also put new projects on hold until budget season is settled. But that wasn't the reason. If tax had been solid, I'd have pushed through the hold."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D198": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Calla Oyelaran (Chief People Officer): We have chosen Corvane. The decisive issue was the handling of state payroll taxes. We have employees in seven states, and our production staff travel.\nGreta Fonseca (Operations Director): Allow me to "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D199": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Nadia Thorsen (HR Generalist): Taxes. We have 363 people in twelve states. Schools, so lots of staff who work from home in summers, move around, take summer jobs, all of it. I came in thinking payroll tax would be the easy box. It wasn't.\nR"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D200": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Kofi Parekh (Compliance Lead): Price was okay. I'll say that. We'd have paid it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D201": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Casper Fairweather (Chief People Officer): Then that's honest, and I appreciate it. Look, the budget is tight this year too, I'll say that, we were going to be stretching for the first year regardless. But that isn't what's stopping us. Oma"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D202": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Thank you for your candor today. I am sorry the demo took three weeks to arrange; that was our delay, and I understand the momentum had moved on by then. If your other evaluation does not work out, or priorities change, I would be glad to p"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D204": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Understood. Is that a freeze on spend, or on the project?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D206": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Kwame Parekh (CFO): We did. I'll be direct. Your demo was good. The reporting was cleaner than I expected. I told Casper that. But by the time we sat down, we'd already done the kickoff call with the other group. Moving again would have cos"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D207": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Yuki Vasquez (Head of People): I looked at the comparison, too. Your product is stronger on the compliance side. I'd say that out loud. The leave tracking is better. But I'm one voice, and the budget isn't mine."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D209": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D210": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Soren Thorsen (COO): Which I told the partners. But they asked what the price difference buys. And honestly, I couldn't say it was worth $14,000."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D211": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Marisol Parekh (VP Finance): I'd add, price did play a small part. Your number was higher. Not wildly. But it wasn't nothing. With three states and ninety-four people, every extra thousand shows up on my desk."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D212": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Greta Lindgren (Controller): If I may, from the controller's perspective. We set a ceiling of $35,000 for this fiscal year. I raised the figure with the leadership team, and they were unwilling to go beyond it. Your platform is the stronger"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D215": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Kwame Cadogan (COO): Our board meets quarterly. They ask for headcount by clinic, turnover by role, overtime cost as a percentage of labor, and a three-quarter trend. In the demo you showed us the standard reports. They're fine. But when I "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D216": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D218": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Hollis Abernethy (VP Finance): I was the one who reviewed the figures. Our approved budget for this category is $38,000. Their number fits. Yours doesn't. A $16,800 gap is not something I can absorb, not in a year where we are also renewing"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D220": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Bastian Oyelaran (VP of People): So. You know we were all set. The demo went well, Bastian, my Bastian, the other one, the benefits one, was happy. We got the proposal. And then last Tuesday, our CEO announces we're, well, not a layoff, but"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D221": {
+  "primary": "slow_response",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Annelise Ibarra (HR Director): Right. And, small thing, I was a little annoyed it took ten days to get the demo. I had momentum when I first called. But I'd have waited if the price worked. It's not why."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D222": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Mirela Tillbrook (People Operations Lead): Our broker. We've used the same one for nine years. She runs our medical and dental renewals, she knows our claims history. Two weeks ago she came to us with a bundle, payroll and benefits admin to"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D224": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Oriel Okonkwo (VP of People): Close. They don't do as much on reporting. I'd take that trade. I'm tired, honestly. I have a budget and it's tight."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D225": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Mirela Abernethy (Chief People Officer): Our broker. She's our benefits broker, been with us seven years, she handles every renewal. She brought us the Tallyhold bundle last week. Payroll and benefits together. She said, this is what I reco"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D226": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Rafferty Zeller (Office Manager): Our broker. He does all our benefits renewals. Been doing them since before I started. He called me Thursday and said, I've got a bundle for you from Tallyhold. Payroll, benefits, it's all in one. He put th"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D228": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Soren Petrakis (Office Manager): I would add one smaller point. The cost of the Tallyhold bundle was somewhat lower than your proposal, and that mattered to our owner. But I want to be clear that the broker's recommendation came first. With"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D229": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Okay. And your budget?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D230": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Kofi Hollander (Operations Director): From operations, I can say the platform looks good. Time clocks worked well in the trial. I'd have been comfortable with it. But I'm not the one holding the budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D231": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "medium",
+  "quotes": [
+   "Thaddeus Vasquez (Head of HR): Your yearly number: $93,000. We're a hundred fifty-one people. That's about $616 each. Brasswick quoted around $62,000. About $410 each. My budget for the whole thing is $65,000."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D232": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Mirela Galbraith (HR Generalist): Let me start with the data. We have 104 employees across four states, and our board gets a packet every quarter. I built the last one by hand. Eleven tabs. It took me nine working hours.\nRep: That's a lot.\n"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D233": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "low",
+  "quotes": [
+   "Dariusz Fairweather (Office Manager): Our owner sold a piece of the business. Which is a long story. But there's a new partner involved, and the first thing they did was freeze everything that isn't client work. Software, hires, even the of"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D234": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Signe Petrakis (People Operations Lead): So, I'm tired, so let me be honest. We're not going with you. Not because of price, and not because of payroll. It's hiring."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D235": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D236": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D237": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Idris Hollander (Office Manager): You quoted $71,000 a year. We're a hundred fifty-five people. So, about $458 each. Brasswick came in at $47,000. About $303 each. Our budget is $50,000. That's all there is."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D238": {
+  "primary": "budget_freeze",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Ravi Castellane (Chief People Officer): And one small thing, to be fair. This project was already wobbling. We had a hiring freeze last quarter, and the owner has been wavering on all software. So it was likely to slip anyway. But the broke"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D239": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Yuki Parekh (Chief People Officer): Our broker. She handles our medical and dental renewals, and she's been our broker for about eight years. A couple of weeks ago she came to us with a bundle from Tallyhold, payroll and benefits administra"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D240": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Sunniva Yarrow (People Operations Lead): The tax handling was good. I'll say that. And the price was fair. It wasn't a money thing. It's just that this is a core thing for us, and it's the one thing we can't compromise on."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D241": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "low",
+  "quotes": [
+   "Annelise Galbraith (VP Finance): Our position, mainly. The board met on Tuesday and, as of the new fiscal quarter, all discretionary projects across the network are paused. Not cancelled, paused. Capital and operating both."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D243": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Amara Lindgren (Operations Director): And hospitality payroll swings. Seasonal bumps, tips, people on and off. We can't carry a fixed cost that's heavier than we need."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D244": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Nadia Ashgrove (VP of People): When we spoke in September, the plan was a go-live on January 1, with open enrolment running through November. As of last Thursday that is off. The board approved a hiring and systems freeze through at least t"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D245": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Oriel Cadogan (Operations Manager): Tallyhold handles it by location. It was in their demo, I watched it work. Price was not the issue. You were within a few hundred dollars of each other."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D246": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D247": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Linnea Fonseca (HR Director): Tallyhold, probably. Our broker's been pushing it for a while, and I trust her, she handles the renewals every year so she knows our mess. But that's not why. If your workflows had done the thing we need, I'd h"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D248": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Fenella Okonkwo (Finance Director): It's simple enough. We've put the whole systems project on hold. Our CEO is out on leave from the first of the month, and the interim has said no new vendors until she's back. That's, what, ten weeks at l"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D249": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Ravi Nakamura (Finance Director): And I was fine with the cost of the platform itself. I'll note that. The numbers worked if we could cancel the other subscription. If we can't, the total is higher than what we pay today."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D250": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D252": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D253": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Signe Jessamy (General Manager): The momentum was gone by the time you came on. I'm sorry. It wasn't your fault. We just wanted it done."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D254": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D256": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Maren Thorsen (HR Director): So we're going with Tallyhold. And I want to explain, because I think it'd drive me crazy not to. Our broker, our broker, the one who does our benefits renewals every year, she brought us this bundle. Payroll, b"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D257": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Mirela Cadogan (Head of HR): Meanwhile, our sponsor, Dennis, who was the VP who kicked this off, has been moved to a different division. He's still around, but he doesn't own this budget now. I've emailed the new head twice and got nothing "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D258": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D259": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Amara Okonkwo (People Operations Lead): And I wanted to tell you why, plainly, because you've been straight with us. Our broker, the one who handles our benefits renewals, sent over their bundle. Payroll, benefits, time tracking, one invoic"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D260": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Ingrid Underhill (HR Director): So, the thing is, your yearly figure for our one hundred ninety-six people came to about thirty-nine thousand. Tallyhold, for roughly the same package, is at about twenty-eight. That's, what, a little over tw"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D262": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Annelise Lindgren (CFO): There was one thing. Our board gets a quarterly packet with headcount by department and cost per hire. We couldn't build that in your reports. But that was a small piece. I'd have found a way."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D264": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Wren Underhill (Operations Manager): Our broker. That's the plain version. She handles our benefits renewals, has for years, and she sent us their bundle. Payroll, benefits, the lot. That's what she put in front of us."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D265": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Annelise Vasquez (HR Director): I would add that our leadership asked for a decision before the end of the quarter. We had no way of holding the process open while we waited for a second demonstration."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D267": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D268": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Oriel Eastwood (Chief People Officer): Our broker. She does our benefits renewals. Has for years. She brought us the bundle. We looked at it. It's what she put in front of us."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D269": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D270": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Odalys Moreau (Office Manager): I do. I've got eight states' worth of payroll in my head and I'm tired. So let me ask what I've been asking since the start. Taxes.\nRep: State and local.\nOdalys Moreau (Office Manager): Yes. Take our guy in P"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D271": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Calla Whitlock (HR Director): The price, honestly, was fine. A bit higher than Corvane, sure, but I'd have paid it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D272": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Idris Ivarsson (General Manager): Cost was not a concern. I will mention it only because you will ask. The figure was within our range, and I have no complaint about it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D273": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Yuki Valdivia (Chief People Officer): Price. It came up once. We were comfortable with yours. If you'd had the tax answers, I'd have paid it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D274": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Signe Fonseca (Office Manager): Price wasn't it. Yours was a little higher, but nothing I'd lose sleep over."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D275": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Rafferty Fairweather (COO): I'll be quick. Five states, 437 people, and I need payroll taxes to be handled without me thinking about them. That's the whole thing.\nRep: Understood.\nRafferty Fairweather (COO): So here's what I asked. One. Dri"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D276": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Fenella Santangelo (HR Director): So, the thing. We're in eight states. Eight! Which sounds like a lot, but it's mostly small clusters, two people here, three there. And I started asking about payroll taxes, and it's not that you didn't kno"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D278": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Maren Lindgren (Director of Operations): Honestly, nowhere. I'll be brief. We've paused the project."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D279": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Maren Eastwood (Chief People Officer): Tax. We've got folks in five states. When I asked about a guy who works in Wisconsin and lives in Illinois, you said you'd have to check on reciprocity. When I asked about someone who moved from Michig"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D281": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Thanks for coming back, both of you. Last week was the overview, so today I'd like to dig into how payroll behaves across your nine states.\nAmara Santangelo (People Operations Lead): Right. Concretely, then. We have 410 people, call it"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D282": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Bram Moreau (HR Director): Sure. We have 278 employees across eight states, and the tax side is where I keep getting nervous. Here's one. We hired a clinical coordinator in Oregon in March. First person there. Oregon has the statewide trans"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D284": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "medium",
+  "quotes": [
+   "Teodoro Brannigan (Payroll Manager): And honestly, budget review is next month. Our CFO might freeze new spending anyway."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D285": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Delphine, Beatrix, welcome. So, four states, around 400 people, right?\nDelphine Delacroix (VP of People): 398, yeah, four states, Michigan, Indiana, Ohio and Illinois. And, okay, I'll just think out loud here because I've been circling"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D286": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Hollis Rourke (Director of Operations): Let me say this plainly. Price is fine. Your price is about what I thought. Corvane is a bit lower, I won't pretend otherwise. But I don't care. I care that when Noor asks a tax question, the answer i"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D287": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Nadia Hollander (Office Manager): Our broker. She's handled our renewals for years. She came to us and said here's the bundle, payroll and benefits admin together, one invoice, one portal. That's what she put in front of us. She does the re"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D288": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Soren Valdivia (Payroll Manager): Eight states, 441 employees. Case one. We have a nurse who lives in Vancouver, Washington and works in Portland. Washington has no income tax. Oregon does. Plus the Portland local stuff. Do you handle that?"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D289": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D290": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D292": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D294": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Soren Ivarsson (Chief People Officer): And I'll say, because Teodoro will think I'm being too nice, price was fine. It was in the range. Brasswick's a little higher, if anything. It's just, you know, the taxes. If one of these is wrong, it'"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D295": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D297": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Yuki Moreau (Office Manager): It's not payroll. Payroll's good. Taxes, fine. Price, fine. We just don't want to run hiring in a spreadsheet next year."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D298": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "medium",
+  "quotes": [
+   "Thank you for the demo and the follow-up. After comparing, we've decided to go with another provider. Our main concern was the level of detail we got on payroll tax handling across our eleven states, particularly for people working across s"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D299": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Kwame Fonseca (People Operations Lead): It is, thank you. We have a few remaining items on the payroll tax side, which I would like to be precise about. We employ 331 people across twelve states, and our fifteen-day wait for the demo gave u"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D301": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D302": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Annelise Petrakis (COO): Yes. I'll be as precise as I can. We are an 84-person company in one state. We've been with our benefits broker for nine years, and she renews our medical, dental, vision, our 401(k) plan, and our workers' comp. Whe"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D303": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Soren Quillfeather (Benefits Manager): And I tried, I really did. I said, well, the onboarding is better, the people were nicer. But, you know, she asked me, can the cheaper one run payroll? And I said, yes. And then she said, okay."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D304": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Imani Abernethy (Controller): I ran the numbers a few ways. I tried to give you credit for the extra features. I gave credit for the onboarding. Even doing that, I couldn't get our annual cost below what the other one costs and still leave "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D305": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Tobias Valdivia (VP of People): We run thin margins. Insurance reimbursements are down. The owners went through every line in the budget. Software was one. They said find the cheaper one."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D306": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Noor Yarrow (Compliance Lead): From my side, I liked how you handle the compliance documentation, I really did. And the audit logs. I'd have chosen you, if it were up to me. But it's not about what I'd pick. Casper's got the budget, and he'"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D308": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Maren Rourke (Operations Manager): It comes down to our benefits broker. We have worked with him for twelve years. He arranges our medical renewal each autumn, our dental, our supplemental policies. When we mentioned we were evaluating payr"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D309": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Amara Hollander (Office Manager): Our broker. Simple as that. She's been with us since before I got here. Does the health plan, the dental, the whole renewal circus every year. When I told her we were looking at payroll systems, she said ho"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D310": {
+  "primary": "slow_response",
+  "secondary": "price_over_budget",
+  "confidence": "low",
+  "quotes": [
+   "Omar Castellane (Chief People Officer): Right. And we looked at the cost, too, at one point, and ninety people is not a big group. That wasn't the main thing, though. I'd say it was more that the energy went out of it. We had a lot of momen"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D313": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Thaddeus Whitlock (Director of Operations): Thanks. Good team. Wrong budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D314": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D315": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Oriel Lindgren (HR Generalist): It's the budget. Your price is about fourteen thousand a year. We're sixty-eight people. That's, what, roughly seventeen dollars a head a month. The other option is around nine and a half thousand. About elev"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D316": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D317": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Omar Oyelaran (IT Manager): We did like the demo. Nothing wrong with it. It's budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D318": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Casper Delacroix (Head of HR): It was our benefits broker. We have relied upon her for many years. She handles our renewals, our carrier negotiations, our open enrollment each autumn. When she learned we were assessing payroll and HR platfo"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D320": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Rafferty Zeller (Controller): I reviewed the figures in detail. I attempted to assign value to the additional features and to the quality of the onboarding materials, which I found good. Even so, the gap is more than our budget for this cat"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D321": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D322": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D325": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D327": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Thaddeus Zeller (HR Generalist): Yeah. Let me lay it out, because I'd rather you hear the facts. As of Monday, we've got a hiring and spending freeze at Alderwick. Our CFO issued it after the Q3 numbers came in about six percent under plan."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D328": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D329": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D330": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Just writing to confirm what we discussed. Our project is on hold while leadership sorts out some changes on our side, and we won't be moving ahead with anyone for now. Nothing about your product. I'll reach out when things settle, probably"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D331": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D332": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Imani Eastwood (Operations Manager): Same. I like your reporting better. I like the people. But our budget for this, our whole budget, is set at twenty. I can't walk into the CFO and say, I need nine more because the interface is prettier."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D333": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Thank you for your time and for the thorough proposal. We've decided to go with Tallyhold. The yearly cost is the reason. Their price comes to roughly twenty-four thousand a year for our 132 people, and yours was closer to thirty-eight. We "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D334": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D335": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Fenella Lindgren (Head of People): Four days felt long because we'd had the momentum. Everyone was excited. Then you went quiet, the calendar slid, and the energy just went somewhere else."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D336": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Tobias Okonkwo (Office Manager): Well, thank you. I will let Soren speak first. He holds the budget."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D338": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Amara Dunmore (COO): She came to me and said, we have one real option. I said, then pick it. I don't love dragging these out. I had budget approved, and approved budget does not last."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D340": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Calla Ivarsson (COO): It's really our broker. Our broker's been handling our benefits renewals for, what, eight years, and she sent over a bundle. Benefits, payroll, the whole thing, with Tallyhold. And, I mean, I looked at your demo and I "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D341": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D343": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D344": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Signe Zeller (Chief People Officer): We're not going to move forward. And it's not the price. I want to be clear on that. The price was fine. The tax stuff, fine. You handled that."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D345": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D346": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D347": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Kwame Whitlock (People Operations Lead): Our broker. We have worked with the same benefits broker for eleven years, and she handles our renewals, our enrollment, all of that. She came to us with a package. It includes the payroll and HR sys"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D349": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "medium",
+  "quotes": [
+   "Soren Hollander (HR Generalist): Well, the money, really. We're 145 people, and your number came out to roughly twelve dollars a head per month, so around twenty-one thousand a year. Tallyhold's about eight-fifty a head, so, what is that, m"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D350": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D351": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Subject: Project on hold"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D352": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Thaddeus Tillbrook (VP Finance): The school year budget was set in the spring. I have $30,000 allocated for this line. I can't breach it without going to the board, and I won't take $41,800 to the board when a comparable option exists at $2"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D353": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "low",
+  "quotes": [
+   "Nadia Ashgrove (Finance Director): I'll note that the sixteen days also cost us a pricing window. They had a promotional rate that expired on the fifteenth. Yours was fine, but the other was already committed internally."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D354": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Greta Whitlock (Chief People Officer): Yeah. And Brasswick handles it. Not perfectly, but they handle it. That was it. It wasn't the price. It wasn't tax. Everything else was great."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D355": {
+  "primary": "slow_response",
+  "secondary": "price_over_budget",
+  "confidence": "low",
+  "quotes": [
+   "Amara Ashgrove (Chief People Officer): The demo itself was strong. I would have given it a serious look. But the momentum, the sponsor's patience, they were gone by then. I can't blame anyone but timing."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D356": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Casper Thorsen (Benefits Manager): And our budget is set. Thirty-five thousand. Not a dollar more. We got that number approved in June."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D357": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D358": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Delphine Rourke (Chief People Officer): Yeah. Let's not pretend. I'm tired, and I'll be honest, this is the part that worries me. We have people in five states. Last year we had a mess in March, when one of our guys lived in New Jersey, wor"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D359": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D360": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Omar Ibarra (VP of People): State payroll taxes. We have employees in four states, and in the second session I asked two questions that I did not feel were answered with confidence. The first was about a resident of Maryland who works in Vi"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D361": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Hi, thanks for walking us through everything. We've decided to keep going with the other tool we started setting up while we waited on the demo. Eleven days between calls was long enough that our sponsor moved on and we'd already loaded a f"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D362": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D363": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Maren Vasquez (HR Director): Yes, please. As I mentioned, we have employees in eleven states, and that is the area where I need to be most careful. Let me give you a concrete case. We have a number of staff who live in New Jersey and work a"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D364": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Tobias Fonseca (COO): They are. We have staff in ten states. Dental offices spread out. Every state is a different headache.\nRep: Tell me where it hurts most.\nTobias Fonseca (COO): Illinois and Wisconsin. We have hygienists who live in one "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D366": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D367": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Hollis Moreau (Office Manager): So we asked our broker for another option. He pointed us to Corvane. They had a demo in two days."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D368": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Kofi Lindgren (Chief People Officer): We do. We've got people in eight states. Priya's the one who has to sign off on compliance.\nPriya Fonseca (Compliance Lead): Right. Let me ask this. We have drivers who live in Virginia, work out of D.C"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D370": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Rafferty Yarrow (COO): Eight states. A developer moves from Texas to Colorado in July. Mid-year. What happens to withholding? Local taxes? Denver has that head tax thing.\nRep: We'd update the work state and start Colorado withholding. For D"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D371": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Bram Underhill (Office Manager): It is what it is. But here's what it cost us. On the third, we had a sponsor, our owner, who wanted this wrapped by the end of the month. By the tenth, he'd asked me three times what the status was. By the t"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D372": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Noor Hollander (Director of Operations): Yeah. Hi. I'm tired, so apologies if I ramble. We're a design studio, six states, mostly remote now. That's what keeps me up.\nRep: Tell me about it.\nNoor Hollander (Director of Operations): Okay. We "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D373": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Marisol Yarrow (Office Manager): It's not about you. Our broker put the bundle in front of us. Payroll, benefits, the whole thing under one roof. She's the one who handles our renewals every year, and I trust her. When she says this is the "
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D375": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D376": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Casper Brannigan (People Operations Lead): Our broker. She put the bundle in front of us, payroll, benefits, and the administration all together. She's handled our renewals for years. I trust her, and when she says this is the one, that car"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D377": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Rep: Teodoro, thanks for coming back. You have people in ten states?\nTeodoro Tillbrook (COO): Ten. Yeah. Printing plants, packaging, a couple of sales folks working from home. I'm tired, so let me skip the small talk. State taxes. That's wh"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D378": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Bastian Moreau (Chief People Officer): Right. And I'll say, the price isn't my worry. It's fair. If I trusted the tax stuff, we'd do it."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D379": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Odalys Ashgrove (HR Director): Of course. Oh, I love your background, is that a lake? Never mind. Okay. So, we have vet clinics in six states. And my big hang-up, you know what it is, it's payroll tax. I just can't get comfortable.\nRep: Tel"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D380": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Bram Oyelaran (People Operations Lead): Our broker. She brought us the bundle. Payroll, benefits, all in one. She handles our renewals. We've worked with her for years. I trust her."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D382": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Mirela Ivarsson (Director of Operations): Yeah. I'm tired, so forgive me. Twelve states. Logistics. People move around. That's the whole problem.\nRep: Walk me through a case.\nMirela Ivarsson (Director of Operations): Okay. Registrations. We"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D383": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Annelise Hollander (Operations Manager): No. It was well presented. I would only say that the six days mattered. Had it been sooner, I believe we would have waited for you."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D384": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Omar Cadogan (COO): Sure. Ten states. Energy services. Crews move around. I need clear answers.\nRep: Go ahead.\nOmar Cadogan (COO): First. We have field techs who live in Alabama and work jobs in Georgia. No reciprocity there. Which state ta"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D385": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Priya Whitlock (VP of People): Yeah. I'm tired, I'll be honest, it's been a week. We're only in four states, so you'd think this would be easy. It's not.\nRep: What's tripping you up?\nPriya Whitlock (VP of People): Massachusetts. We've got a"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D387": {
+  "primary": "budget_freeze",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Idris Castellane (Operations Manager): Well, it's kind of a long story, but the short version is, our owner decided to freeze all new spending until the first of the year. There's a big equipment purchase, trucks and stuff, and everything e"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D388": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D389": {
+  "primary": "price_over_budget",
+  "secondary": "tax_confidence",
+  "confidence": "low",
+  "quotes": [
+   "Lucian Moreau (HR Generalist): I know. And look, price I'm fine with. I told Teodoro already. It's not a money thing. We'd pay what you're asking."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D390": {
+  "primary": "tax_confidence",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "Annelise Delacroix (Director of Operations): Oh, yes, a couple, honestly. We're a media shop, seven states, lots of freelancers turned employees. I was just thinking, what's the worst one? Okay. Delaware. We have a producer who works in Wil"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D392": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Sunniva Valdivia (HR Director): It was our broker's recommendation. She presented the bundle to us, and she handles our renewals each year. We have long trusted her judgment, and it seemed sensible to follow her advice."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D393": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D395": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [],
+  "note": "no keyword hit",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D397": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Signe Whitlock (Head of HR): It's fine. It happens. But thirteen days is just too long. Momentum matters."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D398": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Noor Zeller (Office Manager): Our broker. She recommended the bundle, and she is the one who manages our renewals. We have worked with her for many years. When she presents a package, we give it serious weight."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D399": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "Greta Oyelaran (HR Generalist): Yes, thank you. We have employees in nine states, and I must be careful. Allow me to describe two cases. First, Louisiana. We have a depot in one parish, and I am told the parish has requirements of its own o"
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D400": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "low",
+  "quotes": [
+   "Ingrid Moreau (HR Director): And to be clear, it isn't the product and it isn't your price. I thought the number was fair. It's strictly timing, and the owner's priorities."
+  ],
+  "note": "keyword baseline",
+  "quotes_removed": [],
+  "dropped": false
+ }
+}

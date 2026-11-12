@@ -1,0 +1,1077 @@
+[
+ {
+  "deal_id": "D161",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Saltmarsh Dental Group",
+  "segment_employees": 113,
+  "states_with_employees": 3,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 6,
+  "buyer_name": "Soren Nakamura",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Maren Hollander",
+  "buyer_titles_call2": [
+   "Head of Finance",
+   "Compliance Lead"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 277,
+  "what_the_buyer_conveys": "Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals. The buyer mentions the broker by role ('our broker') and says the bundle is what the broker put in front of them.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 88
+ },
+ {
+  "deal_id": "D162",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Umber Print & Pack",
+  "segment_employees": 123,
+  "states_with_employees": 2,
+  "lead_source": "outbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 14,
+  "buyer_name": "Jules Vasquez",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Ravi Tillbrook",
+  "buyer_titles_call2": [
+   "Head of People"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 247,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 103
+ },
+ {
+  "deal_id": "D163",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Brightwater Engineering",
+  "segment_employees": 108,
+  "states_with_employees": 5,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 6,
+  "buyer_name": "Teodoro Parekh",
+  "buyer_titles_call1": [
+   "HR Director",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Signe Castellane",
+  "buyer_titles_call2": [
+   "COO",
+   "Operations Director"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 242,
+  "what_the_buyer_conveys": "Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals. The buyer mentions the broker by role ('our broker') and says the bundle is what the broker put in front of them. Secondary, mentioned briefly and clearly less important: A specific missing capability decided it: time-off accrual rules that differ by location.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 90
+ },
+ {
+  "deal_id": "D164",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Brightwater Analytics",
+  "segment_employees": 136,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Ravi Thorsen",
+  "buyer_titles_call1": [
+   "COO",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Sunniva Parekh",
+  "buyer_titles_call2": [
+   "COO",
+   "Compliance Lead"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 271,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear).",
+  "include_mobile_app_complaint": true,
+  "write_closing_email": false,
+  "target_words_email": 78
+ },
+ {
+  "deal_id": "D165",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Robotics",
+  "segment_employees": 194,
+  "states_with_employees": 3,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 14,
+  "buyer_name": "Bram Hartigan",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Yuki Santangelo",
+  "buyer_titles_call2": [
+   "CFO",
+   "HR Director"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 204,
+  "what_the_buyer_conveys": "A specific missing capability decided it: custom multi-step approval workflows. Not tax handling, not price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 86
+ },
+ {
+  "deal_id": "D166",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Hawkridge Schools Network",
+  "segment_employees": 138,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Tobias Jessamy",
+  "buyer_titles_call1": [
+   "Director of Operations",
+   "People Operations Lead",
+   "Chief People Officer"
+  ],
+  "second_buyer_name": "Mirela Jessamy",
+  "buyer_titles_call2": [
+   "Head of Finance",
+   "Benefits Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 256,
+  "what_the_buyer_conveys": "A specific missing capability decided it: flexible reporting for their board. Not tax handling, not price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 85
+ },
+ {
+  "deal_id": "D167",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Ironbark Engineering",
+  "segment_employees": 141,
+  "states_with_employees": 3,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 10,
+  "buyer_name": "Teodoro Okonkwo",
+  "buyer_titles_call1": [
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Casper Santangelo",
+  "buyer_titles_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 269,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear).",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 53
+ },
+ {
+  "deal_id": "D168",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Brightwater Robotics",
+  "segment_employees": 176,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Ravi Quillfeather",
+  "buyer_titles_call1": [
+   "People Operations Lead",
+   "HR Director",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Mirela Santangelo",
+  "buyer_titles_call2": [
+   "Finance Director"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 278,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 71
+ },
+ {
+  "deal_id": "D169",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Juniper Veterinary Partners",
+  "segment_employees": 102,
+  "states_with_employees": 2,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Amara Galbraith",
+  "buyer_titles_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Jules Abernethy",
+  "buyer_titles_call2": [
+   "Controller",
+   "General Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 351,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 89
+ },
+ {
+  "deal_id": "D170",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Redfern Freight",
+  "segment_employees": 140,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Emeka Ibarra",
+  "buyer_titles_call1": [
+   "VP of People",
+   "HR Generalist",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Dariusz Valdivia",
+  "buyer_titles_call2": [
+   "VP Finance",
+   "General Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 190,
+  "what_the_buyer_conveys": "They waited 8 days between the first call and the demo. By the time it happened the momentum or the sponsor's patience was gone and they had started something else. The buyer mentions the wait explicitly.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 60
+ },
+ {
+  "deal_id": "D171",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Gantry Design Studio",
+  "segment_employees": 107,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 12,
+  "buyer_name": "Tobias Quillfeather",
+  "buyer_titles_call1": [
+   "Head of HR",
+   "COO"
+  ],
+  "second_buyer_name": "Kwame Santangelo",
+  "buyer_titles_call2": [
+   "Compliance Lead"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 176,
+  "what_the_buyer_conveys": "They waited 12 days between the first call and the demo. By the time it happened the momentum or the sponsor's patience was gone and they had started something else. The buyer mentions the wait explicitly. Secondary, mentioned briefly and clearly less important: Money is the real obstacle.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 47
+ },
+ {
+  "deal_id": "D172",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Plumtree Analytics",
+  "segment_employees": 130,
+  "states_with_employees": 5,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 9,
+  "buyer_name": "Ingrid Oyelaran",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Yuki Zeller",
+  "buyer_titles_call2": [
+   "General Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 311,
+  "what_the_buyer_conveys": "A specific missing capability decided it: flexible reporting for their board. Not tax handling, not price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 90
+ },
+ {
+  "deal_id": "D173",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Larkspur Dental Group",
+  "segment_employees": 295,
+  "states_with_employees": 4,
+  "lead_source": "broker",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 10,
+  "buyer_name": "Priya Okonkwo",
+  "buyer_titles_call1": [
+   "HR Director",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Greta Brannigan",
+  "buyer_titles_call2": [
+   "Compliance Lead"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 267,
+  "what_the_buyer_conveys": "They have employees in 4 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 93
+ },
+ {
+  "deal_id": "D174",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Dunstan Analytics",
+  "segment_employees": 304,
+  "states_with_employees": 7,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 3,
+  "buyer_name": "Odalys Dunmore",
+  "buyer_titles_call1": [
+   "HR Director",
+   "Director of Operations",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Hollis Zeller",
+  "buyer_titles_call2": [
+   "Controller"
+  ],
+  "voice": "brisk and practical",
+  "target_words_call_notes": 209,
+  "what_the_buyer_conveys": "They have employees in 7 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 79
+ },
+ {
+  "deal_id": "D175",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Quarry Health Partners",
+  "segment_employees": 436,
+  "states_with_employees": 8,
+  "lead_source": "outbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Marisol Cadogan",
+  "buyer_titles_call1": [
+   "COO",
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Wren Zeller",
+  "buyer_titles_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 338,
+  "what_the_buyer_conveys": "They have employees in 8 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid. Secondary, mentioned briefly and clearly less important: The project stalled: a budget freeze, a change of priorities or a sponsor leaving.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 46
+ },
+ {
+  "deal_id": "D176",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Millrace Insurance Services",
+  "segment_employees": 414,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Nadia Thorsen",
+  "buyer_titles_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Priya Quillfeather",
+  "buyer_titles_call2": [
+   "Payroll Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 322,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 110
+ },
+ {
+  "deal_id": "D177",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Ironbark Software",
+  "segment_employees": 266,
+  "states_with_employees": 5,
+  "lead_source": "broker",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 13,
+  "buyer_name": "Bastian Delacroix",
+  "buyer_titles_call1": [
+   "VP of People",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Nadia Zeller",
+  "buyer_titles_call2": [
+   "CFO",
+   "General Manager"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 371,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 72
+ },
+ {
+  "deal_id": "D178",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Clinics",
+  "segment_employees": 444,
+  "states_with_employees": 11,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Signe Hollander",
+  "buyer_titles_call1": [
+   "People Operations Lead",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Ravi Yarrow",
+  "buyer_titles_call2": [
+   "Benefits Manager",
+   "General Manager"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 316,
+  "what_the_buyer_conveys": "The project stalled: a budget freeze, a change of priorities or a sponsor leaving. They did not pick any vendor. Nothing is wrong with the product or the price. Secondary, mentioned briefly and clearly less important: They have employees in 11 states.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 55
+ },
+ {
+  "deal_id": "D179",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Larkspur Schools Network",
+  "segment_employees": 398,
+  "states_with_employees": 12,
+  "lead_source": "broker",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 27,
+  "buyer_name": "Sunniva Galbraith",
+  "buyer_titles_call1": [
+   "HR Director",
+   "COO",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Ravi Jessamy",
+  "buyer_titles_call2": [
+   "General Manager",
+   "Head of People"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 293,
+  "what_the_buyer_conveys": "They have employees in 12 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 85
+ },
+ {
+  "deal_id": "D180",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Kestrel Builders",
+  "segment_employees": 341,
+  "states_with_employees": 10,
+  "lead_source": "broker",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Rafferty Cadogan",
+  "buyer_titles_call1": [
+   "Chief People Officer"
+  ],
+  "second_buyer_name": "Jules Underhill",
+  "buyer_titles_call2": [
+   "Head of People"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 373,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear).",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 91
+ },
+ {
+  "deal_id": "D181",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Millrace Schools Network",
+  "segment_employees": 362,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Wren Brannigan",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Priya Ibarra",
+  "buyer_titles_call2": [
+   "Head of Finance",
+   "Head of People"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 202,
+  "what_the_buyer_conveys": "They have employees in 5 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid. Secondary, mentioned briefly and clearly less important: The project stalled: a budget freeze, a change of priorities or a sponsor leaving.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 68
+ },
+ {
+  "deal_id": "D182",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Pinecrest Hospitality",
+  "segment_employees": 407,
+  "states_with_employees": 12,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 2,
+  "buyer_name": "Wren Eastwood",
+  "buyer_titles_call1": [
+   "HR Director",
+   "Operations Manager"
+  ],
+  "second_buyer_name": "Soren Rourke",
+  "buyer_titles_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 353,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 71
+ },
+ {
+  "deal_id": "D183",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Thornfield Robotics",
+  "segment_employees": 311,
+  "states_with_employees": 7,
+  "lead_source": "broker",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Jules Hollander",
+  "buyer_titles_call1": [
+   "VP of People"
+  ],
+  "second_buyer_name": "Wren Santangelo",
+  "buyer_titles_call2": [
+   "IT Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 294,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 78
+ },
+ {
+  "deal_id": "D184",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Saltmarsh Insurance Services",
+  "segment_employees": 339,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "none",
+  "days_from_first_call_to_demo": 6,
+  "buyer_name": "Amara Abernethy",
+  "buyer_titles_call1": [
+   "Director of Operations",
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Amara Delacroix",
+  "buyer_titles_call2": [
+   "CFO",
+   "COO"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 254,
+  "what_the_buyer_conveys": "Money is the real obstacle. The yearly cost does not fit their budget and a cheaper option exists; the buyer says so directly in their own words, with a rough per-employee or yearly number. Secondary, mentioned briefly and clearly less important: They have employees in 5 states.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 108
+ },
+ {
+  "deal_id": "D185",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Hawkridge Veterinary Partners",
+  "segment_employees": 277,
+  "states_with_employees": 6,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Dariusz Galbraith",
+  "buyer_titles_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Tobias Parekh",
+  "buyer_titles_call2": [
+   "COO",
+   "Payroll Manager"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 176,
+  "what_the_buyer_conveys": "Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals. The buyer mentions the broker by role ('our broker') and says the bundle is what the broker put in front of them.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 92
+ },
+ {
+  "deal_id": "D186",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Saltmarsh Veterinary Partners",
+  "segment_employees": 330,
+  "states_with_employees": 10,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Teodoro Whitlock",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Priya Valdivia",
+  "buyer_titles_call2": [
+   "VP Finance",
+   "Operations Director"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 372,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive. The demo happened quickly after the first call and they liked that.",
+  "include_mobile_app_complaint": true,
+  "write_closing_email": false,
+  "target_words_email": 69
+ },
+ {
+  "deal_id": "D187",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Vesper Builders",
+  "segment_employees": 248,
+  "states_with_employees": 8,
+  "lead_source": "outbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Tobias Petrakis",
+  "buyer_titles_call1": [
+   "COO",
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "second_buyer_name": "Dariusz Ivarsson",
+  "buyer_titles_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 377,
+  "what_the_buyer_conveys": "They have employees in 8 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 54
+ },
+ {
+  "deal_id": "D188",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Millrace Print & Pack",
+  "segment_employees": 315,
+  "states_with_employees": 4,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Wren Nakamura",
+  "buyer_titles_call1": [
+   "VP of People",
+   "Head of HR"
+  ],
+  "second_buyer_name": "Nadia Cadogan",
+  "buyer_titles_call2": [
+   "Finance Director",
+   "Benefits Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 276,
+  "what_the_buyer_conveys": "They have employees in 4 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid. Secondary, mentioned briefly and clearly less important: They waited 5 days between the first call and the demo.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 82
+ },
+ {
+  "deal_id": "D189",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Juniper Fabrication",
+  "segment_employees": 327,
+  "states_with_employees": 7,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 8,
+  "buyer_name": "Beatrix Hartigan",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "VP of People"
+  ],
+  "second_buyer_name": "Nadia Castellane",
+  "buyer_titles_call2": [
+   "Controller",
+   "Compliance Lead"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 270,
+  "what_the_buyer_conveys": "Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals. The buyer mentions the broker by role ('our broker') and says the bundle is what the broker put in front of them.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 82
+ },
+ {
+  "deal_id": "D190",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Millrace Builders",
+  "segment_employees": 303,
+  "states_with_employees": 12,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Bram Nakamura",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "Director of Operations"
+  ],
+  "second_buyer_name": "Dariusz Galbraith",
+  "buyer_titles_call2": [
+   "Head of Finance"
+  ],
+  "voice": "chatty, thinks out loud",
+  "target_words_call_notes": 332,
+  "what_the_buyer_conveys": "They have employees in 12 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid. Secondary, mentioned briefly and clearly less important: The project stalled: a budget freeze, a change of priorities or a sponsor leaving.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 78
+ },
+ {
+  "deal_id": "D191",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Umber Engineering",
+  "segment_employees": 392,
+  "states_with_employees": 12,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Bastian Castellane",
+  "buyer_titles_call1": [
+   "Director of Operations",
+   "VP of People",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Priya Brannigan",
+  "buyer_titles_call2": [
+   "Finance Director",
+   "Payroll Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 337,
+  "what_the_buyer_conveys": "They have employees in 12 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 110
+ },
+ {
+  "deal_id": "D192",
+  "outcome": "won",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Redfern Clinics",
+  "segment_employees": 431,
+  "states_with_employees": 7,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 10,
+  "buyer_name": "Yuki Jessamy",
+  "buyer_titles_call1": [
+   "Head of HR"
+  ],
+  "second_buyer_name": "Nadia Ashgrove",
+  "buyer_titles_call2": [
+   "VP Finance",
+   "General Manager"
+  ],
+  "voice": "friendly, a little rambling",
+  "target_words_call_notes": 324,
+  "what_the_buyer_conveys": "They chose Lanternmere HR. The buyer explains in their own words what convinced them (pick one or two: the demo answered their real questions, support felt responsive, implementation plan was clear). The finance leader on the second call asked pointed questions and ended up supportive.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 57
+ },
+ {
+  "deal_id": "D193",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Fernhollow Engineering",
+  "segment_employees": 249,
+  "states_with_employees": 11,
+  "lead_source": "broker",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 7,
+  "buyer_name": "Mirela Thorsen",
+  "buyer_titles_call1": [
+   "HR Director"
+  ],
+  "second_buyer_name": "Bram Lindgren",
+  "buyer_titles_call2": [
+   "IT Manager",
+   "COO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 173,
+  "what_the_buyer_conveys": "A specific missing capability decided it: automatic benefits carrier file feeds. Not tax handling, not price. Secondary, mentioned briefly and clearly less important: Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": true,
+  "target_words_email": 89
+ },
+ {
+  "deal_id": "D194",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Gantry Foods",
+  "segment_employees": 447,
+  "states_with_employees": 12,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 14,
+  "buyer_name": "Mirela Okonkwo",
+  "buyer_titles_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Lucian Galbraith",
+  "buyer_titles_call2": [
+   "Benefits Manager",
+   "Compliance Lead"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 368,
+  "what_the_buyer_conveys": "They have employees in 12 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 60
+ },
+ {
+  "deal_id": "D195",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Ravenscar Staffing",
+  "segment_employees": 393,
+  "states_with_employees": 11,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 6,
+  "buyer_name": "Imani Lindgren",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "VP of People",
+   "HR Director"
+  ],
+  "second_buyer_name": "Beatrix Dunmore",
+  "buyer_titles_call2": [
+   "Payroll Manager"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 330,
+  "what_the_buyer_conveys": "The buyer is polite but vague: they are 'going a different direction' or 'making a change', and never says why. Do NOT hint at price, features, brokers, timing or anything that would reveal a reason. Keep it friendly and empty.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 96
+ },
+ {
+  "deal_id": "D196",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Pinecrest Staffing",
+  "segment_employees": 441,
+  "states_with_employees": 6,
+  "lead_source": "broker",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Amara Eastwood",
+  "buyer_titles_call1": [
+   "Operations Manager",
+   "Head of HR",
+   "VP of People"
+  ],
+  "second_buyer_name": "Casper Oyelaran",
+  "buyer_titles_call2": [
+   "Payroll Manager"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 293,
+  "what_the_buyer_conveys": "They have employees in 6 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 58
+ },
+ {
+  "deal_id": "D197",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Thornfield Foods",
+  "segment_employees": 268,
+  "states_with_employees": 5,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Brasswick Payroll",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Tobias Whitlock",
+  "buyer_titles_call1": [
+   "HR Generalist",
+   "HR Director"
+  ],
+  "second_buyer_name": "Casper Hartigan",
+  "buyer_titles_call2": [
+   "IT Manager",
+   "COO"
+  ],
+  "voice": "analytical, cites specifics",
+  "target_words_call_notes": 194,
+  "what_the_buyer_conveys": "They have employees in 5 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid. Secondary, mentioned briefly and clearly less important: The project stalled: a budget freeze, a change of priorities or a sponsor leaving.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 82
+ },
+ {
+  "deal_id": "D198",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Yellowpine Media",
+  "segment_employees": 425,
+  "states_with_employees": 7,
+  "lead_source": "broker",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 5,
+  "buyer_name": "Calla Oyelaran",
+  "buyer_titles_call1": [
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Greta Fonseca",
+  "buyer_titles_call2": [
+   "Operations Director",
+   "HR Director"
+  ],
+  "voice": "formal and careful",
+  "target_words_call_notes": 273,
+  "what_the_buyer_conveys": "They have employees in 7 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 110
+ },
+ {
+  "deal_id": "D199",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Quarry Schools Network",
+  "segment_employees": 363,
+  "states_with_employees": 12,
+  "lead_source": "broker",
+  "competitor_in_crm": "Tallyhold",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Nadia Thorsen",
+  "buyer_titles_call1": [
+   "HR Generalist"
+  ],
+  "second_buyer_name": "Fenella Jessamy",
+  "buyer_titles_call2": [
+   "COO",
+   "Operations Director"
+  ],
+  "voice": "direct, short sentences",
+  "target_words_call_notes": 378,
+  "what_the_buyer_conveys": "They have employees in 12 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid. Secondary, mentioned briefly and clearly less important: Their benefits broker recommended Tallyhold and the buyer is following that advice because they trust the broker and the broker handles their renewals.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 49
+ },
+ {
+  "deal_id": "D200",
+  "outcome": "lost",
+  "our_company": "Lanternmere HR",
+  "prospect_company": "Hawkridge Outfitters",
+  "segment_employees": 310,
+  "states_with_employees": 8,
+  "lead_source": "inbound",
+  "competitor_in_crm": "Corvane",
+  "days_from_first_call_to_demo": 4,
+  "buyer_name": "Linnea Oyelaran",
+  "buyer_titles_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "second_buyer_name": "Kofi Parekh",
+  "buyer_titles_call2": [
+   "Compliance Lead",
+   "Operations Director"
+  ],
+  "voice": "tired and candid",
+  "target_words_call_notes": 216,
+  "what_the_buyer_conveys": "They have employees in 8 states. The buyer is worried about how our payroll handles state and local payroll taxes: registrations, filings, reciprocity between neighboring states, mid-year moves. Give one or two concrete situations they asked about where our answer was thin or 'we'd have to check'. Price may come up once in passing but is NOT the reason; they would pay our price if the tax handling were solid.",
+  "include_mobile_app_complaint": false,
+  "write_closing_email": false,
+  "target_words_email": 66
+ }
+]

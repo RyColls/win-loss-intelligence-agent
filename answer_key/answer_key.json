@@ -1,0 +1,4076 @@
+{
+ "note": "Answer key. The analysis agent never reads this file. Published so a reader can see the test was fair.",
+ "seed": 20261111,
+ "company": "Lanternmere HR",
+ "competitors": {
+  "incumbent": "Brasswick Payroll",
+  "bundler": "Tallyhold",
+  "multistate": "Corvane"
+ },
+ "planted_patterns": {
+  "P1_feature_gap_upmarket": "200-500 segment: most losses are weak multi-state payroll tax handling; CRM says Price",
+  "P2_mix_shift": "share of 200-500 deals grows each quarter: 2025-Q4=20%, 2026-Q1=28%, 2026-Q2=36%, 2026-Q3=44%",
+  "P3_broker_conflict": "broker-sourced deals lose to the bundler because the broker recommended it",
+  "P4_slow_demos": "deals waiting more than 10 days for a demo win at half the rate; mean wait by quarter [6.0, 7.5, 9.0, 11.0]",
+  "P5_finance_leader": "a finance leader on the second call roughly doubles the win rate",
+  "P6_price_real_in_one_place": "price is the true main reason only in the 50-99 segment"
+ },
+ "false_trails": {
+  "F1_rep_tenure": "rep tenure is random and unrelated to outcome",
+  "F2_mobile_app_complaint": "vivid mobile-app complaint in 8 transcripts, unrelated to outcome or reason"
+ },
+ "ambiguous_losses": [
+  "D002",
+  "D016",
+  "D028",
+  "D036",
+  "D045",
+  "D052",
+  "D062",
+  "D077",
+  "D084",
+  "D097",
+  "D121",
+  "D124",
+  "D143",
+  "D146",
+  "D176",
+  "D182",
+  "D183",
+  "D195",
+  "D209",
+  "D216",
+  "D236",
+  "D246",
+  "D258",
+  "D267",
+  "D269",
+  "D290",
+  "D295",
+  "D321",
+  "D325",
+  "D341",
+  "D343",
+  "D346",
+  "D350",
+  "D357",
+  "D359",
+  "D362",
+  "D375",
+  "D388",
+  "D393",
+  "D395"
+ ],
+ "mobile_complaint_deals": [
+  "D104",
+  "D127",
+  "D128",
+  "D164",
+  "D186",
+  "D249",
+  "D269",
+  "D333"
+ ],
+ "deals": {
+  "D001": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 12
+  },
+  "D002": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 48
+  },
+  "D003": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 86
+  },
+  "D004": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 17
+  },
+  "D005": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 26
+  },
+  "D006": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 69
+  },
+  "D007": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 65
+  },
+  "D008": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 6
+  },
+  "D009": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 34
+  },
+  "D010": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 25
+  },
+  "D011": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D012": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 82
+  },
+  "D013": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 8
+  },
+  "D014": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 84
+  },
+  "D015": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 80
+  },
+  "D016": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": true,
+   "rep_tenure_months": 16
+  },
+  "D017": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D018": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 4
+  },
+  "D019": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 86
+  },
+  "D020": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 33
+  },
+  "D021": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 88
+  },
+  "D022": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 6
+  },
+  "D023": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 96
+  },
+  "D024": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 31
+  },
+  "D025": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 47
+  },
+  "D026": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 28
+  },
+  "D027": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 27
+  },
+  "D028": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 59
+  },
+  "D029": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 62
+  },
+  "D030": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 14
+  },
+  "D031": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 96
+  },
+  "D032": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 3
+  },
+  "D033": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 63
+  },
+  "D034": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 54
+  },
+  "D035": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 31
+  },
+  "D036": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 61
+  },
+  "D037": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 31
+  },
+  "D038": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 96
+  },
+  "D039": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 93
+  },
+  "D040": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 12
+  },
+  "D041": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 11
+  },
+  "D042": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 54
+  },
+  "D043": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 87
+  },
+  "D044": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 20
+  },
+  "D045": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 92
+  },
+  "D046": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 91
+  },
+  "D047": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 25
+  },
+  "D048": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 68
+  },
+  "D049": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 25
+  },
+  "D050": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 26
+  },
+  "D051": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 52
+  },
+  "D052": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 44
+  },
+  "D053": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 66
+  },
+  "D054": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D055": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 18
+  },
+  "D056": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 31
+  },
+  "D057": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 34
+  },
+  "D058": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 56
+  },
+  "D059": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 56
+  },
+  "D060": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 14
+  },
+  "D061": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 3
+  },
+  "D062": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 58
+  },
+  "D063": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 31
+  },
+  "D064": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 45
+  },
+  "D065": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 50
+  },
+  "D066": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 12
+  },
+  "D067": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 85
+  },
+  "D068": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 10
+  },
+  "D069": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 17
+  },
+  "D070": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D071": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 31
+  },
+  "D072": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 80
+  },
+  "D073": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 10
+  },
+  "D074": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D075": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 34
+  },
+  "D076": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 74
+  },
+  "D077": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 23
+  },
+  "D078": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 48
+  },
+  "D079": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 33
+  },
+  "D080": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 14
+  },
+  "D081": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 93
+  },
+  "D082": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 26
+  },
+  "D083": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 88
+  },
+  "D084": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": true,
+   "rep_tenure_months": 46
+  },
+  "D085": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 66
+  },
+  "D086": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 61
+  },
+  "D087": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 29
+  },
+  "D088": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 69
+  },
+  "D089": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 60
+  },
+  "D090": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 67
+  },
+  "D091": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 14
+  },
+  "D092": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 95
+  },
+  "D093": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 70
+  },
+  "D094": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 47
+  },
+  "D095": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 72
+  },
+  "D096": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 75
+  },
+  "D097": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 91
+  },
+  "D098": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 29
+  },
+  "D099": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 61
+  },
+  "D100": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2025-Q4",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 18
+  },
+  "D101": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 27
+  },
+  "D102": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 18
+  },
+  "D103": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 15
+  },
+  "D104": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 92
+  },
+  "D105": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 69
+  },
+  "D106": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 58
+  },
+  "D107": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 20
+  },
+  "D108": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 85
+  },
+  "D109": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 48
+  },
+  "D110": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 87
+  },
+  "D111": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 65
+  },
+  "D112": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D113": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 8
+  },
+  "D114": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 42
+  },
+  "D115": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 90
+  },
+  "D116": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 66
+  },
+  "D117": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 75
+  },
+  "D118": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 40
+  },
+  "D119": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 16
+  },
+  "D120": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 72
+  },
+  "D121": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 23
+  },
+  "D122": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 36
+  },
+  "D123": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 36
+  },
+  "D124": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 3
+  },
+  "D125": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 37
+  },
+  "D126": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 48
+  },
+  "D127": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 32
+  },
+  "D128": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 85
+  },
+  "D129": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 24
+  },
+  "D130": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 95
+  },
+  "D131": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 17
+  },
+  "D132": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 32
+  },
+  "D133": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 15
+  },
+  "D134": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 63
+  },
+  "D135": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 55
+  },
+  "D136": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 73
+  },
+  "D137": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 65
+  },
+  "D138": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D139": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 38
+  },
+  "D140": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D141": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 65
+  },
+  "D142": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 35
+  },
+  "D143": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 58
+  },
+  "D144": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 63
+  },
+  "D145": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 8
+  },
+  "D146": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 33
+  },
+  "D147": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 61
+  },
+  "D148": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 19
+  },
+  "D149": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 50
+  },
+  "D150": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D151": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D152": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 65
+  },
+  "D153": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 17
+  },
+  "D154": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 38
+  },
+  "D155": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 42
+  },
+  "D156": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 26
+  },
+  "D157": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 72
+  },
+  "D158": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 29
+  },
+  "D159": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 61
+  },
+  "D160": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 42
+  },
+  "D161": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 20
+  },
+  "D162": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 7
+  },
+  "D163": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 15
+  },
+  "D164": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 86
+  },
+  "D165": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 92
+  },
+  "D166": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 94
+  },
+  "D167": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 23
+  },
+  "D168": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 3
+  },
+  "D169": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 69
+  },
+  "D170": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 90
+  },
+  "D171": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 94
+  },
+  "D172": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D173": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 51
+  },
+  "D174": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 16
+  },
+  "D175": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 74
+  },
+  "D176": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 59
+  },
+  "D177": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 62
+  },
+  "D178": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "no_decision",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D179": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 25
+  },
+  "D180": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 85
+  },
+  "D181": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 39
+  },
+  "D182": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D183": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 70
+  },
+  "D184": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "price",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 37
+  },
+  "D185": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 35
+  },
+  "D186": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 85
+  },
+  "D187": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 37
+  },
+  "D188": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 68
+  },
+  "D189": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 12
+  },
+  "D190": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 78
+  },
+  "D191": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 58
+  },
+  "D192": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 49
+  },
+  "D193": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 45
+  },
+  "D194": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 59
+  },
+  "D195": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 18
+  },
+  "D196": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 88
+  },
+  "D197": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 29
+  },
+  "D198": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 46
+  },
+  "D199": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 73
+  },
+  "D200": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q1",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 40
+  },
+  "D201": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 81
+  },
+  "D202": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 81
+  },
+  "D203": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 7
+  },
+  "D204": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D205": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 61
+  },
+  "D206": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 10
+  },
+  "D207": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D208": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 11
+  },
+  "D209": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 3
+  },
+  "D210": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D211": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 10
+  },
+  "D212": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 65
+  },
+  "D213": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 48
+  },
+  "D214": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 74
+  },
+  "D215": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 36
+  },
+  "D216": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 37
+  },
+  "D217": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 78
+  },
+  "D218": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 58
+  },
+  "D219": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 20
+  },
+  "D220": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D221": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 80
+  },
+  "D222": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 37
+  },
+  "D223": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 11
+  },
+  "D224": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 69
+  },
+  "D225": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 6
+  },
+  "D226": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 71
+  },
+  "D227": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 64
+  },
+  "D228": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 7
+  },
+  "D229": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 20
+  },
+  "D230": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 49
+  },
+  "D231": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 11
+  },
+  "D232": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 43
+  },
+  "D233": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 37
+  },
+  "D234": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 23
+  },
+  "D235": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 44
+  },
+  "D236": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 22
+  },
+  "D237": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 90
+  },
+  "D238": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 54
+  },
+  "D239": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 92
+  },
+  "D240": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 82
+  },
+  "D241": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 86
+  },
+  "D242": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 18
+  },
+  "D243": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 60
+  },
+  "D244": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 75
+  },
+  "D245": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 87
+  },
+  "D246": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": true,
+   "rep_tenure_months": 33
+  },
+  "D247": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 20
+  },
+  "D248": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 61
+  },
+  "D249": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 48
+  },
+  "D250": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 49
+  },
+  "D251": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 26
+  },
+  "D252": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 90
+  },
+  "D253": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 28
+  },
+  "D254": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 40
+  },
+  "D255": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 19
+  },
+  "D256": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 17
+  },
+  "D257": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 56
+  },
+  "D258": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 87
+  },
+  "D259": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 33
+  },
+  "D260": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D261": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 52
+  },
+  "D262": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 45
+  },
+  "D263": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 16
+  },
+  "D264": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 78
+  },
+  "D265": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 26
+  },
+  "D266": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 44
+  },
+  "D267": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 17
+  },
+  "D268": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 14
+  },
+  "D269": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": true,
+   "rep_tenure_months": 93
+  },
+  "D270": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D271": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 22
+  },
+  "D272": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 73
+  },
+  "D273": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 61
+  },
+  "D274": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 69
+  },
+  "D275": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 87
+  },
+  "D276": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 48
+  },
+  "D277": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 42
+  },
+  "D278": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "no_decision",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D279": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 64
+  },
+  "D280": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 58
+  },
+  "D281": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 11
+  },
+  "D282": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 75
+  },
+  "D283": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 52
+  },
+  "D284": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 25
+  },
+  "D285": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 81
+  },
+  "D286": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 41
+  },
+  "D287": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 82
+  },
+  "D288": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 35
+  },
+  "D289": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D290": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 82
+  },
+  "D291": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 18
+  },
+  "D292": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 48
+  },
+  "D293": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 91
+  },
+  "D294": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 53
+  },
+  "D295": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 82
+  },
+  "D296": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 63
+  },
+  "D297": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 54
+  },
+  "D298": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 62
+  },
+  "D299": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 85
+  },
+  "D300": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q2",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 27
+  },
+  "D301": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 15
+  },
+  "D302": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 38
+  },
+  "D303": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 32
+  },
+  "D304": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 26
+  },
+  "D305": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 11
+  },
+  "D306": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 12
+  },
+  "D307": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 44
+  },
+  "D308": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 18
+  },
+  "D309": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 72
+  },
+  "D310": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "price",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 93
+  },
+  "D311": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 47
+  },
+  "D312": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D313": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 45
+  },
+  "D314": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 43
+  },
+  "D315": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 35
+  },
+  "D316": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 5
+  },
+  "D317": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 15
+  },
+  "D318": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 92
+  },
+  "D319": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 65
+  },
+  "D320": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 26
+  },
+  "D321": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 22
+  },
+  "D322": {
+   "outcome": "lost",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 70
+  },
+  "D323": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 73
+  },
+  "D324": {
+   "outcome": "won",
+   "segment": "50-99",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 31
+  },
+  "D325": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 48
+  },
+  "D326": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 18
+  },
+  "D327": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 85
+  },
+  "D328": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 63
+  },
+  "D329": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 64
+  },
+  "D330": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 72
+  },
+  "D331": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 91
+  },
+  "D332": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 83
+  },
+  "D333": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 19
+  },
+  "D334": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 63
+  },
+  "D335": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 31
+  },
+  "D336": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 91
+  },
+  "D337": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 89
+  },
+  "D338": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 85
+  },
+  "D339": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 13
+  },
+  "D340": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 22
+  },
+  "D341": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 95
+  },
+  "D342": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 33
+  },
+  "D343": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 49
+  },
+  "D344": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 3
+  },
+  "D345": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "other_feature_gap",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 3
+  },
+  "D346": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 73
+  },
+  "D347": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 12
+  },
+  "D348": {
+   "outcome": "won",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 62
+  },
+  "D349": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 66
+  },
+  "D350": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": true,
+   "rep_tenure_months": 74
+  },
+  "D351": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 58
+  },
+  "D352": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": "slow_demo_followup",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 15
+  },
+  "D353": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 88
+  },
+  "D354": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "other_feature_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 10
+  },
+  "D355": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 65
+  },
+  "D356": {
+   "outcome": "lost",
+   "segment": "100-199",
+   "quarter": "2026-Q3",
+   "true_primary": "price",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 9
+  },
+  "D357": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": true,
+   "rep_tenure_months": 61
+  },
+  "D358": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 13
+  },
+  "D359": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 88
+  },
+  "D360": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 95
+  },
+  "D361": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 22
+  },
+  "D362": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 23
+  },
+  "D363": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "broker_recommended_competitor",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 41
+  },
+  "D364": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 11
+  },
+  "D365": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 32
+  },
+  "D366": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 28
+  },
+  "D367": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 72
+  },
+  "D368": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 51
+  },
+  "D369": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 88
+  },
+  "D370": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 76
+  },
+  "D371": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 51
+  },
+  "D372": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 76
+  },
+  "D373": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D374": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 11
+  },
+  "D375": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 29
+  },
+  "D376": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 17
+  },
+  "D377": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "other_feature_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D378": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 4
+  },
+  "D379": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 45
+  },
+  "D380": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 15
+  },
+  "D381": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 76
+  },
+  "D382": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 60
+  },
+  "D383": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 92
+  },
+  "D384": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 28
+  },
+  "D385": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 37
+  },
+  "D386": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 94
+  },
+  "D387": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 32
+  },
+  "D388": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 68
+  },
+  "D389": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 41
+  },
+  "D390": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 54
+  },
+  "D391": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 39
+  },
+  "D392": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 21
+  },
+  "D393": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 95
+  },
+  "D394": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 34
+  },
+  "D395": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "unclear",
+   "true_secondary": null,
+   "ambiguous": true,
+   "finance_on_call2": false,
+   "rep_tenure_months": 36
+  },
+  "D396": {
+   "outcome": "won",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": null,
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": true,
+   "rep_tenure_months": 25
+  },
+  "D397": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "slow_demo_followup",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 93
+  },
+  "D398": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "broker_recommended_competitor",
+   "true_secondary": "multistate_tax_gap",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 79
+  },
+  "D399": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "multistate_tax_gap",
+   "true_secondary": "no_decision",
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 23
+  },
+  "D400": {
+   "outcome": "lost",
+   "segment": "200-500",
+   "quarter": "2026-Q3",
+   "true_primary": "no_decision",
+   "true_secondary": null,
+   "ambiguous": false,
+   "finance_on_call2": false,
+   "rep_tenure_months": 56
+  }
+ }
+}

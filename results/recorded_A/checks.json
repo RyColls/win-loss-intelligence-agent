@@ -1,0 +1,19 @@
+{
+ "backend": "recorded-A",
+ "model": "claude-sonnet-5-5 (Claude Code subagent)",
+ "quotes": {
+  "quotes_checked": 381,
+  "quotes_failed": 0,
+  "codings_dropped": 0,
+  "quote_integrity_pct": 100.0
+ },
+ "brief_quotes": {
+  "checked": 39,
+  "failed": 0
+ },
+ "numbers": {
+  "figures_checked": 49,
+  "problems": [],
+  "number_integrity_pct": 100.0
+ }
+}

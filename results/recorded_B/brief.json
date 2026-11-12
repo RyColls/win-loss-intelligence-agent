@@ -1,0 +1,2117 @@
+{
+ "title": "Why Lanternmere HR is losing deals",
+ "claims": [
+  {
+   "id": "H1",
+   "section": 1,
+   "kind": "finding",
+   "text": "Win rate fell from 28% to 19% over four quarters, a drop of 9.0 points. About 3.8 points of the drop come from selling to a larger share of 200–500 employee companies, which we win least often; the other 5.2 points are deals we now lose within segments.",
+   "figures": {
+    "w0": {
+     "value": 28.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "quarter": "2025-Q4",
+       "outcome": "won"
+      },
+      "den": {
+       "quarter": "2025-Q4"
+      }
+     }
+    },
+    "w1": {
+     "value": 19.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "quarter": "2026-Q3",
+       "outcome": "won"
+      },
+      "den": {
+       "quarter": "2026-Q3"
+      }
+     }
+    },
+    "drop": {
+     "value": -9.0,
+     "unit": "pts",
+     "query": {
+      "op": "shift_share",
+      "part": "total",
+      "q0": "2025-Q4",
+      "q1": "2026-Q3",
+      "segments": [
+       "50-99",
+       "100-199",
+       "200-500"
+      ]
+     }
+    },
+    "mix": {
+     "value": -3.800000000000002,
+     "unit": "pts",
+     "query": {
+      "op": "shift_share",
+      "part": "mix",
+      "q0": "2025-Q4",
+      "q1": "2026-Q3",
+      "segments": [
+       "50-99",
+       "100-199",
+       "200-500"
+      ]
+     }
+    },
+    "perf": {
+     "value": -5.2,
+     "unit": "pts",
+     "query": {
+      "op": "shift_share",
+      "part": "perf",
+      "q0": "2025-Q4",
+      "q1": "2026-Q3",
+      "segments": [
+       "50-99",
+       "100-199",
+       "200-500"
+      ]
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D001",
+     "D002",
+     "D003",
+     "D004",
+     "D005",
+     "D006",
+     "D007",
+     "D008",
+     "D009",
+     "D010",
+     "D011",
+     "D012",
+     "D013",
+     "D014",
+     "D015",
+     "D016",
+     "D017",
+     "D018",
+     "D019",
+     "D020",
+     "D021",
+     "D022",
+     "D023",
+     "D024",
+     "D025",
+     "D026",
+     "D027",
+     "D028",
+     "D029",
+     "D030",
+     "D031",
+     "D032",
+     "D033",
+     "D034",
+     "D035",
+     "D036",
+     "D037",
+     "D038",
+     "D039",
+     "D040",
+     "D041",
+     "D042",
+     "D043",
+     "D044",
+     "D045",
+     "D046",
+     "D047",
+     "D048",
+     "D049",
+     "D050",
+     "D051",
+     "D052",
+     "D053",
+     "D054",
+     "D055",
+     "D056",
+     "D057",
+     "D058",
+     "D059",
+     "D060",
+     "D061",
+     "D062",
+     "D063",
+     "D064",
+     "D065",
+     "D066",
+     "D067",
+     "D068",
+     "D069",
+     "D070",
+     "D071",
+     "D072",
+     "D073",
+     "D074",
+     "D075",
+     "D076",
+     "D077",
+     "D078",
+     "D079",
+     "D080",
+     "D081",
+     "D082",
+     "D083",
+     "D084",
+     "D085",
+     "D086",
+     "D087",
+     "D088",
+     "D089",
+     "D090",
+     "D091",
+     "D092",
+     "D093",
+     "D094",
+     "D095",
+     "D096",
+     "D097",
+     "D098",
+     "D099",
+     "D100",
+     "D301",
+     "D302",
+     "D303",
+     "D304",
+     "D305",
+     "D306",
+     "D307",
+     "D308",
+     "D309",
+     "D310",
+     "D311",
+     "D312",
+     "D313",
+     "D314",
+     "D315",
+     "D316",
+     "D317",
+     "D318",
+     "D319",
+     "D320",
+     "D321",
+     "D322",
+     "D323",
+     "D324",
+     "D325",
+     "D326",
+     "D327",
+     "D328",
+     "D329",
+     "D330",
+     "D331",
+     "D332",
+     "D333",
+     "D334",
+     "D335",
+     "D336",
+     "D337",
+     "D338",
+     "D339",
+     "D340",
+     "D341",
+     "D342",
+     "D343",
+     "D344",
+     "D345",
+     "D346",
+     "D347",
+     "D348",
+     "D349",
+     "D350",
+     "D351",
+     "D352",
+     "D353",
+     "D354",
+     "D355",
+     "D356",
+     "D357",
+     "D358",
+     "D359",
+     "D360",
+     "D361",
+     "D362",
+     "D363",
+     "D364",
+     "D365",
+     "D366",
+     "D367",
+     "D368",
+     "D369",
+     "D370",
+     "D371",
+     "D372",
+     "D373",
+     "D374",
+     "D375",
+     "D376",
+     "D377",
+     "D378",
+     "D379",
+     "D380",
+     "D381",
+     "D382",
+     "D383",
+     "D384",
+     "D385",
+     "D386",
+     "D387",
+     "D388",
+     "D389",
+     "D390",
+     "D391",
+     "D392",
+     "D393",
+     "D394",
+     "D395",
+     "D396",
+     "D397",
+     "D398",
+     "D399",
+     "D400"
+    ],
+    "quotes": []
+   }
+  },
+  {
+   "id": "H2",
+   "section": 1,
+   "kind": "finding",
+   "text": "The CRM blames price for 61% of losses, but in the buyers’ own words price is the main reason for only 20%.",
+   "figures": {
+    "crm": {
+     "value": 60.98360655737705,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "crm_loss_reason": "Price"
+      },
+      "den": {
+       "outcome": "lost"
+      }
+     }
+    },
+    "coded": {
+     "value": 20.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "role": "price"
+      },
+      "den": {
+       "outcome": "lost"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D003",
+     "D014",
+     "D025",
+     "D033",
+     "D034",
+     "D043",
+     "D046",
+     "D054",
+     "D055",
+     "D056",
+     "D059",
+     "D070",
+     "D073",
+     "D078",
+     "D082",
+     "D085",
+     "D088",
+     "D090",
+     "D091",
+     "D093",
+     "D095",
+     "D096",
+     "D098",
+     "D103",
+     "D106",
+     "D111",
+     "D132",
+     "D135",
+     "D136",
+     "D142",
+     "D145",
+     "D147",
+     "D148",
+     "D159",
+     "D162",
+     "D165",
+     "D171",
+     "D173",
+     "D175",
+     "D177",
+     "D178",
+     "D181",
+     "D187",
+     "D194",
+     "D197",
+     "D198",
+     "D204",
+     "D206",
+     "D232",
+     "D234",
+     "D235",
+     "D239",
+     "D245",
+     "D248",
+     "D249",
+     "D250",
+     "D252",
+     "D253",
+     "D259",
+     "D262",
+     "D264",
+     "D265",
+     "D270",
+     "D275",
+     "D276",
+     "D278",
+     "D284",
+     "D286",
+     "D287",
+     "D288",
+     "D292",
+     "D294",
+     "D298",
+     "D299",
+     "D309",
+     "D310",
+     "D314",
+     "D318",
+     "D322",
+     "D329",
+     "D330",
+     "D331",
+     "D335",
+     "D338",
+     "D340",
+     "D345",
+     "D354",
+     "D366",
+     "D368",
+     "D370",
+     "D371",
+     "D372",
+     "D376",
+     "D377",
+     "D378",
+     "D379",
+     "D382",
+     "D385",
+     "D390",
+     "D392",
+     "D398",
+     "D400"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D003",
+      "quote": "You do not have an applicant tracking module."
+     },
+     {
+      "deal_id": "D014",
+      "quote": "But the broker relationship is the deciding factor, as Soren says."
+     },
+     {
+      "deal_id": "D025",
+      "quote": "The answer was that you support a single approver, or two at most, without custom steps."
+     }
+    ]
+   }
+  },
+  {
+   "id": "S1",
+   "section": 2,
+   "kind": "finding",
+   "text": "In 50–99 employee deals, the most common main reason for a loss is price, behind 44% of the 93 losses. Next comes a broker steering the buyer to a competitor, at 19%.",
+   "figures": {
+    "a": {
+     "value": 44.086021505376344,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "50-99",
+       "role": "price"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "50-99"
+      }
+     }
+    },
+    "n": {
+     "value": 93.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "outcome": "lost",
+       "segment": "50-99"
+      }
+     }
+    },
+    "b": {
+     "value": 19.35483870967742,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "50-99",
+       "role": "broker"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "50-99"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D004",
+     "D010",
+     "D012",
+     "D015",
+     "D017",
+     "D020",
+     "D021",
+     "D026",
+     "D027",
+     "D029",
+     "D035",
+     "D101",
+     "D104",
+     "D105",
+     "D107",
+     "D108",
+     "D109",
+     "D113",
+     "D120",
+     "D123",
+     "D125",
+     "D127",
+     "D130",
+     "D131",
+     "D134",
+     "D207",
+     "D210",
+     "D212",
+     "D218",
+     "D221",
+     "D224",
+     "D229",
+     "D230",
+     "D303",
+     "D304",
+     "D305",
+     "D306",
+     "D313",
+     "D315",
+     "D317",
+     "D320"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D004",
+      "quote": "Even stripped down, you were still four grand over what we budgeted."
+     },
+     {
+      "deal_id": "D010",
+      "quote": "Cost. Your number is around fourteen thousand a year."
+     },
+     {
+      "deal_id": "D012",
+      "quote": "It's the money, to be honest."
+     }
+    ]
+   }
+  },
+  {
+   "id": "S2",
+   "section": 2,
+   "kind": "finding",
+   "text": "In 100–199 employee deals, the most common main reason for a loss is a slow demo, behind 23% of the 106 losses. Next comes a stalled project, at 19%.",
+   "figures": {
+    "a": {
+     "value": 22.641509433962263,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "100-199",
+       "role": "slow_demo"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "100-199"
+      }
+     }
+    },
+    "n": {
+     "value": 106.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "outcome": "lost",
+       "segment": "100-199"
+      }
+     }
+    },
+    "b": {
+     "value": 18.867924528301888,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "100-199",
+       "role": "stall"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "100-199"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D041",
+     "D043",
+     "D051",
+     "D066",
+     "D145",
+     "D147",
+     "D148",
+     "D154",
+     "D170",
+     "D171",
+     "D235",
+     "D250",
+     "D252",
+     "D253",
+     "D254",
+     "D262",
+     "D328",
+     "D329",
+     "D331",
+     "D334",
+     "D335",
+     "D338",
+     "D353",
+     "D355"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D041",
+      "quote": "Then four days went by before the demo, four full days"
+     },
+     {
+      "deal_id": "D043",
+      "quote": "The ten days between our first conversation and the demo really did take the wind out of it for us"
+     },
+     {
+      "deal_id": "D051",
+      "quote": "The five days between our first call and the demo gave us time to begin a trial elsewhere, and we're now too far along to switch."
+     }
+    ]
+   }
+  },
+  {
+   "id": "S3",
+   "section": 2,
+   "kind": "finding",
+   "text": "In 200–500 employee deals, the most common main reason for a loss is multi-state payroll tax handling, behind 54% of the 106 losses. Next comes a broker steering the buyer to a competitor, at 11%.",
+   "figures": {
+    "a": {
+     "value": 53.77358490566038,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "multistate"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "200-500"
+      }
+     }
+    },
+    "n": {
+     "value": 106.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "outcome": "lost",
+       "segment": "200-500"
+      }
+     }
+    },
+    "b": {
+     "value": 11.320754716981131,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "broker"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "200-500"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D082",
+     "D083",
+     "D088",
+     "D089",
+     "D090",
+     "D091",
+     "D094",
+     "D095",
+     "D100",
+     "D173",
+     "D174",
+     "D175",
+     "D179",
+     "D181",
+     "D187",
+     "D188",
+     "D190",
+     "D191",
+     "D194",
+     "D196",
+     "D197",
+     "D198",
+     "D199",
+     "D200",
+     "D270",
+     "D271",
+     "D272",
+     "D273",
+     "D274",
+     "D275",
+     "D276",
+     "D279",
+     "D281",
+     "D282",
+     "D284",
+     "D285",
+     "D286",
+     "D288",
+     "D294",
+     "D298",
+     "D299",
+     "D358",
+     "D360",
+     "D363",
+     "D364",
+     "D368",
+     "D370",
+     "D372",
+     "D377",
+     "D378",
+     "D379",
+     "D382",
+     "D384",
+     "D385",
+     "D389",
+     "D390",
+     "D399"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D082",
+      "quote": "What I can't live with is hearing 'we'd have to check' on withholding for a quarter of my staff."
+     },
+     {
+      "deal_id": "D083",
+      "quote": "With nine states, one miss means a notice from some state agency, and then I'm the one answering it."
+     },
+     {
+      "deal_id": "D088",
+      "quote": "But I need these answers to be firm before I can recommend you."
+     }
+    ]
+   }
+  },
+  {
+   "id": "S4",
+   "section": 2,
+   "kind": "finding",
+   "text": "The mix shifted toward larger companies. 200–500 employee deals were 20% of the deals in the first quarter and 44% in the last, and they close at 17% against 27% for smaller companies.",
+   "figures": {
+    "a": {
+     "value": 20.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "quarter": "2025-Q4",
+       "segment": "200-500"
+      },
+      "den": {
+       "quarter": "2025-Q4"
+      }
+     }
+    },
+    "b": {
+     "value": 44.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "quarter": "2026-Q3",
+       "segment": "200-500"
+      },
+      "den": {
+       "quarter": "2026-Q3"
+      }
+     }
+    },
+    "c": {
+     "value": 17.1875,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "segment": "200-500",
+       "outcome": "won"
+      },
+      "den": {
+       "segment": "200-500"
+      }
+     }
+    },
+    "d": {
+     "value": 26.83823529411765,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "segment": [
+        "50-99",
+        "100-199"
+       ],
+       "outcome": "won"
+      },
+      "den": {
+       "segment": [
+        "50-99",
+        "100-199"
+       ]
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D357",
+     "D358",
+     "D359",
+     "D360",
+     "D361",
+     "D362",
+     "D363",
+     "D364",
+     "D365",
+     "D366",
+     "D367",
+     "D368",
+     "D369",
+     "D370",
+     "D371",
+     "D372",
+     "D373",
+     "D374",
+     "D375",
+     "D376",
+     "D377",
+     "D378",
+     "D379",
+     "D380",
+     "D381",
+     "D382",
+     "D383",
+     "D384",
+     "D385",
+     "D386",
+     "D387",
+     "D388",
+     "D389",
+     "D390",
+     "D391",
+     "D392",
+     "D393",
+     "D394",
+     "D395",
+     "D396",
+     "D397",
+     "D398",
+     "D399",
+     "D400"
+    ],
+    "quotes": []
+   }
+  },
+  {
+   "id": "S5",
+   "section": 2,
+   "kind": "finding",
+   "text": "Where the loss is about multi-state payroll tax handling, the CRM records 53% of those deals as Price. The tax handling gap in 200–500 employee deals is invisible in the dropdown.",
+   "figures": {
+    "crm": {
+     "value": 52.63157894736842,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "multistate",
+       "crm_loss_reason": "Price"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "multistate"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D082",
+     "D088",
+     "D090",
+     "D091",
+     "D095",
+     "D173",
+     "D175",
+     "D181",
+     "D187",
+     "D194",
+     "D197",
+     "D198",
+     "D270",
+     "D275",
+     "D276",
+     "D284",
+     "D286",
+     "D288",
+     "D294",
+     "D298",
+     "D299",
+     "D368",
+     "D370",
+     "D372",
+     "D377",
+     "D378",
+     "D379",
+     "D382",
+     "D385",
+     "D390"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D082",
+      "quote": "What I can't live with is hearing 'we'd have to check' on withholding for a quarter of my staff."
+     },
+     {
+      "deal_id": "D088",
+      "quote": "But I need these answers to be firm before I can recommend you."
+     },
+     {
+      "deal_id": "D091",
+      "quote": "We need certainty. 'I'd check' doesn't work."
+     }
+    ]
+   }
+  },
+  {
+   "id": "T1",
+   "section": 3,
+   "kind": "verdict",
+   "text": "Sales says we are too expensive: partly supported. Price is the main reason for 20% of losses overall, 44% in 50–99 employee deals and 1% in 200–500.",
+   "figures": {
+    "all": {
+     "value": 20.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "role": "price"
+      },
+      "den": {
+       "outcome": "lost"
+      }
+     }
+    },
+    "a": {
+     "value": 44.086021505376344,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "50-99",
+       "role": "price"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "50-99"
+      }
+     }
+    },
+    "c": {
+     "value": 0.9433962264150944,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "price"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "200-500"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D004",
+     "D010",
+     "D012",
+     "D015",
+     "D017",
+     "D020",
+     "D021",
+     "D026",
+     "D027",
+     "D029",
+     "D035",
+     "D050",
+     "D060",
+     "D063",
+     "D064",
+     "D075",
+     "D101",
+     "D104",
+     "D105",
+     "D107",
+     "D108",
+     "D109",
+     "D113",
+     "D120",
+     "D123",
+     "D125",
+     "D127",
+     "D130",
+     "D131",
+     "D134",
+     "D149",
+     "D157",
+     "D158",
+     "D168",
+     "D184",
+     "D207",
+     "D210",
+     "D212",
+     "D218",
+     "D221",
+     "D224",
+     "D229",
+     "D230",
+     "D231",
+     "D237",
+     "D243",
+     "D260",
+     "D303",
+     "D304",
+     "D305",
+     "D306",
+     "D313",
+     "D315",
+     "D317",
+     "D320",
+     "D332",
+     "D333",
+     "D336",
+     "D349",
+     "D352",
+     "D356"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D004",
+      "quote": "Even stripped down, you were still four grand over what we budgeted."
+     },
+     {
+      "deal_id": "D010",
+      "quote": "Cost. Your number is around fourteen thousand a year."
+     },
+     {
+      "deal_id": "D012",
+      "quote": "It's the money, to be honest."
+     }
+    ]
+   }
+  },
+  {
+   "id": "T2",
+   "section": 3,
+   "kind": "verdict",
+   "text": "Product says we are missing features: partly supported. A missing capability, mostly multi-state payroll tax handling, is the main reason for 28% of losses overall and 58% in 200–500 employee deals, against 6% in 50–99.",
+   "figures": {
+    "all": {
+     "value": 27.868852459016395,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "role": [
+        "feature",
+        "multistate"
+       ]
+      },
+      "den": {
+       "outcome": "lost"
+      }
+     }
+    },
+    "c": {
+     "value": 57.54716981132076,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": [
+        "feature",
+        "multistate"
+       ]
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "200-500"
+      }
+     }
+    },
+    "a": {
+     "value": 6.451612903225806,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "50-99",
+       "role": [
+        "feature",
+        "multistate"
+       ]
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "50-99"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D003",
+     "D025",
+     "D037",
+     "D042",
+     "D055",
+     "D072",
+     "D082",
+     "D083",
+     "D088",
+     "D089",
+     "D090",
+     "D091",
+     "D093",
+     "D094",
+     "D095",
+     "D100",
+     "D132",
+     "D142",
+     "D156",
+     "D159",
+     "D165",
+     "D166",
+     "D172",
+     "D173",
+     "D174",
+     "D175",
+     "D179",
+     "D181",
+     "D187",
+     "D188",
+     "D190",
+     "D191",
+     "D193",
+     "D194",
+     "D196",
+     "D197",
+     "D198",
+     "D199",
+     "D200",
+     "D201",
+     "D215",
+     "D232",
+     "D234",
+     "D240",
+     "D245",
+     "D247",
+     "D249",
+     "D270",
+     "D271",
+     "D272",
+     "D273",
+     "D274",
+     "D275",
+     "D276",
+     "D279",
+     "D281",
+     "D282",
+     "D284",
+     "D285",
+     "D286",
+     "D288",
+     "D289",
+     "D294",
+     "D297",
+     "D298",
+     "D299",
+     "D344",
+     "D345",
+     "D354",
+     "D358",
+     "D360",
+     "D363",
+     "D364",
+     "D368",
+     "D370",
+     "D372",
+     "D377",
+     "D378",
+     "D379",
+     "D382",
+     "D384",
+     "D385",
+     "D389",
+     "D390",
+     "D399"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D003",
+      "quote": "You do not have an applicant tracking module."
+     },
+     {
+      "deal_id": "D025",
+      "quote": "The answer was that you support a single approver, or two at most, without custom steps."
+     },
+     {
+      "deal_id": "D037",
+      "quote": "The principal reason was the carrier file feeds."
+     }
+    ]
+   }
+  },
+  {
+   "id": "T3",
+   "section": 3,
+   "kind": "verdict",
+   "text": "Marketing says the broker channel sends weak leads: partly supported. Broker deals do win less often (19% against 27%), but 34% of broker losses end because the broker steered the buyer to a competitor, against 0% of other losses. That is a channel conflict, not weak leads.",
+   "figures": {
+    "bw": {
+     "value": 18.666666666666668,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "lead_source": "broker",
+       "outcome": "won"
+      },
+      "den": {
+       "lead_source": "broker"
+      }
+     }
+    },
+    "ow": {
+     "value": 26.8,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "lead_source": [
+        "inbound",
+        "outbound"
+       ],
+       "outcome": "won"
+      },
+      "den": {
+       "lead_source": [
+        "inbound",
+        "outbound"
+       ]
+      }
+     }
+    },
+    "br": {
+     "value": 33.60655737704918,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "lead_source": "broker",
+       "role": "broker"
+      },
+      "den": {
+       "outcome": "lost",
+       "lead_source": "broker"
+      }
+     }
+    },
+    "ob": {
+     "value": 0.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "lead_source": [
+        "inbound",
+        "outbound"
+       ],
+       "role": "broker"
+      },
+      "den": {
+       "outcome": "lost",
+       "lead_source": [
+        "inbound",
+        "outbound"
+       ]
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D007",
+     "D009",
+     "D014",
+     "D023",
+     "D030",
+     "D056",
+     "D078",
+     "D092",
+     "D096",
+     "D098",
+     "D103",
+     "D111",
+     "D118",
+     "D136",
+     "D161",
+     "D163",
+     "D185",
+     "D189",
+     "D211",
+     "D222",
+     "D225",
+     "D226",
+     "D228",
+     "D238",
+     "D239",
+     "D256",
+     "D259",
+     "D264",
+     "D268",
+     "D287",
+     "D302",
+     "D308",
+     "D309",
+     "D318",
+     "D340",
+     "D347",
+     "D373",
+     "D376",
+     "D380",
+     "D392",
+     "D398"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D007",
+      "quote": "Just that it's the broker relationship."
+     },
+     {
+      "deal_id": "D009",
+      "quote": "If she'd put you in front of us, I'd be signing with you."
+     },
+     {
+      "deal_id": "D014",
+      "quote": "But the broker relationship is the deciding factor, as Soren says."
+     }
+    ]
+   }
+  },
+  {
+   "id": "W1",
+   "section": 4,
+   "kind": "finding",
+   "text": "Deals with a finance leader on the second call win 34% of the time, against 20% without one. That is 1.7 times as often.",
+   "figures": {
+    "a": {
+     "value": 34.25925925925926,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "finance_on_call2": true,
+       "outcome": "won"
+      },
+      "den": {
+       "finance_on_call2": true
+      }
+     }
+    },
+    "b": {
+     "value": 19.863013698630137,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "finance_on_call2": false,
+       "outcome": "won"
+      },
+      "den": {
+       "finance_on_call2": false
+      }
+     }
+    },
+    "x": {
+     "value": 1.7247765006385696,
+     "unit": "x",
+     "query": {
+      "op": "ratio",
+      "a": {
+       "op": "pct",
+       "num": {
+        "finance_on_call2": true,
+        "outcome": "won"
+       },
+       "den": {
+        "finance_on_call2": true
+       }
+      },
+      "b": {
+       "op": "pct",
+       "num": {
+        "finance_on_call2": false,
+        "outcome": "won"
+       },
+       "den": {
+        "finance_on_call2": false
+       }
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D019",
+     "D022",
+     "D024",
+     "D047",
+     "D048",
+     "D049",
+     "D057",
+     "D071",
+     "D080",
+     "D081",
+     "D086",
+     "D087",
+     "D115",
+     "D117",
+     "D122",
+     "D129",
+     "D160",
+     "D169",
+     "D186",
+     "D192",
+     "D203",
+     "D208",
+     "D213",
+     "D217",
+     "D242",
+     "D255",
+     "D261",
+     "D280",
+     "D291",
+     "D296",
+     "D311",
+     "D319",
+     "D339",
+     "D342",
+     "D365",
+     "D374",
+     "D396"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D019",
+      "quote": "I did. I will be candid, I came into the second call with a long list of objections. Contract terms, data export, what happens in year two. I asked each of them."
+     },
+     {
+      "deal_id": "D022",
+      "quote": "I'll admit I was the difficult one. I asked about the tax filing guarantee, the fee structure, what it costs to add a person midyear. Pointed questions. And they weren't dodged. The rep said, here's the number, here's the page in the contract."
+     },
+     {
+      "deal_id": "D024",
+      "quote": "I'll tell you my side. I'm the finance person and I was not an easy audience. I asked about audit trails, who approves a rate change, how a reversed payment shows up. I had the whole spreadsheet. And honestly, the rep just had the answers. Took them on one by one."
+     }
+    ]
+   }
+  },
+  {
+   "id": "W2",
+   "section": 4,
+   "kind": "finding",
+   "text": "Deals that wait more than 10 days for a demo win 14% of the time, against 27% when the demo comes within 10 days. The share of deals that wait that long grew from 16% in the first quarter to 41% in the last.",
+   "figures": {
+    "a": {
+     "value": 13.68421052631579,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "days_to_demo": {
+        "gt": 10
+       },
+       "outcome": "won"
+      },
+      "den": {
+       "days_to_demo": {
+        "gt": 10
+       }
+      }
+     }
+    },
+    "b": {
+     "value": 26.885245901639344,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "days_to_demo": {
+        "lte": 10
+       },
+       "outcome": "won"
+      },
+      "den": {
+       "days_to_demo": {
+        "lte": 10
+       }
+      }
+     }
+    },
+    "s0": {
+     "value": 16.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "days_to_demo": {
+        "gt": 10
+       },
+       "quarter": "2025-Q4"
+      },
+      "den": {
+       "quarter": "2025-Q4"
+      }
+     }
+    },
+    "s1": {
+     "value": 41.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "days_to_demo": {
+        "gt": 10
+       },
+       "quarter": "2026-Q3"
+      },
+      "den": {
+       "quarter": "2026-Q3"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D005",
+     "D033",
+     "D034",
+     "D041",
+     "D043",
+     "D051",
+     "D066",
+     "D099",
+     "D106",
+     "D135",
+     "D145",
+     "D147",
+     "D148",
+     "D154",
+     "D170",
+     "D171",
+     "D202",
+     "D206",
+     "D235",
+     "D250",
+     "D252",
+     "D253",
+     "D254",
+     "D262",
+     "D265",
+     "D292",
+     "D301",
+     "D310",
+     "D314",
+     "D316",
+     "D322",
+     "D328",
+     "D329",
+     "D331",
+     "D334",
+     "D335",
+     "D338",
+     "D353",
+     "D355",
+     "D361",
+     "D366",
+     "D367",
+     "D371",
+     "D383",
+     "D397"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D005",
+      "quote": "We asked for a demonstration, and the first slot that could be offered was nineteen days later."
+     },
+     {
+      "deal_id": "D034",
+      "quote": "Chiefly the wait."
+     },
+     {
+      "deal_id": "D041",
+      "quote": "Then four days went by before the demo, four full days"
+     }
+    ]
+   }
+  },
+  {
+   "id": "A1",
+   "section": 5,
+   "kind": "action",
+   "text": "Close the multi-state payroll tax gap for companies with 200–500 employees. It is the main reason for 57 lost deals, 54% of all losses in that segment.",
+   "figures": {
+    "n": {
+     "value": 57.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "multistate"
+      }
+     }
+    },
+    "p": {
+     "value": 53.77358490566038,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "segment": "200-500",
+       "role": "multistate"
+      },
+      "den": {
+       "outcome": "lost",
+       "segment": "200-500"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D082",
+     "D083",
+     "D088",
+     "D089",
+     "D090",
+     "D091",
+     "D094",
+     "D095",
+     "D100",
+     "D173",
+     "D174",
+     "D175",
+     "D179",
+     "D181",
+     "D187",
+     "D188",
+     "D190",
+     "D191",
+     "D194",
+     "D196",
+     "D197",
+     "D198",
+     "D199",
+     "D200",
+     "D270",
+     "D271",
+     "D272",
+     "D273",
+     "D274",
+     "D275",
+     "D276",
+     "D279",
+     "D281",
+     "D282",
+     "D284",
+     "D285",
+     "D286",
+     "D288",
+     "D294",
+     "D298",
+     "D299",
+     "D358",
+     "D360",
+     "D363",
+     "D364",
+     "D368",
+     "D370",
+     "D372",
+     "D377",
+     "D378",
+     "D379",
+     "D382",
+     "D384",
+     "D385",
+     "D389",
+     "D390",
+     "D399"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D082",
+      "quote": "What I can't live with is hearing 'we'd have to check' on withholding for a quarter of my staff."
+     },
+     {
+      "deal_id": "D083",
+      "quote": "With nine states, one miss means a notice from some state agency, and then I'm the one answering it."
+     },
+     {
+      "deal_id": "D088",
+      "quote": "But I need these answers to be firm before I can recommend you."
+     }
+    ]
+   },
+   "owner": "Product"
+  },
+  {
+   "id": "A2",
+   "section": 5,
+   "kind": "action",
+   "text": "Book the demo within 10 days of the first call, and ask for a finance leader on the second call. Slow demos win 14% of the time against 27% for fast ones, and a finance leader on the second call lifts the win rate to 34%.",
+   "figures": {
+    "a": {
+     "value": 13.68421052631579,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "days_to_demo": {
+        "gt": 10
+       },
+       "outcome": "won"
+      },
+      "den": {
+       "days_to_demo": {
+        "gt": 10
+       }
+      }
+     }
+    },
+    "b": {
+     "value": 26.885245901639344,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "days_to_demo": {
+        "lte": 10
+       },
+       "outcome": "won"
+      },
+      "den": {
+       "days_to_demo": {
+        "lte": 10
+       }
+      }
+     }
+    },
+    "c": {
+     "value": 34.25925925925926,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "finance_on_call2": true,
+       "outcome": "won"
+      },
+      "den": {
+       "finance_on_call2": true
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D005",
+     "D033",
+     "D034",
+     "D041",
+     "D043",
+     "D051",
+     "D066",
+     "D099",
+     "D106",
+     "D135",
+     "D145",
+     "D147",
+     "D148",
+     "D154",
+     "D170",
+     "D171",
+     "D202",
+     "D206",
+     "D235",
+     "D250",
+     "D252",
+     "D253",
+     "D254",
+     "D262",
+     "D265",
+     "D292",
+     "D301",
+     "D310",
+     "D314",
+     "D316",
+     "D322",
+     "D328",
+     "D329",
+     "D331",
+     "D334",
+     "D335",
+     "D338",
+     "D353",
+     "D355",
+     "D361",
+     "D366",
+     "D367",
+     "D371",
+     "D383",
+     "D397"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D005",
+      "quote": "We asked for a demonstration, and the first slot that could be offered was nineteen days later."
+     },
+     {
+      "deal_id": "D034",
+      "quote": "Chiefly the wait."
+     },
+     {
+      "deal_id": "D041",
+      "quote": "Then four days went by before the demo, four full days"
+     }
+    ]
+   },
+   "owner": "Sales"
+  },
+  {
+   "id": "A3",
+   "section": 5,
+   "kind": "action",
+   "text": "Fix the broker conflict. Where a broker is involved, 34% of lost deals go to a competitor the broker recommended, and 100% of those losses go to the low-price bundler. Agree what brokers may recommend, and bring them into the evaluation early.",
+   "figures": {
+    "br": {
+     "value": 33.60655737704918,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "lead_source": "broker",
+       "role": "broker"
+      },
+      "den": {
+       "outcome": "lost",
+       "lead_source": "broker"
+      }
+     }
+    },
+    "bn": {
+     "value": 100.0,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "lead_source": "broker",
+       "role": "broker",
+       "competitor": "Tallyhold"
+      },
+      "den": {
+       "outcome": "lost",
+       "lead_source": "broker",
+       "role": "broker"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D007",
+     "D009",
+     "D014",
+     "D023",
+     "D030",
+     "D056",
+     "D078",
+     "D092",
+     "D096",
+     "D098",
+     "D103",
+     "D111",
+     "D118",
+     "D136",
+     "D161",
+     "D163",
+     "D185",
+     "D189",
+     "D211",
+     "D222",
+     "D225",
+     "D226",
+     "D228",
+     "D238",
+     "D239",
+     "D256",
+     "D259",
+     "D264",
+     "D268",
+     "D287",
+     "D302",
+     "D308",
+     "D309",
+     "D318",
+     "D340",
+     "D347",
+     "D373",
+     "D376",
+     "D380",
+     "D392",
+     "D398"
+    ],
+    "quotes": [
+     {
+      "deal_id": "D007",
+      "quote": "Just that it's the broker relationship."
+     },
+     {
+      "deal_id": "D009",
+      "quote": "If she'd put you in front of us, I'd be signing with you."
+     },
+     {
+      "deal_id": "D014",
+      "quote": "But the broker relationship is the deciding factor, as Soren says."
+     }
+    ]
+   },
+   "owner": "Marketing and Partnerships"
+  },
+  {
+   "id": "C1",
+   "section": 6,
+   "kind": "caveat",
+   "text": "40 of 305 losses (13%) have no clear reason in the text. They are left as unclear, not guessed.",
+   "figures": {
+    "u": {
+     "value": 40.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "outcome": "lost",
+       "role": "unclear"
+      }
+     }
+    },
+    "n": {
+     "value": 305.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "outcome": "lost"
+      }
+     }
+    },
+    "p": {
+     "value": 13.114754098360656,
+     "unit": "pct",
+     "query": {
+      "op": "pct",
+      "num": {
+       "outcome": "lost",
+       "role": "unclear"
+      },
+      "den": {
+       "outcome": "lost"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [
+     "D002",
+     "D016",
+     "D028",
+     "D036",
+     "D045",
+     "D052",
+     "D062",
+     "D077",
+     "D084",
+     "D097",
+     "D121",
+     "D124",
+     "D143",
+     "D146",
+     "D176",
+     "D182",
+     "D183",
+     "D195",
+     "D209",
+     "D216",
+     "D236",
+     "D246",
+     "D258",
+     "D267",
+     "D269",
+     "D290",
+     "D295",
+     "D321",
+     "D325",
+     "D341",
+     "D343",
+     "D346",
+     "D350",
+     "D357",
+     "D359",
+     "D362",
+     "D375",
+     "D388",
+     "D393",
+     "D395"
+    ],
+    "quotes": []
+   }
+  },
+  {
+   "id": "C2",
+   "section": 6,
+   "kind": "caveat",
+   "text": "A single segment in a single quarter holds as few as 20 deals, so one cell’s win rate moves a lot with one deal. The quarter-to-quarter split between mix and performance rests on those small cells.",
+   "figures": {
+    "m": {
+     "value": 20.0,
+     "unit": "n",
+     "query": {
+      "op": "count",
+      "where": {
+       "quarter": "2025-Q4",
+       "segment": "200-500"
+      }
+     }
+    }
+   },
+   "evidence": {
+    "deal_ids": [],
+    "quotes": []
+   }
+  }
+ ],
+ "limits": [
+  "All 400 deals, buyers and companies are synthetic and were written for this project. Recovering planted patterns tests the method. It does not show the agent would be as accurate on real deals or that these causes hold in any real market.",
+  "A win-rate association is not proof of cause. Slow demos, a finance leader on the call and broker involvement may travel with other things the CRM does not record.",
+  "The buyers’ words come from call excerpts and some emails. What was said off the call, or never said, is not in the data.",
+  "Coding is by a model reading the text; it can misread a reason. The method note reports how often it did, against the answer key."
+ ]
+}

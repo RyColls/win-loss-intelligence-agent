@@ -1,0 +1,8659 @@
+[
+ {
+  "deal_id": "D001",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 14000,
+  "days_to_demo": 10,
+  "outcome": "won",
+  "rep_id": "R13",
+  "rep_tenure_months": 12,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Cobbledge Robotics"
+ },
+ {
+  "deal_id": "D002",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 25000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R27",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "Office Manager",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Ironbark Veterinary Partners"
+ },
+ {
+  "deal_id": "D003",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 22000,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R35",
+  "rep_tenure_months": 86,
+  "buyers_call1": [
+   "HR Generalist",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Zephyr Media"
+ },
+ {
+  "deal_id": "D004",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 11500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R20",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Staffing"
+ },
+ {
+  "deal_id": "D005",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 21000,
+  "days_to_demo": 19,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Brightwater Software"
+ },
+ {
+  "deal_id": "D006",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 11000,
+  "days_to_demo": 28,
+  "outcome": "won",
+  "rep_id": "R27",
+  "rep_tenure_months": 69,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Fernhollow Labs"
+ },
+ {
+  "deal_id": "D007",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 12000,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Thornfield Fabrication"
+ },
+ {
+  "deal_id": "D008",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 12000,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R34",
+  "rep_tenure_months": 6,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Thornfield Labs"
+ },
+ {
+  "deal_id": "D009",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 21000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 34,
+  "buyers_call1": [
+   "Operations Manager",
+   "Head of HR",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Ostrander Insurance Services"
+ },
+ {
+  "deal_id": "D010",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 17500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R37",
+  "rep_tenure_months": 25,
+  "buyers_call1": [
+   "HR Generalist",
+   "Office Manager",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Saltmarsh Engineering"
+ },
+ {
+  "deal_id": "D011",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 17000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R06",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "Office Manager",
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "COO",
+   "HR Director"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Elmcroft Analytics"
+ },
+ {
+  "deal_id": "D012",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 20500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 82,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Print & Pack"
+ },
+ {
+  "deal_id": "D013",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 18000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R29",
+  "rep_tenure_months": 8,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Operations Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Millrace Analytics"
+ },
+ {
+  "deal_id": "D014",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 25000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 84,
+  "buyers_call1": [
+   "VP of People",
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Nettlebed Hospitality"
+ },
+ {
+  "deal_id": "D015",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 28500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R15",
+  "rep_tenure_months": 80,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ostrander Robotics"
+ },
+ {
+  "deal_id": "D016",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 16000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R25",
+  "rep_tenure_months": 16,
+  "buyers_call1": [
+   "VP of People",
+   "HR Director",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Vesper Outfitters"
+ },
+ {
+  "deal_id": "D017",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 17500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R35",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Generalist",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Logistics"
+ },
+ {
+  "deal_id": "D018",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 28000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R14",
+  "rep_tenure_months": 4,
+  "buyers_call1": [
+   "Chief People Officer",
+   "VP of People",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Nettlebed Logistics"
+ },
+ {
+  "deal_id": "D019",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 23500,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 86,
+  "buyers_call1": [
+   "VP of People",
+   "Office Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Marlow Supply"
+ },
+ {
+  "deal_id": "D020",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 16500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 33,
+  "buyers_call1": [
+   "HR Director",
+   "Head of HR",
+   "COO"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Wexcombe Software"
+ },
+ {
+  "deal_id": "D021",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 26000,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R45",
+  "rep_tenure_months": 88,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Quarry Brewing"
+ },
+ {
+  "deal_id": "D022",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 19000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R13",
+  "rep_tenure_months": 6,
+  "buyers_call1": [
+   "Operations Manager",
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kingsfold Staffing"
+ },
+ {
+  "deal_id": "D023",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 12500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 96,
+  "buyers_call1": [
+   "Office Manager",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Kestrel Veterinary Partners"
+ },
+ {
+  "deal_id": "D024",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 20000,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R37",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Chief People Officer",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kingsfold Engineering"
+ },
+ {
+  "deal_id": "D025",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 15500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 47,
+  "buyers_call1": [
+   "HR Director",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Schools Network"
+ },
+ {
+  "deal_id": "D026",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 15000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R01",
+  "rep_tenure_months": 28,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Veterinary Partners"
+ },
+ {
+  "deal_id": "D027",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 26000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "HR Generalist",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Millrace Hospitality"
+ },
+ {
+  "deal_id": "D028",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Tallyhold",
+  "amount": 17500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R26",
+  "rep_tenure_months": 59,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Logistics"
+ },
+ {
+  "deal_id": "D029",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 15000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 62,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Operations Manager",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ironbark Hospitality"
+ },
+ {
+  "deal_id": "D030",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 21500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 14,
+  "buyers_call1": [
+   "Director of Operations",
+   "HR Generalist",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Ostrander Foods"
+ },
+ {
+  "deal_id": "D031",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 21000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R22",
+  "rep_tenure_months": 96,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Ironbark Supply"
+ },
+ {
+  "deal_id": "D032",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 15000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R28",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "HR Generalist",
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kingsfold Insurance Services"
+ },
+ {
+  "deal_id": "D033",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 22000,
+  "days_to_demo": 1,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 63,
+  "buyers_call1": [
+   "Head of HR",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kingsfold Print & Pack"
+ },
+ {
+  "deal_id": "D034",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 19500,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 54,
+  "buyers_call1": [
+   "HR Generalist",
+   "Director of Operations",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Logistics"
+ },
+ {
+  "deal_id": "D035",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 11000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R13",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "Head of HR",
+   "COO"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kingsfold Dental Group"
+ },
+ {
+  "deal_id": "D036",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 15500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R01",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Head of HR",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kingsfold Software"
+ },
+ {
+  "deal_id": "D037",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 30500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Dunstan Staffing"
+ },
+ {
+  "deal_id": "D038",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 18000,
+  "days_to_demo": 9,
+  "outcome": "won",
+  "rep_id": "R26",
+  "rep_tenure_months": 96,
+  "buyers_call1": [
+   "HR Director",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Millrace Brewing"
+ },
+ {
+  "deal_id": "D039",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 18000,
+  "days_to_demo": 1,
+  "outcome": "won",
+  "rep_id": "R34",
+  "rep_tenure_months": 93,
+  "buyers_call1": [
+   "HR Generalist",
+   "COO"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Yellowpine Brewing"
+ },
+ {
+  "deal_id": "D040",
+  "quarter": "2025-Q4",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 17500,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R35",
+  "rep_tenure_months": 12,
+  "buyers_call1": [
+   "HR Director",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": null,
+  "company": "Larkspur Print & Pack"
+ },
+ {
+  "deal_id": "D041",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 20000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R30",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "Operations Manager",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Plumtree Foods"
+ },
+ {
+  "deal_id": "D042",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 48500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 54,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Juniper Labs"
+ },
+ {
+  "deal_id": "D043",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 40500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 87,
+  "buyers_call1": [
+   "Director of Operations",
+   "COO"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Dental Group"
+ },
+ {
+  "deal_id": "D044",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 20500,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R01",
+  "rep_tenure_months": 20,
+  "buyers_call1": [
+   "COO",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Design Studio"
+ },
+ {
+  "deal_id": "D045",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 28000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 92,
+  "buyers_call1": [
+   "VP of People",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Analytics"
+ },
+ {
+  "deal_id": "D046",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 26500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 91,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Nettlebed Dental Group"
+ },
+ {
+  "deal_id": "D047",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 27500,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 25,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Cobbledge Fabrication"
+ },
+ {
+  "deal_id": "D048",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 26000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R45",
+  "rep_tenure_months": 68,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kingsfold Health Partners"
+ },
+ {
+  "deal_id": "D049",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 46500,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R33",
+  "rep_tenure_months": 25,
+  "buyers_call1": [
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Quarry Design Studio"
+ },
+ {
+  "deal_id": "D050",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 23500,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "VP of People",
+   "Head of HR",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Saltmarsh Fabrication"
+ },
+ {
+  "deal_id": "D051",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 23500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 52,
+  "buyers_call1": [
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "COO"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Elmcroft Insurance Services"
+ },
+ {
+  "deal_id": "D052",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 27000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 44,
+  "buyers_call1": [
+   "HR Director",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Yellowpine Outfitters"
+ },
+ {
+  "deal_id": "D053",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 35000,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R03",
+  "rep_tenure_months": 66,
+  "buyers_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Yellowpine Veterinary Partners"
+ },
+ {
+  "deal_id": "D054",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 26500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Veterinary Partners"
+ },
+ {
+  "deal_id": "D055",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 24000,
+  "days_to_demo": 21,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Hawkridge Engineering"
+ },
+ {
+  "deal_id": "D056",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 26500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Media"
+ },
+ {
+  "deal_id": "D057",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 21500,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R19",
+  "rep_tenure_months": 34,
+  "buyers_call1": [
+   "HR Director",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Plumtree Supply"
+ },
+ {
+  "deal_id": "D058",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 32500,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R08",
+  "rep_tenure_months": 56,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Oakhaven Brewing"
+ },
+ {
+  "deal_id": "D059",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 30500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 56,
+  "buyers_call1": [
+   "VP of People",
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Zephyr Logistics"
+ },
+ {
+  "deal_id": "D060",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 24500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 14,
+  "buyers_call1": [
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Brewing"
+ },
+ {
+  "deal_id": "D061",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 36000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R17",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Brightwater Freight"
+ },
+ {
+  "deal_id": "D062",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 26500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Brightwater Builders"
+ },
+ {
+  "deal_id": "D063",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 32000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Staffing"
+ },
+ {
+  "deal_id": "D064",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 35500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R37",
+  "rep_tenure_months": 45,
+  "buyers_call1": [
+   "COO",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Supply"
+ },
+ {
+  "deal_id": "D065",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 21000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R45",
+  "rep_tenure_months": 50,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Vesper Clinics"
+ },
+ {
+  "deal_id": "D066",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 29000,
+  "days_to_demo": 1,
+  "outcome": "lost",
+  "rep_id": "R31",
+  "rep_tenure_months": 12,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Nettlebed Robotics"
+ },
+ {
+  "deal_id": "D067",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 17500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R24",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "VP of People",
+   "COO",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Quarry Energy Services"
+ },
+ {
+  "deal_id": "D068",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 35000,
+  "days_to_demo": 7,
+  "outcome": "won",
+  "rep_id": "R26",
+  "rep_tenure_months": 10,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Hawkridge Freight"
+ },
+ {
+  "deal_id": "D069",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 26000,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R01",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kingsfold Veterinary Partners"
+ },
+ {
+  "deal_id": "D070",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 30500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "HR Director",
+   "COO"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Brightwater Supply"
+ },
+ {
+  "deal_id": "D071",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 39000,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R01",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "Operations Manager",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": null,
+  "company": "Elmcroft Schools Network"
+ },
+ {
+  "deal_id": "D072",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 43500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R45",
+  "rep_tenure_months": 80,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Umber Fabrication"
+ },
+ {
+  "deal_id": "D073",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 29500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 10,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Health Partners"
+ },
+ {
+  "deal_id": "D074",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 41500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R15",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Yellowpine Insurance Services"
+ },
+ {
+  "deal_id": "D075",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 22000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R16",
+  "rep_tenure_months": 34,
+  "buyers_call1": [
+   "COO",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Vesper Engineering"
+ },
+ {
+  "deal_id": "D076",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 18500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R13",
+  "rep_tenure_months": 74,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Umber Builders"
+ },
+ {
+  "deal_id": "D077",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 29000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 23,
+  "buyers_call1": [
+   "Office Manager",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Schools Network"
+ },
+ {
+  "deal_id": "D078",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 25500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "Operations Manager",
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kestrel Logistics"
+ },
+ {
+  "deal_id": "D079",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 28000,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 33,
+  "buyers_call1": [
+   "People Operations Lead",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Nettlebed Brewing"
+ },
+ {
+  "deal_id": "D080",
+  "quarter": "2025-Q4",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 25500,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 14,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Staffing"
+ },
+ {
+  "deal_id": "D081",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 61500,
+  "days_to_demo": 2,
+  "outcome": "won",
+  "rep_id": "R14",
+  "rep_tenure_months": 93,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Juniper Schools Network"
+ },
+ {
+  "deal_id": "D082",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 51000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R45",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "Operations Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ironbark Insurance Services"
+ },
+ {
+  "deal_id": "D083",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 82500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 88,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Pinecrest Labs"
+ },
+ {
+  "deal_id": "D084",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 80000,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 46,
+  "buyers_call1": [
+   "Head of HR",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Brightwater Media"
+ },
+ {
+  "deal_id": "D085",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 52500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 66,
+  "buyers_call1": [
+   "COO",
+   "HR Director",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Builders"
+ },
+ {
+  "deal_id": "D086",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 52000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R03",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Cobbledge Engineering"
+ },
+ {
+  "deal_id": "D087",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 68000,
+  "days_to_demo": 15,
+  "outcome": "won",
+  "rep_id": "R01",
+  "rep_tenure_months": 29,
+  "buyers_call1": [
+   "VP of People",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Yellowpine Supply"
+ },
+ {
+  "deal_id": "D088",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 30500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 69,
+  "buyers_call1": [
+   "Operations Manager",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Logistics"
+ },
+ {
+  "deal_id": "D089",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 26000,
+  "days_to_demo": 1,
+  "outcome": "lost",
+  "rep_id": "R41",
+  "rep_tenure_months": 60,
+  "buyers_call1": [
+   "HR Generalist",
+   "VP of People",
+   "COO"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Kingsfold Freight"
+ },
+ {
+  "deal_id": "D090",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 59500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 67,
+  "buyers_call1": [
+   "HR Generalist",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Media"
+ },
+ {
+  "deal_id": "D091",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 33500,
+  "days_to_demo": 1,
+  "outcome": "lost",
+  "rep_id": "R31",
+  "rep_tenure_months": 14,
+  "buyers_call1": [
+   "Office Manager",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "COO",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Gantry Veterinary Partners"
+ },
+ {
+  "deal_id": "D092",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 41500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 95,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Office Manager",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Kingsfold Labs"
+ },
+ {
+  "deal_id": "D093",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 87500,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 70,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Vesper Foods"
+ },
+ {
+  "deal_id": "D094",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 61000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 47,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Wexcombe Supply"
+ },
+ {
+  "deal_id": "D095",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 66000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R33",
+  "rep_tenure_months": 72,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Insurance Services"
+ },
+ {
+  "deal_id": "D096",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 57000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 75,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Labs"
+ },
+ {
+  "deal_id": "D097",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 61000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 91,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kestrel Schools Network"
+ },
+ {
+  "deal_id": "D098",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 50000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 29,
+  "buyers_call1": [
+   "VP of People",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Labs"
+ },
+ {
+  "deal_id": "D099",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 43000,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Ravenscar Veterinary Partners"
+ },
+ {
+  "deal_id": "D100",
+  "quarter": "2025-Q4",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 57000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "Chief People Officer",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Saltmarsh Analytics"
+ },
+ {
+  "deal_id": "D101",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 22000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "HR Generalist",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Thornfield Energy Services"
+ },
+ {
+  "deal_id": "D102",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 27500,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R40",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Elmcroft Foods"
+ },
+ {
+  "deal_id": "D103",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 18000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Larkspur Veterinary Partners"
+ },
+ {
+  "deal_id": "D104",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 20500,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 92,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "COO",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Nettlebed Energy Services"
+ },
+ {
+  "deal_id": "D105",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 16500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R20",
+  "rep_tenure_months": 69,
+  "buyers_call1": [
+   "VP of People",
+   "Chief People Officer",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ostrander Software"
+ },
+ {
+  "deal_id": "D106",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 11500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Print & Pack"
+ },
+ {
+  "deal_id": "D107",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 19000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 20,
+  "buyers_call1": [
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Robotics"
+ },
+ {
+  "deal_id": "D108",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 16000,
+  "days_to_demo": 21,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "Operations Manager",
+   "Head of HR",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Schools Network"
+ },
+ {
+  "deal_id": "D109",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 19500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R20",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "COO",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Hospitality"
+ },
+ {
+  "deal_id": "D110",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 18000,
+  "days_to_demo": 7,
+  "outcome": "won",
+  "rep_id": "R36",
+  "rep_tenure_months": 87,
+  "buyers_call1": [
+   "VP of People",
+   "HR Director",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": null,
+  "company": "Millrace Logistics"
+ },
+ {
+  "deal_id": "D111",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 15500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "Operations Manager",
+   "HR Generalist",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Wexcombe Labs"
+ },
+ {
+  "deal_id": "D112",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 20500,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R06",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "HR Director",
+   "Operations Manager",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Labs"
+ },
+ {
+  "deal_id": "D113",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 18500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 8,
+  "buyers_call1": [
+   "VP of People",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Quarry Foods"
+ },
+ {
+  "deal_id": "D114",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 18500,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R39",
+  "rep_tenure_months": 42,
+  "buyers_call1": [
+   "Operations Manager",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Quarry Builders"
+ },
+ {
+  "deal_id": "D115",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 14000,
+  "days_to_demo": 7,
+  "outcome": "won",
+  "rep_id": "R02",
+  "rep_tenure_months": 90,
+  "buyers_call1": [
+   "COO",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": null,
+  "company": "Oakhaven Software"
+ },
+ {
+  "deal_id": "D116",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 28000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R05",
+  "rep_tenure_months": 66,
+  "buyers_call1": [
+   "COO",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Pinecrest Outfitters"
+ },
+ {
+  "deal_id": "D117",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 29500,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R15",
+  "rep_tenure_months": 75,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Saltmarsh Media"
+ },
+ {
+  "deal_id": "D118",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 17000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 40,
+  "buyers_call1": [
+   "Director of Operations",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Ironbark Media"
+ },
+ {
+  "deal_id": "D119",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 10000,
+  "days_to_demo": 7,
+  "outcome": "won",
+  "rep_id": "R36",
+  "rep_tenure_months": 16,
+  "buyers_call1": [
+   "HR Director",
+   "Office Manager",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Print & Pack"
+ },
+ {
+  "deal_id": "D120",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 15500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R14",
+  "rep_tenure_months": 72,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Print & Pack"
+ },
+ {
+  "deal_id": "D121",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 20000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R13",
+  "rep_tenure_months": 23,
+  "buyers_call1": [
+   "Office Manager",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Energy Services"
+ },
+ {
+  "deal_id": "D122",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 17500,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R29",
+  "rep_tenure_months": 36,
+  "buyers_call1": [
+   "VP of People",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Gantry Clinics"
+ },
+ {
+  "deal_id": "D123",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 23000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R05",
+  "rep_tenure_months": 36,
+  "buyers_call1": [
+   "HR Director",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Outfitters"
+ },
+ {
+  "deal_id": "D124",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 12000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ostrander Engineering"
+ },
+ {
+  "deal_id": "D125",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 15500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "HR Generalist",
+   "COO",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Print & Pack"
+ },
+ {
+  "deal_id": "D126",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 18500,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R34",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "COO",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Energy Services"
+ },
+ {
+  "deal_id": "D127",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 17500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 32,
+  "buyers_call1": [
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Hospitality"
+ },
+ {
+  "deal_id": "D128",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 20500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Zephyr Labs"
+ },
+ {
+  "deal_id": "D129",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 17000,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R42",
+  "rep_tenure_months": 24,
+  "buyers_call1": [
+   "People Operations Lead",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Yellowpine Foods"
+ },
+ {
+  "deal_id": "D130",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 15000,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 95,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Insurance Services"
+ },
+ {
+  "deal_id": "D131",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 17000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R31",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Head of Finance"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Brightwater Foods"
+ },
+ {
+  "deal_id": "D132",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 12000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 32,
+  "buyers_call1": [
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Media"
+ },
+ {
+  "deal_id": "D133",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 17000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Thornfield Veterinary Partners"
+ },
+ {
+  "deal_id": "D134",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 18500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R27",
+  "rep_tenure_months": 63,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Dental Group"
+ },
+ {
+  "deal_id": "D135",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 14000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R22",
+  "rep_tenure_months": 55,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Design Studio"
+ },
+ {
+  "deal_id": "D136",
+  "quarter": "2026-Q1",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 26500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 73,
+  "buyers_call1": [
+   "Head of HR",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Robotics"
+ },
+ {
+  "deal_id": "D137",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 33000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R43",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "HR Director",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": null,
+  "company": "Thornfield Brewing"
+ },
+ {
+  "deal_id": "D138",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 15000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Cobbledge Energy Services"
+ },
+ {
+  "deal_id": "D139",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 26000,
+  "days_to_demo": 1,
+  "outcome": "won",
+  "rep_id": "R11",
+  "rep_tenure_months": 38,
+  "buyers_call1": [
+   "HR Director",
+   "People Operations Lead",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ravenscar Freight"
+ },
+ {
+  "deal_id": "D140",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 20000,
+  "days_to_demo": 2,
+  "outcome": "won",
+  "rep_id": "R21",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "HR Generalist",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Zephyr Robotics"
+ },
+ {
+  "deal_id": "D141",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 34000,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "HR Director",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "COO",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Oakhaven Clinics"
+ },
+ {
+  "deal_id": "D142",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 34500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R11",
+  "rep_tenure_months": 35,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Print & Pack"
+ },
+ {
+  "deal_id": "D143",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 41500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "HR Generalist",
+   "COO"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Plumtree Veterinary Partners"
+ },
+ {
+  "deal_id": "D144",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 41000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 63,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Head of Finance"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Oakhaven Supply"
+ },
+ {
+  "deal_id": "D145",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 35000,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R16",
+  "rep_tenure_months": 8,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Cobbledge Dental Group"
+ },
+ {
+  "deal_id": "D146",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 30000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 33,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Builders"
+ },
+ {
+  "deal_id": "D147",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 33000,
+  "days_to_demo": 19,
+  "outcome": "lost",
+  "rep_id": "R41",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Outfitters"
+ },
+ {
+  "deal_id": "D148",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 27000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 19,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Hawkridge Supply"
+ },
+ {
+  "deal_id": "D149",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 28000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R24",
+  "rep_tenure_months": 50,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Software"
+ },
+ {
+  "deal_id": "D150",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 31500,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R40",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "Director of Operations",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Elmcroft Staffing"
+ },
+ {
+  "deal_id": "D151",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 40500,
+  "days_to_demo": 10,
+  "outcome": "won",
+  "rep_id": "R06",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "COO",
+   "Office Manager",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Umber Brewing"
+ },
+ {
+  "deal_id": "D152",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 35000,
+  "days_to_demo": 9,
+  "outcome": "won",
+  "rep_id": "R27",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "COO",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Wexcombe Veterinary Partners"
+ },
+ {
+  "deal_id": "D153",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 21500,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R03",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director",
+   "COO"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Larkspur Hospitality"
+ },
+ {
+  "deal_id": "D154",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 48000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 38,
+  "buyers_call1": [
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Yellowpine Fabrication"
+ },
+ {
+  "deal_id": "D155",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 34500,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R13",
+  "rep_tenure_months": 42,
+  "buyers_call1": [
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Pinecrest Fabrication"
+ },
+ {
+  "deal_id": "D156",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 35500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "People Operations Lead",
+   "COO"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Zephyr Energy Services"
+ },
+ {
+  "deal_id": "D157",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 24500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R20",
+  "rep_tenure_months": 72,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Wexcombe Clinics"
+ },
+ {
+  "deal_id": "D158",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 24500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R41",
+  "rep_tenure_months": 29,
+  "buyers_call1": [
+   "HR Director",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Cobbledge Builders"
+ },
+ {
+  "deal_id": "D159",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 17500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "HR Generalist",
+   "COO",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Software"
+ },
+ {
+  "deal_id": "D160",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 18500,
+  "days_to_demo": 7,
+  "outcome": "won",
+  "rep_id": "R20",
+  "rep_tenure_months": 42,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Quarry Engineering"
+ },
+ {
+  "deal_id": "D161",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 33000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 20,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Saltmarsh Dental Group"
+ },
+ {
+  "deal_id": "D162",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 34500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 7,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Print & Pack"
+ },
+ {
+  "deal_id": "D163",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 56500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "HR Director",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Brightwater Engineering"
+ },
+ {
+  "deal_id": "D164",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 21500,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R19",
+  "rep_tenure_months": 86,
+  "buyers_call1": [
+   "COO",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": null,
+  "company": "Brightwater Analytics"
+ },
+ {
+  "deal_id": "D165",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 24500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 92,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Robotics"
+ },
+ {
+  "deal_id": "D166",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 32000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 94,
+  "buyers_call1": [
+   "Director of Operations",
+   "People Operations Lead",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Hawkridge Schools Network"
+ },
+ {
+  "deal_id": "D167",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 27000,
+  "days_to_demo": 10,
+  "outcome": "won",
+  "rep_id": "R14",
+  "rep_tenure_months": 23,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ironbark Engineering"
+ },
+ {
+  "deal_id": "D168",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 38500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Brightwater Robotics"
+ },
+ {
+  "deal_id": "D169",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 32500,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R25",
+  "rep_tenure_months": 69,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Juniper Veterinary Partners"
+ },
+ {
+  "deal_id": "D170",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 31500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R18",
+  "rep_tenure_months": 90,
+  "buyers_call1": [
+   "VP of People",
+   "HR Generalist",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Redfern Freight"
+ },
+ {
+  "deal_id": "D171",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 54500,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 94,
+  "buyers_call1": [
+   "Head of HR",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Gantry Design Studio"
+ },
+ {
+  "deal_id": "D172",
+  "quarter": "2026-Q1",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 26500,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "General Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Plumtree Analytics"
+ },
+ {
+  "deal_id": "D173",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 88500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 51,
+  "buyers_call1": [
+   "HR Director",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Larkspur Dental Group"
+ },
+ {
+  "deal_id": "D174",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 49500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 16,
+  "buyers_call1": [
+   "HR Director",
+   "Director of Operations",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Dunstan Analytics"
+ },
+ {
+  "deal_id": "D175",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 51500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 74,
+  "buyers_call1": [
+   "COO",
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Quarry Health Partners"
+ },
+ {
+  "deal_id": "D176",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 39000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 59,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Millrace Insurance Services"
+ },
+ {
+  "deal_id": "D177",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 48500,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 62,
+  "buyers_call1": [
+   "VP of People",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ironbark Software"
+ },
+ {
+  "deal_id": "D178",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 49500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Clinics"
+ },
+ {
+  "deal_id": "D179",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 43000,
+  "days_to_demo": 27,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 25,
+  "buyers_call1": [
+   "HR Director",
+   "COO",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Larkspur Schools Network"
+ },
+ {
+  "deal_id": "D180",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 42000,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R10",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kestrel Builders"
+ },
+ {
+  "deal_id": "D181",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 56000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 39,
+  "buyers_call1": [
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Millrace Schools Network"
+ },
+ {
+  "deal_id": "D182",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 64500,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R41",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "HR Director",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Hospitality"
+ },
+ {
+  "deal_id": "D183",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 37000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R05",
+  "rep_tenure_months": 70,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Thornfield Robotics"
+ },
+ {
+  "deal_id": "D184",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 84000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R13",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "Director of Operations",
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Saltmarsh Insurance Services"
+ },
+ {
+  "deal_id": "D185",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 76000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R16",
+  "rep_tenure_months": 35,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Hawkridge Veterinary Partners"
+ },
+ {
+  "deal_id": "D186",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 82000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R23",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "Operations Manager",
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "Operations Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Saltmarsh Veterinary Partners"
+ },
+ {
+  "deal_id": "D187",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 47500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R31",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "COO",
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Vesper Builders"
+ },
+ {
+  "deal_id": "D188",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 70000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 68,
+  "buyers_call1": [
+   "VP of People",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Millrace Print & Pack"
+ },
+ {
+  "deal_id": "D189",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 49500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 12,
+  "buyers_call1": [
+   "Operations Manager",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Juniper Fabrication"
+ },
+ {
+  "deal_id": "D190",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 64000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 78,
+  "buyers_call1": [
+   "Operations Manager",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Head of Finance"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Millrace Builders"
+ },
+ {
+  "deal_id": "D191",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 55500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "Director of Operations",
+   "VP of People",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Umber Engineering"
+ },
+ {
+  "deal_id": "D192",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 33500,
+  "days_to_demo": 10,
+  "outcome": "won",
+  "rep_id": "R05",
+  "rep_tenure_months": 49,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Redfern Clinics"
+ },
+ {
+  "deal_id": "D193",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 30500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 45,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Fernhollow Engineering"
+ },
+ {
+  "deal_id": "D194",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 85000,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R05",
+  "rep_tenure_months": 59,
+  "buyers_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Gantry Foods"
+ },
+ {
+  "deal_id": "D195",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 38000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R24",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "HR Generalist",
+   "VP of People",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Ravenscar Staffing"
+ },
+ {
+  "deal_id": "D196",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 79500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 88,
+  "buyers_call1": [
+   "Operations Manager",
+   "Head of HR",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Pinecrest Staffing"
+ },
+ {
+  "deal_id": "D197",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 45000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 29,
+  "buyers_call1": [
+   "HR Generalist",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Thornfield Foods"
+ },
+ {
+  "deal_id": "D198",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 43000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 46,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Media"
+ },
+ {
+  "deal_id": "D199",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 62500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 73,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Quarry Schools Network"
+ },
+ {
+  "deal_id": "D200",
+  "quarter": "2026-Q1",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 109000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R35",
+  "rep_tenure_months": 40,
+  "buyers_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Hawkridge Outfitters"
+ },
+ {
+  "deal_id": "D201",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 30500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 81,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Pinecrest Insurance Services"
+ },
+ {
+  "deal_id": "D202",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 17500,
+  "days_to_demo": 21,
+  "outcome": "lost",
+  "rep_id": "R16",
+  "rep_tenure_months": 81,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Saltmarsh Hospitality"
+ },
+ {
+  "deal_id": "D203",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 13000,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R18",
+  "rep_tenure_months": 7,
+  "buyers_call1": [
+   "HR Director",
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Pinecrest Robotics"
+ },
+ {
+  "deal_id": "D204",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 34000,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "Director of Operations",
+   "HR Director",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Builders"
+ },
+ {
+  "deal_id": "D205",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 19000,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R44",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Elmcroft Clinics"
+ },
+ {
+  "deal_id": "D206",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 20000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 10,
+  "buyers_call1": [
+   "Office Manager",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Larkspur Fabrication"
+ },
+ {
+  "deal_id": "D207",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 17000,
+  "days_to_demo": 28,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "Operations Manager",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Engineering"
+ },
+ {
+  "deal_id": "D208",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 15000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R09",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "VP of People",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Saltmarsh Software"
+ },
+ {
+  "deal_id": "D209",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 17000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R05",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "Operations Manager",
+   "HR Generalist",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Nettlebed Supply"
+ },
+ {
+  "deal_id": "D210",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 10000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R06",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "COO",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Redfern Dental Group"
+ },
+ {
+  "deal_id": "D211",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 19500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 10,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Quarry Software"
+ },
+ {
+  "deal_id": "D212",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 17500,
+  "days_to_demo": 19,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Fernhollow Builders"
+ },
+ {
+  "deal_id": "D213",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 17500,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R20",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Fernhollow Clinics"
+ },
+ {
+  "deal_id": "D214",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 15500,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R27",
+  "rep_tenure_months": 74,
+  "buyers_call1": [
+   "Director of Operations",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kestrel Brewing"
+ },
+ {
+  "deal_id": "D215",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 25500,
+  "days_to_demo": 25,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 36,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Millrace Clinics"
+ },
+ {
+  "deal_id": "D216",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 13000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "COO",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Redfern Fabrication"
+ },
+ {
+  "deal_id": "D217",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 19500,
+  "days_to_demo": 16,
+  "outcome": "won",
+  "rep_id": "R31",
+  "rep_tenure_months": 78,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Wexcombe Dental Group"
+ },
+ {
+  "deal_id": "D218",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 24500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Thornfield Design Studio"
+ },
+ {
+  "deal_id": "D219",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 14000,
+  "days_to_demo": 10,
+  "outcome": "won",
+  "rep_id": "R27",
+  "rep_tenure_months": 20,
+  "buyers_call1": [
+   "Chief People Officer",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Freight"
+ },
+ {
+  "deal_id": "D220",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 24000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Alderwick Labs"
+ },
+ {
+  "deal_id": "D221",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 10500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R41",
+  "rep_tenure_months": 80,
+  "buyers_call1": [
+   "HR Director",
+   "VP of People",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ostrander Fabrication"
+ },
+ {
+  "deal_id": "D222",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 18000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Pinecrest Media"
+ },
+ {
+  "deal_id": "D223",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 13500,
+  "days_to_demo": 9,
+  "outcome": "won",
+  "rep_id": "R45",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "Director of Operations",
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Oakhaven Dental Group"
+ },
+ {
+  "deal_id": "D224",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 10500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 69,
+  "buyers_call1": [
+   "VP of People",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Larkspur Engineering"
+ },
+ {
+  "deal_id": "D225",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 19500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 6,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Wexcombe Analytics"
+ },
+ {
+  "deal_id": "D226",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 13500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 71,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Kestrel Media"
+ },
+ {
+  "deal_id": "D227",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 17000,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R39",
+  "rep_tenure_months": 64,
+  "buyers_call1": [
+   "Operations Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Millrace Energy Services"
+ },
+ {
+  "deal_id": "D228",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 13000,
+  "days_to_demo": 1,
+  "outcome": "lost",
+  "rep_id": "R03",
+  "rep_tenure_months": 7,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Zephyr Design Studio"
+ },
+ {
+  "deal_id": "D229",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 12500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 20,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Insurance Services"
+ },
+ {
+  "deal_id": "D230",
+  "quarter": "2026-Q2",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 23000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R22",
+  "rep_tenure_months": 49,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Engineering"
+ },
+ {
+  "deal_id": "D231",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 28500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "Head of HR",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Freight"
+ },
+ {
+  "deal_id": "D232",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 52500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 43,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Supply"
+ },
+ {
+  "deal_id": "D233",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 28000,
+  "days_to_demo": 21,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Director",
+   "COO"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Marlow Design Studio"
+ },
+ {
+  "deal_id": "D234",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 28500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R11",
+  "rep_tenure_months": 23,
+  "buyers_call1": [
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Insurance Services"
+ },
+ {
+  "deal_id": "D235",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 23000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 44,
+  "buyers_call1": [
+   "Head of HR",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Fernhollow Foods"
+ },
+ {
+  "deal_id": "D236",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 58500,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R06",
+  "rep_tenure_months": 22,
+  "buyers_call1": [
+   "Head of HR",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Fernhollow Dental Group"
+ },
+ {
+  "deal_id": "D237",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 21000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R06",
+  "rep_tenure_months": 90,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Redfern Hospitality"
+ },
+ {
+  "deal_id": "D238",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 20000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R11",
+  "rep_tenure_months": 54,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Elmcroft Veterinary Partners"
+ },
+ {
+  "deal_id": "D239",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 26500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 92,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Media"
+ },
+ {
+  "deal_id": "D240",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 23500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R37",
+  "rep_tenure_months": 82,
+  "buyers_call1": [
+   "People Operations Lead",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Juniper Staffing"
+ },
+ {
+  "deal_id": "D241",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 17500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 86,
+  "buyers_call1": [
+   "Office Manager",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Saltmarsh Schools Network"
+ },
+ {
+  "deal_id": "D242",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 37500,
+  "days_to_demo": 3,
+  "outcome": "won",
+  "rep_id": "R39",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "Chief People Officer",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Elmcroft Fabrication"
+ },
+ {
+  "deal_id": "D243",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 29000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R41",
+  "rep_tenure_months": 60,
+  "buyers_call1": [
+   "COO",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kingsfold Hospitality"
+ },
+ {
+  "deal_id": "D244",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 36000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 75,
+  "buyers_call1": [
+   "VP of People",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Thornfield Schools Network"
+ },
+ {
+  "deal_id": "D245",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 18000,
+  "days_to_demo": 18,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 87,
+  "buyers_call1": [
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Insurance Services"
+ },
+ {
+  "deal_id": "D246",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 27000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 33,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Design Studio"
+ },
+ {
+  "deal_id": "D247",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 49000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 20,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Nettlebed Print & Pack"
+ },
+ {
+  "deal_id": "D248",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 21500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R27",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Juniper Analytics"
+ },
+ {
+  "deal_id": "D249",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 24500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "Operations Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Software"
+ },
+ {
+  "deal_id": "D250",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 24500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 49,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Hawkridge Design Studio"
+ },
+ {
+  "deal_id": "D251",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 39500,
+  "days_to_demo": 2,
+  "outcome": "won",
+  "rep_id": "R06",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Elmcroft Logistics"
+ },
+ {
+  "deal_id": "D252",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 32000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 90,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Redfern Engineering"
+ },
+ {
+  "deal_id": "D253",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 22000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 28,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Brightwater Logistics"
+ },
+ {
+  "deal_id": "D254",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 36500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 40,
+  "buyers_call1": [
+   "HR Generalist",
+   "COO",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Zephyr Builders"
+ },
+ {
+  "deal_id": "D255",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 23500,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R26",
+  "rep_tenure_months": 19,
+  "buyers_call1": [
+   "VP of People",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "IT Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Plumtree Fabrication"
+ },
+ {
+  "deal_id": "D256",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 40500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R22",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Gantry Brewing"
+ },
+ {
+  "deal_id": "D257",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 29500,
+  "days_to_demo": 16,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 56,
+  "buyers_call1": [
+   "Head of HR",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Gantry Engineering"
+ },
+ {
+  "deal_id": "D258",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 24000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R35",
+  "rep_tenure_months": 87,
+  "buyers_call1": [
+   "VP of People",
+   "Head of HR",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Health Partners"
+ },
+ {
+  "deal_id": "D259",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 23000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 33,
+  "buyers_call1": [
+   "People Operations Lead",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Labs"
+ },
+ {
+  "deal_id": "D260",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 25000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R35",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "HR Director",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Supply"
+ },
+ {
+  "deal_id": "D261",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 33000,
+  "days_to_demo": 16,
+  "outcome": "won",
+  "rep_id": "R14",
+  "rep_tenure_months": 52,
+  "buyers_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Head of Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Dunstan Freight"
+ },
+ {
+  "deal_id": "D262",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 38500,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 45,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Saltmarsh Health Partners"
+ },
+ {
+  "deal_id": "D263",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 33000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R43",
+  "rep_tenure_months": 16,
+  "buyers_call1": [
+   "Director of Operations",
+   "COO",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Hawkridge Health Partners"
+ },
+ {
+  "deal_id": "D264",
+  "quarter": "2026-Q2",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 51000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 78,
+  "buyers_call1": [
+   "Operations Manager",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Zephyr Freight"
+ },
+ {
+  "deal_id": "D265",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 49500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R18",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Saltmarsh Brewing"
+ },
+ {
+  "deal_id": "D266",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 48500,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R29",
+  "rep_tenure_months": 44,
+  "buyers_call1": [
+   "HR Director",
+   "Head of HR",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Gantry Dental Group"
+ },
+ {
+  "deal_id": "D267",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 53000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "Office Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "COO",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kingsfold Media"
+ },
+ {
+  "deal_id": "D268",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 61000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R16",
+  "rep_tenure_months": 14,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Redfern Media"
+ },
+ {
+  "deal_id": "D269",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 53500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 93,
+  "buyers_call1": [
+   "COO",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Ostrander Media"
+ },
+ {
+  "deal_id": "D270",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 44500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R26",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Gantry Insurance Services"
+ },
+ {
+  "deal_id": "D271",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 47500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R43",
+  "rep_tenure_months": 22,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Dunstan Hospitality"
+ },
+ {
+  "deal_id": "D272",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 65500,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 73,
+  "buyers_call1": [
+   "Head of HR",
+   "People Operations Lead",
+   "COO"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Quarry Labs"
+ },
+ {
+  "deal_id": "D273",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 43500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R27",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Operations Manager",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Ostrander Brewing"
+ },
+ {
+  "deal_id": "D274",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 33500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 69,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Millrace Fabrication"
+ },
+ {
+  "deal_id": "D275",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 40000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 87,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Wexcombe Freight"
+ },
+ {
+  "deal_id": "D276",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 33500,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R20",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kestrel Supply"
+ },
+ {
+  "deal_id": "D277",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 88000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R28",
+  "rep_tenure_months": 42,
+  "buyers_call1": [
+   "COO",
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Alderwick Health Partners"
+ },
+ {
+  "deal_id": "D278",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 74500,
+  "days_to_demo": 19,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "Director of Operations",
+   "HR Generalist",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Zephyr Hospitality"
+ },
+ {
+  "deal_id": "D279",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 66000,
+  "days_to_demo": 16,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 64,
+  "buyers_call1": [
+   "Chief People Officer",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Hawkridge Fabrication"
+ },
+ {
+  "deal_id": "D280",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 57000,
+  "days_to_demo": 10,
+  "outcome": "won",
+  "rep_id": "R34",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Nettlebed Veterinary Partners"
+ },
+ {
+  "deal_id": "D281",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 40500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R27",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Thornfield Analytics"
+ },
+ {
+  "deal_id": "D282",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 53500,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 75,
+  "buyers_call1": [
+   "HR Director",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "CFO",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Fernhollow Health Partners"
+ },
+ {
+  "deal_id": "D283",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 49000,
+  "days_to_demo": 11,
+  "outcome": "won",
+  "rep_id": "R08",
+  "rep_tenure_months": 52,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Builders"
+ },
+ {
+  "deal_id": "D284",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 76000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 25,
+  "buyers_call1": [
+   "Chief People Officer",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Hospitality"
+ },
+ {
+  "deal_id": "D285",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 49500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 81,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Ironbark Foods"
+ },
+ {
+  "deal_id": "D286",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 52000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R33",
+  "rep_tenure_months": 41,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Health Partners"
+ },
+ {
+  "deal_id": "D287",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 73000,
+  "days_to_demo": 22,
+  "outcome": "lost",
+  "rep_id": "R01",
+  "rep_tenure_months": 82,
+  "buyers_call1": [
+   "Office Manager",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Fernhollow Veterinary Partners"
+ },
+ {
+  "deal_id": "D288",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 44000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 35,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Health Partners"
+ },
+ {
+  "deal_id": "D289",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 48000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R24",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Fernhollow Software"
+ },
+ {
+  "deal_id": "D290",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 53000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 82,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Labs"
+ },
+ {
+  "deal_id": "D291",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 34000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R24",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "HR Director",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Vesper Brewing"
+ },
+ {
+  "deal_id": "D292",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 50500,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Software"
+ },
+ {
+  "deal_id": "D293",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 34500,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R25",
+  "rep_tenure_months": 91,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Wexcombe Print & Pack"
+ },
+ {
+  "deal_id": "D294",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 51000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 53,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Foods"
+ },
+ {
+  "deal_id": "D295",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 73500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 82,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Ironbark Energy Services"
+ },
+ {
+  "deal_id": "D296",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 62000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R30",
+  "rep_tenure_months": 63,
+  "buyers_call1": [
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Alderwick Engineering"
+ },
+ {
+  "deal_id": "D297",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 42500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R31",
+  "rep_tenure_months": 54,
+  "buyers_call1": [
+   "Office Manager",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Fernhollow Analytics"
+ },
+ {
+  "deal_id": "D298",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 48000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 62,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "COO",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Clinics"
+ },
+ {
+  "deal_id": "D299",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 63000,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of Finance",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Nettlebed Schools Network"
+ },
+ {
+  "deal_id": "D300",
+  "quarter": "2026-Q2",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 73500,
+  "days_to_demo": 14,
+  "outcome": "won",
+  "rep_id": "R20",
+  "rep_tenure_months": 27,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Fernhollow Media"
+ },
+ {
+  "deal_id": "D301",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 18000,
+  "days_to_demo": 18,
+  "outcome": "lost",
+  "rep_id": "R18",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Zephyr Staffing"
+ },
+ {
+  "deal_id": "D302",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 19000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 38,
+  "buyers_call1": [
+   "COO",
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Cobbledge Labs"
+ },
+ {
+  "deal_id": "D303",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 15500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 32,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Quarry Staffing"
+ },
+ {
+  "deal_id": "D304",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 13000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R16",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "Office Manager",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Wexcombe Brewing"
+ },
+ {
+  "deal_id": "D305",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 18500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R45",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "VP of People",
+   "People Operations Lead",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Hawkridge Dental Group"
+ },
+ {
+  "deal_id": "D306",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 13000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 12,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Wexcombe Fabrication"
+ },
+ {
+  "deal_id": "D307",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 17000,
+  "days_to_demo": 9,
+  "outcome": "won",
+  "rep_id": "R05",
+  "rep_tenure_months": 44,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Umber Dental Group"
+ },
+ {
+  "deal_id": "D308",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 16500,
+  "days_to_demo": 17,
+  "outcome": "lost",
+  "rep_id": "R14",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "Operations Manager",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Oakhaven Print & Pack"
+ },
+ {
+  "deal_id": "D309",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 19500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 72,
+  "buyers_call1": [
+   "Office Manager",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Umber Insurance Services"
+ },
+ {
+  "deal_id": "D310",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 17000,
+  "days_to_demo": 14,
+  "outcome": "lost",
+  "rep_id": "R01",
+  "rep_tenure_months": 93,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Clinics"
+ },
+ {
+  "deal_id": "D311",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 20500,
+  "days_to_demo": 25,
+  "outcome": "won",
+  "rep_id": "R35",
+  "rep_tenure_months": 47,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Vesper Media"
+ },
+ {
+  "deal_id": "D312",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 17000,
+  "days_to_demo": 11,
+  "outcome": "won",
+  "rep_id": "R20",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Cobbledge Logistics"
+ },
+ {
+  "deal_id": "D313",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 16500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R25",
+  "rep_tenure_months": 45,
+  "buyers_call1": [
+   "Director of Operations",
+   "HR Generalist",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Analytics"
+ },
+ {
+  "deal_id": "D314",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 17000,
+  "days_to_demo": 16,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 43,
+  "buyers_call1": [
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kestrel Dental Group"
+ },
+ {
+  "deal_id": "D315",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 28000,
+  "days_to_demo": 15,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 35,
+  "buyers_call1": [
+   "HR Generalist",
+   "Office Manager",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Brightwater Schools Network"
+ },
+ {
+  "deal_id": "D316",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 19500,
+  "days_to_demo": 16,
+  "outcome": "lost",
+  "rep_id": "R15",
+  "rep_tenure_months": 5,
+  "buyers_call1": [
+   "People Operations Lead",
+   "HR Director",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Kingsfold Supply"
+ },
+ {
+  "deal_id": "D317",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 19000,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "COO",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ironbark Dental Group"
+ },
+ {
+  "deal_id": "D318",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 11000,
+  "days_to_demo": 28,
+  "outcome": "lost",
+  "rep_id": "R19",
+  "rep_tenure_months": 92,
+  "buyers_call1": [
+   "Head of HR",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Design Studio"
+ },
+ {
+  "deal_id": "D319",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 18000,
+  "days_to_demo": 16,
+  "outcome": "won",
+  "rep_id": "R11",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "Operations Manager",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Nettlebed Labs"
+ },
+ {
+  "deal_id": "D320",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 14000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 26,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Controller",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Freight"
+ },
+ {
+  "deal_id": "D321",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 16000,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 22,
+  "buyers_call1": [
+   "Director of Operations",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Yellowpine Labs"
+ },
+ {
+  "deal_id": "D322",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 10000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R37",
+  "rep_tenure_months": 70,
+  "buyers_call1": [
+   "People Operations Lead",
+   "COO"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ostrander Outfitters"
+ },
+ {
+  "deal_id": "D323",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "outbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 23000,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R43",
+  "rep_tenure_months": 73,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Kestrel Health Partners"
+ },
+ {
+  "deal_id": "D324",
+  "quarter": "2026-Q3",
+  "segment": "50-99",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 15000,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R01",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Operations Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Wexcombe Health Partners"
+ },
+ {
+  "deal_id": "D325",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 23500,
+  "days_to_demo": 23,
+  "outcome": "lost",
+  "rep_id": "R23",
+  "rep_tenure_months": 48,
+  "buyers_call1": [
+   "COO",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Gantry Print & Pack"
+ },
+ {
+  "deal_id": "D326",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 21500,
+  "days_to_demo": 9,
+  "outcome": "won",
+  "rep_id": "R44",
+  "rep_tenure_months": 18,
+  "buyers_call1": [
+   "Director of Operations",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ravenscar Clinics"
+ },
+ {
+  "deal_id": "D327",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 38500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Alderwick Foods"
+ },
+ {
+  "deal_id": "D328",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 17000,
+  "days_to_demo": 22,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 63,
+  "buyers_call1": [
+   "HR Generalist",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Juniper Health Partners"
+ },
+ {
+  "deal_id": "D329",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 24000,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 64,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Larkspur Supply"
+ },
+ {
+  "deal_id": "D330",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 31500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R29",
+  "rep_tenure_months": 72,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations",
+   "COO"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Dental Group"
+ },
+ {
+  "deal_id": "D331",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 30000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 91,
+  "buyers_call1": [
+   "Head of HR",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Vesper Staffing"
+ },
+ {
+  "deal_id": "D332",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Tallyhold",
+  "amount": 24500,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 83,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Zephyr Insurance Services"
+ },
+ {
+  "deal_id": "D333",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 38000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 19,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Cobbledge Hospitality"
+ },
+ {
+  "deal_id": "D334",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 32000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 63,
+  "buyers_call1": [
+   "COO",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Nettlebed Outfitters"
+ },
+ {
+  "deal_id": "D335",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Tallyhold",
+  "amount": 41000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 31,
+  "buyers_call1": [
+   "HR Generalist",
+   "Chief People Officer",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Vesper Software"
+ },
+ {
+  "deal_id": "D336",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 12500,
+  "days_to_demo": 28,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 91,
+  "buyers_call1": [
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Brewing"
+ },
+ {
+  "deal_id": "D337",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 25000,
+  "days_to_demo": 9,
+  "outcome": "won",
+  "rep_id": "R12",
+  "rep_tenure_months": 89,
+  "buyers_call1": [
+   "VP of People",
+   "Head of HR",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Vesper Insurance Services"
+ },
+ {
+  "deal_id": "D338",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 34500,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R31",
+  "rep_tenure_months": 85,
+  "buyers_call1": [
+   "Head of HR",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "COO",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Hospitality"
+ },
+ {
+  "deal_id": "D339",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 24500,
+  "days_to_demo": 19,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 13,
+  "buyers_call1": [
+   "COO",
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Dunstan Veterinary Partners"
+ },
+ {
+  "deal_id": "D340",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 19000,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R06",
+  "rep_tenure_months": 22,
+  "buyers_call1": [
+   "COO",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Brewing"
+ },
+ {
+  "deal_id": "D341",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 28000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R39",
+  "rep_tenure_months": 95,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Yellowpine Hospitality"
+ },
+ {
+  "deal_id": "D342",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 18000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 33,
+  "buyers_call1": [
+   "Head of HR",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Larkspur Software"
+ },
+ {
+  "deal_id": "D343",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 22500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R32",
+  "rep_tenure_months": 49,
+  "buyers_call1": [
+   "Head of HR",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ironbark Outfitters"
+ },
+ {
+  "deal_id": "D344",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 25000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "Chief People Officer",
+   "VP of People",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "COO"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Redfern Analytics"
+ },
+ {
+  "deal_id": "D345",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 42000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 3,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Vesper Energy Services"
+ },
+ {
+  "deal_id": "D346",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 27000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R14",
+  "rep_tenure_months": 73,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Redfern Supply"
+ },
+ {
+  "deal_id": "D347",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 22000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R26",
+  "rep_tenure_months": 12,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Quarry Freight"
+ },
+ {
+  "deal_id": "D348",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "outbound",
+  "competitor": "Tallyhold",
+  "amount": 28500,
+  "days_to_demo": 12,
+  "outcome": "won",
+  "rep_id": "R37",
+  "rep_tenure_months": 62,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Umber Clinics"
+ },
+ {
+  "deal_id": "D349",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 55500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R06",
+  "rep_tenure_months": 66,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Outfitters"
+ },
+ {
+  "deal_id": "D350",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 31000,
+  "days_to_demo": 26,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 74,
+  "buyers_call1": [
+   "Office Manager",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Saltmarsh Clinics"
+ },
+ {
+  "deal_id": "D351",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 52000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 58,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Kingsfold Builders"
+ },
+ {
+  "deal_id": "D352",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 21000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R30",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ironbark Schools Network"
+ },
+ {
+  "deal_id": "D353",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 30500,
+  "days_to_demo": 16,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 88,
+  "buyers_call1": [
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Thornfield Freight"
+ },
+ {
+  "deal_id": "D354",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 22000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R44",
+  "rep_tenure_months": 10,
+  "buyers_call1": [
+   "Chief People Officer",
+   "COO",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Pinecrest Builders"
+ },
+ {
+  "deal_id": "D355",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 35500,
+  "days_to_demo": 28,
+  "outcome": "lost",
+  "rep_id": "R15",
+  "rep_tenure_months": 65,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Kestrel Insurance Services"
+ },
+ {
+  "deal_id": "D356",
+  "quarter": "2026-Q3",
+  "segment": "100-199",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 26500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R36",
+  "rep_tenure_months": 9,
+  "buyers_call1": [
+   "Office Manager",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Outfitters"
+ },
+ {
+  "deal_id": "D357",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 28000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 61,
+  "buyers_call1": [
+   "Office Manager",
+   "Director of Operations",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Controller"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Ostrander Health Partners"
+ },
+ {
+  "deal_id": "D358",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 41500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R12",
+  "rep_tenure_months": 13,
+  "buyers_call1": [
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Marlow Engineering"
+ },
+ {
+  "deal_id": "D359",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 49000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R18",
+  "rep_tenure_months": 88,
+  "buyers_call1": [
+   "Chief People Officer",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Gantry Outfitters"
+ },
+ {
+  "deal_id": "D360",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 54500,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 95,
+  "buyers_call1": [
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Oakhaven Analytics"
+ },
+ {
+  "deal_id": "D361",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "none",
+  "amount": 64000,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R37",
+  "rep_tenure_months": 22,
+  "buyers_call1": [
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Zephyr Schools Network"
+ },
+ {
+  "deal_id": "D362",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 45000,
+  "days_to_demo": 20,
+  "outcome": "lost",
+  "rep_id": "R08",
+  "rep_tenure_months": 23,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Missing features",
+  "company": "Umber Hospitality"
+ },
+ {
+  "deal_id": "D363",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 44000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 41,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Ironbark Brewing"
+ },
+ {
+  "deal_id": "D364",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 66000,
+  "days_to_demo": 5,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "COO",
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "COO"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Ostrander Dental Group"
+ },
+ {
+  "deal_id": "D365",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 61000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R12",
+  "rep_tenure_months": 32,
+  "buyers_call1": [
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Head of Finance"
+  ],
+  "crm_loss_reason": null,
+  "company": "Gantry Builders"
+ },
+ {
+  "deal_id": "D366",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 63000,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R04",
+  "rep_tenure_months": 28,
+  "buyers_call1": [
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Ravenscar Dental Group"
+ },
+ {
+  "deal_id": "D367",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 58500,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 72,
+  "buyers_call1": [
+   "Office Manager",
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "COO"
+  ],
+  "crm_loss_reason": "Went with competitor",
+  "company": "Saltmarsh Staffing"
+ },
+ {
+  "deal_id": "D368",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Tallyhold",
+  "amount": 66000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 51,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Head of HR",
+   "HR Generalist"
+  ],
+  "buyers_call2": [
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Millrace Outfitters"
+ },
+ {
+  "deal_id": "D369",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 40000,
+  "days_to_demo": 5,
+  "outcome": "won",
+  "rep_id": "R03",
+  "rep_tenure_months": 88,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": null,
+  "company": "Marlow Outfitters"
+ },
+ {
+  "deal_id": "D370",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 72000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 76,
+  "buyers_call1": [
+   "COO",
+   "Director of Operations",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Cobbledge Software"
+ },
+ {
+  "deal_id": "D371",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 41000,
+  "days_to_demo": 16,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 51,
+  "buyers_call1": [
+   "Office Manager",
+   "Operations Manager",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Dunstan Supply"
+ },
+ {
+  "deal_id": "D372",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Brasswick Payroll",
+  "amount": 44000,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 76,
+  "buyers_call1": [
+   "Director of Operations",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Design Studio"
+ },
+ {
+  "deal_id": "D373",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 65000,
+  "days_to_demo": 4,
+  "outcome": "lost",
+  "rep_id": "R15",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Generalist",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Redfern Design Studio"
+ },
+ {
+  "deal_id": "D374",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 63500,
+  "days_to_demo": 12,
+  "outcome": "won",
+  "rep_id": "R29",
+  "rep_tenure_months": 11,
+  "buyers_call1": [
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "VP Finance",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Juniper Energy Services"
+ },
+ {
+  "deal_id": "D375",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 54000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R24",
+  "rep_tenure_months": 29,
+  "buyers_call1": [
+   "HR Generalist",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "COO",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Nettlebed Freight"
+ },
+ {
+  "deal_id": "D376",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 54000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R21",
+  "rep_tenure_months": 17,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "CFO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Elmcroft Software"
+ },
+ {
+  "deal_id": "D377",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 62000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "COO",
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Plumtree Print & Pack"
+ },
+ {
+  "deal_id": "D378",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 53500,
+  "days_to_demo": 3,
+  "outcome": "lost",
+  "rep_id": "R17",
+  "rep_tenure_months": 4,
+  "buyers_call1": [
+   "Chief People Officer",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Saltmarsh Robotics"
+ },
+ {
+  "deal_id": "D379",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 37000,
+  "days_to_demo": 19,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 45,
+  "buyers_call1": [
+   "HR Director",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Quarry Veterinary Partners"
+ },
+ {
+  "deal_id": "D380",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 58500,
+  "days_to_demo": 7,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 15,
+  "buyers_call1": [
+   "People Operations Lead",
+   "VP of People",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Head of People",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Nettlebed Engineering"
+ },
+ {
+  "deal_id": "D381",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 54000,
+  "days_to_demo": 8,
+  "outcome": "won",
+  "rep_id": "R17",
+  "rep_tenure_months": 76,
+  "buyers_call1": [
+   "Operations Manager",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Payroll Manager",
+   "COO"
+  ],
+  "crm_loss_reason": null,
+  "company": "Millrace Dental Group"
+ },
+ {
+  "deal_id": "D382",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 28000,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 60,
+  "buyers_call1": [
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "COO",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Marlow Logistics"
+ },
+ {
+  "deal_id": "D383",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 47500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R28",
+  "rep_tenure_months": 92,
+  "buyers_call1": [
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Finance Director",
+   "Compliance Lead"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Ravenscar Schools Network"
+ },
+ {
+  "deal_id": "D384",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 66000,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 28,
+  "buyers_call1": [
+   "COO"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Gantry Energy Services"
+ },
+ {
+  "deal_id": "D385",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Corvane",
+  "amount": 35000,
+  "days_to_demo": 2,
+  "outcome": "lost",
+  "rep_id": "R35",
+  "rep_tenure_months": 37,
+  "buyers_call1": [
+   "VP of People",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Zephyr Supply"
+ },
+ {
+  "deal_id": "D386",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "none",
+  "amount": 58500,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R40",
+  "rep_tenure_months": 94,
+  "buyers_call1": [
+   "COO",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "IT Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Ostrander Clinics"
+ },
+ {
+  "deal_id": "D387",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 47000,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 32,
+  "buyers_call1": [
+   "Operations Manager",
+   "COO"
+  ],
+  "buyers_call2": [
+   "Head of Finance"
+  ],
+  "crm_loss_reason": "Timing / budget",
+  "company": "Ravenscar Logistics"
+ },
+ {
+  "deal_id": "D388",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 60500,
+  "days_to_demo": 10,
+  "outcome": "lost",
+  "rep_id": "R09",
+  "rep_tenure_months": 68,
+  "buyers_call1": [
+   "Director of Operations",
+   "HR Generalist",
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "Payroll Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Freight"
+ },
+ {
+  "deal_id": "D389",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 40500,
+  "days_to_demo": 11,
+  "outcome": "lost",
+  "rep_id": "R10",
+  "rep_tenure_months": 41,
+  "buyers_call1": [
+   "HR Generalist",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "VP Finance"
+  ],
+  "crm_loss_reason": "Other",
+  "company": "Alderwick Builders"
+ },
+ {
+  "deal_id": "D390",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Corvane",
+  "amount": 55500,
+  "days_to_demo": 12,
+  "outcome": "lost",
+  "rep_id": "R40",
+  "rep_tenure_months": 54,
+  "buyers_call1": [
+   "Director of Operations",
+   "COO",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "Operations Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Millrace Media"
+ },
+ {
+  "deal_id": "D391",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "outbound",
+  "competitor": "Tallyhold",
+  "amount": 39500,
+  "days_to_demo": 16,
+  "outcome": "won",
+  "rep_id": "R22",
+  "rep_tenure_months": 39,
+  "buyers_call1": [
+   "People Operations Lead"
+  ],
+  "buyers_call2": [
+   "General Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Oakhaven Fabrication"
+ },
+ {
+  "deal_id": "D392",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 29000,
+  "days_to_demo": 9,
+  "outcome": "lost",
+  "rep_id": "R34",
+  "rep_tenure_months": 21,
+  "buyers_call1": [
+   "HR Director",
+   "People Operations Lead",
+   "Office Manager"
+  ],
+  "buyers_call2": [
+   "HR Director",
+   "COO"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Oakhaven Builders"
+ },
+ {
+  "deal_id": "D393",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 80500,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R02",
+  "rep_tenure_months": 95,
+  "buyers_call1": [
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Alderwick Robotics"
+ },
+ {
+  "deal_id": "D394",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 42000,
+  "days_to_demo": 4,
+  "outcome": "won",
+  "rep_id": "R07",
+  "rep_tenure_months": 34,
+  "buyers_call1": [
+   "People Operations Lead",
+   "VP of People"
+  ],
+  "buyers_call2": [
+   "Operations Director",
+   "General Manager"
+  ],
+  "crm_loss_reason": null,
+  "company": "Plumtree Freight"
+ },
+ {
+  "deal_id": "D395",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 56500,
+  "days_to_demo": 8,
+  "outcome": "lost",
+  "rep_id": "R07",
+  "rep_tenure_months": 36,
+  "buyers_call1": [
+   "People Operations Lead",
+   "Director of Operations"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "Benefits Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Fernhollow Freight"
+ },
+ {
+  "deal_id": "D396",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Brasswick Payroll",
+  "amount": 56500,
+  "days_to_demo": 6,
+  "outcome": "won",
+  "rep_id": "R36",
+  "rep_tenure_months": 25,
+  "buyers_call1": [
+   "Director of Operations",
+   "Head of HR",
+   "HR Director"
+  ],
+  "buyers_call2": [
+   "Finance Director"
+  ],
+  "crm_loss_reason": null,
+  "company": "Yellowpine Freight"
+ },
+ {
+  "deal_id": "D397",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Tallyhold",
+  "amount": 95500,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R22",
+  "rep_tenure_months": 93,
+  "buyers_call1": [
+   "Head of HR",
+   "Chief People Officer"
+  ],
+  "buyers_call2": [
+   "Benefits Manager",
+   "Head of People"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Fernhollow Robotics"
+ },
+ {
+  "deal_id": "D398",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "broker",
+  "competitor": "Tallyhold",
+  "amount": 73500,
+  "days_to_demo": 13,
+  "outcome": "lost",
+  "rep_id": "R25",
+  "rep_tenure_months": 79,
+  "buyers_call1": [
+   "Office Manager",
+   "HR Generalist",
+   "Head of HR"
+  ],
+  "buyers_call2": [
+   "Compliance Lead",
+   "IT Manager"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Larkspur Builders"
+ },
+ {
+  "deal_id": "D399",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "Corvane",
+  "amount": 37500,
+  "days_to_demo": 17,
+  "outcome": "lost",
+  "rep_id": "R38",
+  "rep_tenure_months": 23,
+  "buyers_call1": [
+   "HR Generalist",
+   "COO"
+  ],
+  "buyers_call2": [
+   "IT Manager",
+   "HR Director"
+  ],
+  "crm_loss_reason": "No decision",
+  "company": "Umber Logistics"
+ },
+ {
+  "deal_id": "D400",
+  "quarter": "2026-Q3",
+  "segment": "200-500",
+  "lead_source": "inbound",
+  "competitor": "none",
+  "amount": 29500,
+  "days_to_demo": 6,
+  "outcome": "lost",
+  "rep_id": "R42",
+  "rep_tenure_months": 56,
+  "buyers_call1": [
+   "Office Manager",
+   "Operations Manager"
+  ],
+  "buyers_call2": [
+   "HR Director"
+  ],
+  "crm_loss_reason": "Price",
+  "company": "Kingsfold Brewing"
+ }
+]

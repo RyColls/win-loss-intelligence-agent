@@ -1,0 +1,3365 @@
+{
+ "D002": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer only says they made a change and gives no reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D003": {
+  "primary": "product_gap",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "You do not have an applicant tracking module.",
+   "The recruiting piece was the principal concern."
+  ],
+  "note": "Missing applicant tracking was the main issue; a finance freeze was a separate secondary factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D004": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Even stripped down, you were still four grand over what we budgeted."
+  ],
+  "note": "Quote far above budget and a cheaper competitor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D005": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We asked for a demonstration, and the first slot that could be offered was nineteen days later.",
+   "It simply arrived after our momentum had gone."
+  ],
+  "note": "Nineteen-day wait for demo led them to start a trial elsewhere.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D007": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Just that it's the broker relationship."
+  ],
+  "note": "Followed broker's bundle recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D009": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If she'd put you in front of us, I'd be signing with you."
+  ],
+  "note": "Broker brought Tallyhold bundle; buyer says price was not the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D010": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Cost. Your number is around fourteen thousand a year."
+  ],
+  "note": "Quote exceeded budget and competitor was cheaper.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D011": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Our board asked us to pause several initiatives for the quarter while we reconsider priorities."
+  ],
+  "note": "Board paused initiatives; price explicitly not the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D012": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the money, to be honest."
+  ],
+  "note": "Competitor about six thousand a year cheaper.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D014": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But the broker relationship is the deciding factor, as Soren says."
+  ],
+  "note": "Broker recommended Tallyhold bundle; cost called minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D015": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "And it's really just the budget."
+  ],
+  "note": "Competitor about four and a half thousand cheaper.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D016": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer gives no reason beyond a different direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D017": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Mostly the price, I'm sorry."
+  ],
+  "note": "Competitor thirty-five hundred cheaper.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D020": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Money. I wish it were more interesting."
+  ],
+  "note": "Recurring gap of fifty-five hundred a year.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D021": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's cost. Plain and simple."
+  ],
+  "note": "Competitor quote far lower; demo wait explicitly not a reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D023": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She recommended them."
+  ],
+  "note": "Followed broker's bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D025": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The answer was that you support a single approver, or two at most, without custom steps."
+  ],
+  "note": "No multi-step approval routing.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D026": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Cost. Your proposal is about twelve thousand a year."
+  ],
+  "note": "Cost drove it; reporting gap called a nuisance.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D027": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We're going with Brasswick. It's the cost."
+  ],
+  "note": "Gap of nearly five thousand a year.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D028": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D029": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the money."
+  ],
+  "note": "Tallyhold far cheaper even after trimming.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D030": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's our broker, really."
+  ],
+  "note": "Broker presented Tallyhold bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D031": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "They've put a pause on new systems."
+  ],
+  "note": "Interim CEO paused new systems.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D033": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Honestly, the day between the first call and the demo was enough."
+  ],
+  "note": "Gap before demo let CEO start a competitor trial.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D034": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Chiefly the wait."
+  ],
+  "note": "Fifteen-day wait; cost difference minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D035": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Price. We're sixty-four people."
+  ],
+  "note": "Tallyhold cheaper; even lowest tier too high.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D036": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D037": {
+  "primary": "product_gap",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "The principal reason was the carrier file feeds."
+  ],
+  "note": "Missing automatic carrier feeds; broker recommendation was lesser.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D041": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Then four days went by before the demo, four full days"
+  ],
+  "note": "Delay let them start a trial with another tool.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D042": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "you can set one policy and then adjust people by hand."
+  ],
+  "note": "No per-location time-off accrual rules.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D043": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The ten days between our first conversation and the demo really did take the wind out of it for us"
+  ],
+  "note": "Ten-day wait; time-off question minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D045": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D046": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "no new software, no new anything until the acquisition is settled."
+  ],
+  "note": "Owners froze spending pending acquisition.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D050": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "At roughly nineteen thousand a year against your thirty, it simply fits the budget Rafferty has for this year, and we can't stretch."
+  ],
+  "note": "Chose cheaper Tallyhold for budget reasons.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D051": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The five days between our first call and the demo gave us time to begin a trial elsewhere, and we're now too far along to switch."
+  ],
+  "note": "Gap before demo let competitor trial take hold.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D052": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D054": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The interim CEO froze discretionary spending through at least the second quarter."
+  ],
+  "note": "Interim CEO froze spending.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D055": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "you can export a report and upload it yourself."
+  ],
+  "note": "No automatic carrier file feeds.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D056": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. We've used her for six years."
+  ],
+  "note": "Followed broker's bundle; product not an issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D059": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "In that climate, no one is prepared to approve a new payroll system.",
+   "every open initiative is on hold until the structure is settled"
+  ],
+  "note": "Parent company reorganisation put all new initiatives on hold; no competitor and product not at issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D060": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The annual cost does not fit our budget.",
+   "The difficulty is not the product. It is the sum on the invoice."
+  ],
+  "note": "Quote of about $26k exceeded the roughly $18k budget; Tallyhold quoted under $17k.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D062": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer only says they are going a different direction and gives no reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D063": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We have twenty-five set aside. Tallyhold came in at about twenty-two. That's the whole story."
+  ],
+  "note": "Cost far above the COO's ceiling and a cheaper Tallyhold quote; the demo wait was said not to matter.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D064": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the money.",
+   "I've got a competing quote from Tallyhold for about seventeen thousand."
+  ],
+  "note": "Quote about $27k versus a $17k competing quote and a $20k budget.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D066": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "even the single day between our first call and your demonstration proved too long for us."
+  ],
+  "note": "Buyer says the delay before the demo let an alternative get underway; sponsor departure was minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D067": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Leadership shifted every dollar to keeping the crews employed."
+  ],
+  "note": "Lost major contract led leadership to freeze non-essential spend including payroll software.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D070": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "a payroll migration did not make the list",
+   "Our leadership has redirected its priorities toward a facilities consolidation, and the payroll project has been postponed."
+  ],
+  "note": "Leadership reprioritised budget and attention to a consolidation, postponing the project; no competitor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D072": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The deciding factor was reporting: we need to build flexible, custom views for our quarterly board package without exporting to spreadsheets, and that wasn't there."
+  ],
+  "note": "Lacks a flexible report builder for board packages; competitor Corvane has one.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D073": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Until the deal closes, the buyers have asked us to avoid any major system changes."
+  ],
+  "note": "Pending sale of the company halted new systems; price and demo timing were not the issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D074": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "First thing she did was freeze new projects. Everything."
+  ],
+  "note": "Interim CEO froze all new projects after the CEO resigned.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D075": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The annual cost does not fit our budget.",
+   "But I cannot defend a fifty percent premium to the board."
+  ],
+  "note": "Quote about $38k versus Tallyhold at about $25k; missing applicant tracking was minor and not deciding.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D076": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Anything that wasn't keeping a crew on a job got cut or deferred."
+  ],
+  "note": "Customer delay led owner to cut or defer spending; payroll software deferred.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D077": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyers only say they are going a different direction with no stated reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D078": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The broker is the reason. Our broker. That's it."
+  ],
+  "note": "Broker recommended the Tallyhold bundle; missing automatic carrier files was a minor nice-to-have.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D079": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "the board doesn't want to commit to anything big until they've figured out who's running things day to day.",
+   "They told me, no new vendors until the new year, at least."
+  ],
+  "note": "Board paused new vendors after the founder stepped back; demo wait said not to matter.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D082": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "What I can't live with is hearing 'we'd have to check' on withholding for a quarter of my staff."
+  ],
+  "note": "Rep could not firmly answer multi-state withholding questions; price was acceptable.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D083": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "With nine states, one miss means a notice from some state agency, and then I'm the one answering it."
+  ],
+  "note": "Repeated 'we'd have to check' answers on multi-state tax; the demo wait and price were not the issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D084": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer only says they are going in a different direction with no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D085": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "On the second of the month the board froze discretionary spend through at least the end of Q2."
+  ],
+  "note": "Board froze discretionary spend after a project overrun; product was fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D088": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But I need these answers to be firm before I can recommend you."
+  ],
+  "note": "Unconfirmed answers on Pennsylvania local tax and reciprocity; price was acceptable.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D089": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The state tax answers were not firm enough for what we need, and we need that to be solid before we change systems."
+  ],
+  "note": "Buyers cite non-firm state tax answers; price and speed were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D090": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "I just can't stand behind a payroll provider who says 'check' for local taxes in eleven states."
+  ],
+  "note": "Local tax answers were not firm; building project cash strain also made the timeline uncertain.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D091": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We need certainty. 'I'd check' doesn't work."
+  ],
+  "note": "Deferred answers on city and reciprocity tax after past tax penalties; price was fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D092": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker recommended the bundle, and since they handle our renewals and we have worked together for years, we are following their lead."
+  ],
+  "note": "Chose Tallyhold bundle on the broker's recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D093": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Your system lets me do one approver, or two at a push.",
+   "And I can't wait on a roadmap."
+  ],
+  "note": "Lacks four-step multi-level approval routing; Tallyhold supports it.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D094": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "What we're missing is firm answers. Everything today was 'let me look.'"
+  ],
+  "note": "No firm answers on Ohio and Michigan local tax; price was not the problem.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D095": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "That's three items out of three where the answer is 'check.'"
+  ],
+  "note": "Uncertain answers on county tax, reciprocity and multi-state W-2; competitor 'had it down'.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D096": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It was a close call on my end, but the broker relationship tipped it."
+  ],
+  "note": "Broker's Tallyhold bundle tipped the decision despite the product ranking first.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D097": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer gives no reason beyond going in a different direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D098": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker recommended the bundle, and since they handle our renewals, we are following their advice."
+  ],
+  "note": "Followed broker's Tallyhold bundle; product had no shortfalls.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D099": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We waited thirteen days for the demo."
+  ],
+  "note": "Thirteen-day wait for the demo; owner grew impatient and Brasswick started a pilot sooner.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D100": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Maybe if there were a clearer answer on the tax pieces."
+  ],
+  "note": "Unclear answers on multi-state tax and notices kept them from buying; price was fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D101": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "The budget is the issue.",
+   "It's mostly the money."
+  ],
+  "note": "Quote about $12.9k versus a $10k budget and Tallyhold at about $8.8k; broker pointed them to Tallyhold but was secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D103": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It just came down to the broker having already set it up as a bundle."
+  ],
+  "note": "Prices were close; the broker's bundle decided it.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D104": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I can't justify three and a half thousand more for the same thing."
+  ],
+  "note": "Quote about $11.7k versus about $8k; mobile app problems said not to be the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D105": {
+  "primary": "price_over_budget",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "it's money. It's just the money."
+  ],
+  "note": "Quote about $13k versus Brasswick at about $9.5k; a possible CFO pause was explicitly secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D106": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "By the time we did your demo, the owner had already seen a competitor's sandbox"
+  ],
+  "note": "Demo came days after first call and a faster competitor sandbox set the momentum.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D107": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our budget for this category is nine thousand five hundred, and it was approved some time ago. I cannot exceed it."
+  ],
+  "note": "Quote about $12.4k versus a $9.5k budget and an $9k alternative; broker was not the deciding factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D108": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Eleven seven is not possible.",
+   "I can't pay for things I'm not going to use this year."
+  ],
+  "note": "Quote of about $11.8k vs a competitor near $7k and an approved budget of $8k.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D109": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But my budget is fixed.",
+   "We have decided to proceed with the lower-cost option."
+  ],
+  "note": "Chose the roughly $5k alternative over the $8.1k quote within a fixed budget.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D111": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It wasn't a money decision. It was the broker's recommendation and we want one person to call at renewal time."
+  ],
+  "note": "Long-time broker brought a payroll and benefits bundle; price was explicitly not the driver.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D113": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I just can't make the number work."
+  ],
+  "note": "Quote of about $12k vs competitor at $7.5k and a ceiling of $8k.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D116": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "it's a budget freeze, plain and simple."
+  ],
+  "note": "Owner froze projects after losing a major contract; no competitor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D118": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It wasn't product. It was the broker's recommendation."
+  ],
+  "note": "Broker's bundle with benefits feeds already set up; no product shortfall.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D120": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If your quote had been near ten, I would have taken it to the owner."
+  ],
+  "note": "Quote of about $12.3k vs $8.5k competitor and a $9k budget line; demo wait explicitly minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D121": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer declined to give any reason for going a different direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D123": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's just the number."
+  ],
+  "note": "About $19k vs approved $14k ceiling; Brasswick at about $13.8k.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D124": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only says they are making a change; no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D125": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I can't explain a six thousand dollar difference to the owner."
+  ],
+  "note": "About $16k vs budget of $10k and Brasswick at $9.2k.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D127": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The honest answer is the price."
+  ],
+  "note": "About $21k vs $15.5k; approvals and mobile app issues explicitly called minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D128": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our CFO put a hold on all new spending last Tuesday."
+  ],
+  "note": "Company-wide CFO spending hold; no other vendor considered.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D130": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If your price had been under twenty, I'd have signed."
+  ],
+  "note": "About $26k vs Tallyhold $19.2k and a $20k budget; demo wait called minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D131": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I can't justify six thousand extra for hand-holding."
+  ],
+  "note": "About $22k vs Brasswick at $16.4k for comparable scope.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D132": {
+  "primary": "product_gap",
+  "secondary": "price_over_budget",
+  "confidence": "high",
+  "quotes": [
+   "I'm not rebuilding that pack by hand four times a year.",
+   "Roadmap doesn't help me in March."
+  ],
+  "note": "Needs self-built board reporting views; price only a smaller consideration.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D133": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "Until that's decided, nobody wants to move payroll."
+  ],
+  "note": "Owner paused the project pending a possible clinic merger; no competitor and demo and quote were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D134": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The money is really the thing."
+  ],
+  "note": "About $20k vs $14k alternative; owner's possible hold called a side thing.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D135": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Day eleven was too late."
+  ],
+  "note": "Eleven days to demo; sponsor lost steam and a competitor trial was already loaded.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D136": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But the broker thing is the decision."
+  ],
+  "note": "Long-time broker put the Tallyhold bundle in front of them; no price comparison done.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D138": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Leadership froze the project."
+  ],
+  "note": "Project stalled after the sponsoring VP left; no vendor chosen; broker remark is only future speculation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D142": {
+  "primary": "product_gap",
+  "secondary": "price_over_budget",
+  "confidence": "high",
+  "quotes": [
+   "Your reporting doesn't do that."
+  ],
+  "note": "Needs self-built board reporting cuts; price called secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D143": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer explicitly declined to explain the change of direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D144": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The owner's decided he wants to hold any new software until after the year-end close."
+  ],
+  "note": "Owner hold on new software; quote and demo were fine; broker mention is only speculative.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D145": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But it came too late."
+  ],
+  "note": "Thirteen days to demo; Corvane demo came sooner and setup was already underway.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D146": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given beyond going a different direction; the process was praised.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D147": {
+  "primary": "slow_response",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "The delay is the issue. It cost us the window."
+  ],
+  "note": "Nineteen days to demo while a competitor pilot began; cost review hold stated as secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D148": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's mostly the timing."
+  ],
+  "note": "Four days to demo; they had already loaded the company into a Brasswick trial.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D149": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the budget, plain and simple."
+  ],
+  "note": "About $34k vs Tallyhold $24k; CFO said take the cheaper one.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D154": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Chiefly the interval between our first conversation and the demonstration."
+  ],
+  "note": "Eight days to demo; pilot with Corvane already loaded with records.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D156": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Your platform does not include one."
+  ],
+  "note": "No built-in applicant tracking module; payroll, tax and price were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D157": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's just the numbers."
+  ],
+  "note": "About $38k vs Tallyhold at $31k for similar scope.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D158": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "My CFO said, same job, lower price."
+  ],
+  "note": "About $46k vs Tallyhold at $36k with equal compliance coverage.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D159": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Yours is fixed. I asked twice in the demo."
+  ],
+  "note": "Cannot build own board reporting views; price and payroll were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D161": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She put a bundle in front of us last Tuesday."
+  ],
+  "note": "Trusted broker's bundle; no line-by-line comparison and demo was fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D162": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Which means we're frozen."
+  ],
+  "note": "Board froze all spend pending a new CEO; no other vendor in the picture.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D163": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Primarily our broker."
+  ],
+  "note": "Broker's bundle followed without a full comparison; accrual-policy point explicitly not decisive.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D165": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's really just the approvals thing."
+  ],
+  "note": "Needs four-step conditional approval routing; roadmap answer was not acceptable.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D166": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Honestly, it's the board packet."
+  ],
+  "note": "No self-service custom report builder for board packets; price and payroll fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D168": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We have a ceiling of sixty thousand for this whole category.",
+   "We liked the product. It's the annual cost."
+  ],
+  "note": "Quote exceeded the fixed budget ceiling and a cheaper vendor fit inside it.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D170": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the wait, mostly.",
+   "The eight days between our first call and the demo meant we'd already started elsewhere by the time we saw yours."
+  ],
+  "note": "Eight days to demo let Tallyhold get ahead.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D171": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Twelve days. First call to demo, twelve days.",
+   "The wait was the thing."
+  ],
+  "note": "Twelve-day wait to demo; price difference called small.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D172": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "You can't build your own view.",
+   "That's the whole point of this project. If I'm still exporting to a spreadsheet, nothing has changed."
+  ],
+  "note": "No custom board labor-cost reporting views.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D173": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If the tax part isn't airtight we can't, you know.",
+   "We needed firm answers and, on those two, we didn't get them."
+  ],
+  "note": "Deferred answers on reciprocity and mid-year moves; price not the issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D174": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "we don't need perfect. We need confident.",
+   "So that's it. Tax handling."
+  ],
+  "note": "No confident answers on local and new-state tax filing.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D175": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "the payroll tax question has not been resolved to our satisfaction.",
+   "Yes. That is the main matter."
+  ],
+  "note": "Unanswered Oregon and Colorado tax questions; finance also asked to delay non-essential projects.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D176": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer gave no reason, only a change of direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D177": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Everything is on hold.",
+   "I can't justify a three-year commitment when I can't tell you what the company looks like in March."
+  ],
+  "note": "Possible acquisition led the CFO to pull discretionary projects.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D178": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "On the sixth, our CFO froze all new vendor commitments over twenty-five thousand dollars through the end of the fiscal year.",
+   "The freeze was the issue."
+  ],
+  "note": "CFO froze new vendor commitments; no other vendor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D179": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But I'd pay it if I trusted the tax side. I don't, yet.",
+   "So I'm not going to sign something I can't defend."
+  ],
+  "note": "Open questions on Maryland/DC and mid-year moves eroded trust; price minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D181": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "the tax questions, they're the thing I couldn't get past.",
+   "The taxes were my main worry."
+  ],
+  "note": "Unanswered Indiana county and reciprocity questions; superintendent hold was a smaller factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D182": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only 'a different direction' with no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D183": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer cited only a direction change and gave no reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D184": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the yearly cost.",
+   "twenty-eight thousand a year is, that's a person."
+  ],
+  "note": "Quote about 90k versus 65k budget and a cheaper vendor at 61k.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D185": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker, mostly.",
+   "Our benefits broker has handled our renewals for years and recommended their bundle, and since it's the package she brought us, we're following her lead."
+  ],
+  "note": "Followed the broker's bundled Tallyhold recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D187": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "if I can't trust the tax side, it's moot.",
+   "Price, to be clear. Yours is about eight percent higher. We'd have absorbed it."
+  ],
+  "note": "Non-answers on Oklahoma withholding and unemployment rates; Corvane showed the workflow.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D188": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Tax handling is the problem.",
+   "If it were solid, we'd be signing."
+  ],
+  "note": "No firm answers on reciprocity and local tax; wait and price minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D189": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's our broker, really.",
+   "It's relationship stuff."
+  ],
+  "note": "Long-time broker recommended the Tallyhold bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D190": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "If I could look at my twelve states and know it's right, we'd be signing.",
+   "But the taxes, mostly."
+  ],
+  "note": "Kentucky and Detroit local tax questions unanswered; a spring pause was secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D191": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I would not sign off without the tax answers.",
+   "two reasonable questions, two non-answers."
+  ],
+  "note": "Non-answers on NY and CA/TX withholding; Corvane had a tax specialist.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D193": {
+  "primary": "product_gap",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "Primary reason: carrier file feeds.",
+   "Secondary reason. Our broker recommended a different bundle, and he handles our renewals."
+  ],
+  "note": "Missing automatic carrier eligibility feeds; broker bundle secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D194": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The reason is state payroll tax handling.",
+   "If those five questions had been closed, we'd have been fine."
+  ],
+  "note": "Five unanswered tax questions; price gap explicitly not decisive.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D195": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer declined to give any reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D196": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Staffing runs on payroll tax. We can't be unsure.",
+   "If the tax answers had been there, I'd have paid it."
+  ],
+  "note": "Arizona/Nevada and Birmingham tax questions unanswered; Corvane answered live.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D197": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "Big one. Tax.",
+   "Tax was the gap."
+  ],
+  "note": "Missouri city earnings tax questions unanswered; CFO hold was a small factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D198": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The decisive issue was the handling of state payroll taxes.",
+   "We would have accepted it with clear answers on tax."
+  ],
+  "note": "Unverified nonresident withholding and relocation answers; Corvane's were specific.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D199": {
+  "primary": "tax_confidence",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "I'm the only HR person for twelve states. I can't be the backup for payroll tax.",
+   "If your tax answers had been strong, I would have gone back to him and said, we're choosing this other one."
+  ],
+  "note": "Unfollowed tax questions; broker's Tallyhold recommendation a smaller factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D200": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It was the tax. That's it.",
+   "Price was okay. I'll say that. We'd have paid it."
+  ],
+  "note": "Ohio school district and Tennessee registration questions unanswered.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D201": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "A feed that goes straight to the carrier, with errors flagged, that is the requirement.",
+   "Everything hangs on the feeds."
+  ],
+  "note": "No live carrier feed; manual exports; budget said not to be the blocker.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D202": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Three weeks is a long interval.",
+   "by the third I had begun a conversation with Corvane, simply because they were able to meet with us promptly."
+  ],
+  "note": "Three-week wait to demo while Corvane moved faster.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D204": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "every project that isn't tied to a job site is on hold until the new year.",
+   "Both. And our HR person, the one who wanted this, she's moved over to cover estimating for now."
+  ],
+  "note": "Owner froze non-job-site projects after losing a bid; no competitor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D206": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Nine days. That's how long it took to get the demo after we first talked.",
+   "It was the nine days."
+  ],
+  "note": "Nine-day wait; Brasswick responded next morning and signed.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D207": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The owner said, no more than thirty a year for this.",
+   "It's the money."
+  ],
+  "note": "Quote far above the fixed budget and Tallyhold's lower bid.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D209": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given beyond a group decision to change.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D210": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I can't justify it to the partners.",
+   "If your number were 27 or 28, we'd be having a different call."
+  ],
+  "note": "Brasswick quoted far lower for the same modules.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D211": {
+  "primary": "broker_recommendation",
+  "secondary": "price_over_budget",
+  "confidence": "high",
+  "quotes": [
+   "Honestly, I'd have gone with the broker anyway.",
+   "She just brought the bundle. And I trust her."
+  ],
+  "note": "Broker's Tallyhold bundle drove it; higher price a small factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D212": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We set a ceiling of $35,000 for this fiscal year.",
+   "This is a matter of budget alone."
+  ],
+  "note": "Quote exceeded ceiling and Tallyhold was cheaper.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D215": {
+  "primary": "product_gap",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "No. It's the board reporting. That's the issue.",
+   "I tried four different layouts. I could filter, but I couldn't define my own measures."
+  ],
+  "note": "No configurable board views; broker steering to Tallyhold was minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D216": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer only says they are going a different direction and gives no reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D218": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the number, no other reason.",
+   "Your quote: $52,800 for the year."
+  ],
+  "note": "Quote far above the $38,000 budget and the Tallyhold quote.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D220": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "a hiring freeze and a review of every vendor spend until, he said, the board meets in January"
+  ],
+  "note": "CEO froze hiring and vendor spend; no other vendor involved.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D221": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Brasswick came back at $30,000.",
+   "Our budget for the year is $32,000."
+  ],
+  "note": "Price above budget and competitor; demo wait explicitly not the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D222": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. We've used the same one for nine years."
+  ],
+  "note": "Longtime broker brought a Tallyhold bundle and buyer followed her.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D224": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the cost, it's just the cost."
+  ],
+  "note": "Quote of $47,000 vs $35,000 cap and Brasswick at $33,000; demo wait not decisive.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D225": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She's our benefits broker, been with us seven years, she handles every renewal."
+  ],
+  "note": "Followed broker's Tallyhold bundle recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D226": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. He does all our benefits renewals."
+  ],
+  "note": "Broker brought a Tallyhold bundle and buyer trusted him.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D228": {
+  "primary": "broker_recommendation",
+  "secondary": "price_over_budget",
+  "confidence": "medium",
+  "quotes": [
+   "But I want to be clear that the broker's recommendation came first."
+  ],
+  "note": "Broker bundle drove it; lower Tallyhold cost was a smaller added point.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D229": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "it came down to cost"
+  ],
+  "note": "$50,000 quote vs $36,000 budget and Brasswick at $34,000.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D230": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Short answer, the number doesn't fit."
+  ],
+  "note": "$55,000 vs $40,000 budget and a $37,000 competitor quote.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D231": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the sixty-five versus ninety-three."
+  ],
+  "note": "Over budget and above Brasswick; broker push explicitly not what moved him.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D232": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I could not define a custom measure like overtime percentage."
+  ],
+  "note": "Reporting too inflexible for the board packet; tax handling was fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D233": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "the first thing they did was freeze everything that isn't client work."
+  ],
+  "note": "New partner froze all non-client spending; product and price were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D234": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The thing that matters is the applicant tracking."
+  ],
+  "note": "No native applicant tracking module.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D235": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Eight days. First call to demo. Eight days."
+  ],
+  "note": "Eight-day wait led them to sign another vendor before the demo.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D236": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only a vague 'different direction' with no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D237": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's just cost. Nothing else."
+  ],
+  "note": "$71,000 vs $50,000 budget and Brasswick at $47,000.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D238": {
+  "primary": "broker_recommendation",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "But the broker thing is what made it concrete."
+  ],
+  "note": "Broker bundle decided it; an existing hiring freeze and wavering owner was a minor background factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D239": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She handles our medical and dental renewals, and she's been our broker for about eight years."
+  ],
+  "note": "Trusted broker brought a Tallyhold bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D240": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "we can't go with you, and it's the time-off setup",
+   "The system lets you pick one accrual policy for the whole company, and then you can override individual balances by hand."
+  ],
+  "note": "No per-location time-off accrual rules.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D241": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "all discretionary projects across the network are paused"
+  ],
+  "note": "Board paused discretionary projects; no other vendor shortlisted.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D243": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The number is the number.",
+   "Tallyhold is quoting us just under twelve thousand all in."
+  ],
+  "note": "Quote about $7,000 above Tallyhold; applicant tracking called a nice-to-have.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D244": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The board approved a hiring and systems freeze through at least the end of Q2."
+  ],
+  "note": "Board froze systems spending; demo and quote were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D245": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Your system wants one policy per company."
+  ],
+  "note": "Cannot set vacation accrual separately per office; price was not the issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D246": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only 'a different direction' with no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D247": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "in the demo you showed us one approver, or two in a row"
+  ],
+  "note": "Approval workflows lacked conditional multi-step routing; broker push explicitly not the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D248": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "the interim has said no new vendors until she's back."
+  ],
+  "note": "Interim CEO froze new vendors; price was a minor aside.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D249": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But the recruiting piece is it."
+  ],
+  "note": "Platform lacks applicant tracking; mobile logouts were a minor grievance.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D250": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "In my world, two weeks is an eternity.",
+   "It's just the timing."
+  ],
+  "note": "Fourteen-day wait to demo while Tallyhold moved within days.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D252": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The wait was the whole thing, really."
+  ],
+  "note": "Eleven-day wait; they piloted and migrated to another vendor meanwhile.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D253": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "The momentum was gone by the time you came on."
+  ],
+  "note": "Six-day wait to demo while Corvane moved quickly and they signed first.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D254": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The wait. Six days."
+  ],
+  "note": "Corvane got them a trial within a day; buyer never saw enough of the product to judge.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D256": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's about relationships, really.",
+   "Our broker, our broker, the one who does our benefits renewals every year, she brought us this bundle."
+  ],
+  "note": "Followed longtime broker's Tallyhold bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D257": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "there's a hold on anything that touches vendors or contracts until the new structure is clear."
+  ],
+  "note": "Parent company restructuring froze vendor contracts; delay called minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D258": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer explicitly gives no specific reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D259": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker, the one who handles our benefits renewals, sent over their bundle."
+  ],
+  "note": "Chose Tallyhold bundle on broker's recommendation; product and quote not factors.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D260": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "And I'll be honest, it's the cost."
+  ],
+  "note": "About $39,000 vs Tallyhold at $28,000 and over budget; fixed reports were minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D262": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The wait is why. Not the reports."
+  ],
+  "note": "Twelve-day wait while Corvane demoed in three days; reporting gap called small.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D264": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. That's the plain version.",
+   "the person who handles our renewals recommended the other one."
+  ],
+  "note": "Buyer followed the benefits broker's bundle recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D265": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The demonstration did not take place until the fourteenth. Eleven days."
+  ],
+  "note": "Eleven-day wait for the demo while a competitor moved faster.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D267": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer declined to give any reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D268": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She does our benefits renewals.",
+   "I trust her. Simple as that."
+  ],
+  "note": "Chose Tallyhold bundle on the broker's recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D269": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyer gave no reason and explicitly said the mobile app logout issue was not the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D270": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The deciding point was state and local payroll tax handling."
+  ],
+  "note": "Unsettled answers on reciprocity, mid-year moves and local filings; price and delay ruled out.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D271": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I kept coming back to the same thing, which is the tax question."
+  ],
+  "note": "Deferred answers on cross-state withholding and local tax; price was fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D272": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The principal concern is payroll tax."
+  ],
+  "note": "Answers on mid-year moves and reciprocity were deferred; cost not a concern.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D273": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The reason is taxes."
+  ],
+  "note": "'We'd have to check' answers on state registrations and multi-state cases; competitor gave specifics.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D274": {
+  "primary": "tax_confidence",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "It came down to taxes, mostly.",
+   "But if your tax side had been solid, I think we'd have stuck with you."
+  ],
+  "note": "Tax answers drove it; broker's preference for Tallyhold only nudged.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D275": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "The tax question is why I'm leaning Corvane."
+  ],
+  "note": "Tax answers are the main reason; board hold pending a sale is explicitly secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D276": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The deciding factor was multi-state payroll tax handling."
+  ],
+  "note": "Repeated 'I'll find out' on multi-state tax; competitor had specifics.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D278": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "the interim has said no new platforms, no new contracts, until a permanent person is named."
+  ],
+  "note": "Interim leadership froze all new contracts; no competitor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D279": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Tax. We've got folks in five states."
+  ],
+  "note": "Reciprocity and local tax answers were 'I'll get back to you'; price and demo wait ruled out.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D281": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "It's that every tax answer ends in a follow-up."
+  ],
+  "note": "Still comparing, but the stated concern is deferred tax answers, not price.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D282": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "What worries me is a notice from a state revenue department, six months from now, about an account nobody opened."
+  ],
+  "note": "Unsure answers on state registrations and moves; pricing not a worry; decision pending.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D284": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "high",
+  "quotes": [
+   "we need confident answers on local head taxes in Colorado and on mid-year moves between Florida and Georgia, and we left the calls without them."
+  ],
+  "note": "Tax answers missing; CFO likely to pause new software spending as a separate factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D285": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "It's that, if we get a county wrong, we find out in a notice."
+  ],
+  "note": "Uncertain county and city tax handling; cost fine; leaning to Corvane.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D286": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "I care that when Noor asks a tax question, the answer is a maybe."
+  ],
+  "note": "Maybe-answers on city taxes, moves and registration; price explicitly not the issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D287": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I trust our broker. If she says this is the right package, I follow her."
+  ],
+  "note": "Followed broker's bundle recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D288": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "But it's the guessing that gets me."
+  ],
+  "note": "Guessed tax answers drive the decision to likely stay put; price a stretch but secondary.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D289": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's number one. The other platform we saw has one.",
+   "Close doesn't work for a board."
+  ],
+  "note": "No custom report builder for board reporting.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D290": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only 'a change we're making'; no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D292": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "it was fourteen days before anyone could show us anything."
+  ],
+  "note": "Two-week wait before the demo while a competitor moved quickly.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D294": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "It's just, you know, the taxes.",
+   "If one of these is wrong, it's a letter, and I hate letters."
+  ],
+  "note": "Unconfirmed reciprocity and registration answers; price fine; likely staying with current vendor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D295": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given beyond going a different direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D297": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I don't need perfect. I need a candidate list that isn't an email folder."
+  ],
+  "note": "No applicant tracking or recruiting module; competitor has one.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D298": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our main concern was the level of detail we got on payroll tax handling across our eleven states, particularly for people working across state lines."
+  ],
+  "note": "Insufficient tax detail; cost comfortable.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D299": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The difficulty is that each of these questions has resulted in a follow-up, and with twelve states, we cannot afford a vendor who is uncertain."
+  ],
+  "note": "Uncertain multi-state tax answers; pricing acceptable.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D301": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "So it's been eighteen days. From the first call to the demo."
+  ],
+  "note": "Eighteen-day wait; signed with a vendor that called back same day.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D302": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The broker put the bundle in front of us, and it reduces our administrative burden.",
+   "We have decided to go with the package our broker recommended."
+  ],
+  "note": "Went with the broker's Tallyhold bundle; comparison was about even.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D303": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Three thousand a year is a lot to a company our size."
+  ],
+  "note": "Brasswick quote about $3,000 a year lower.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D304": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Even doing that, I couldn't get our annual cost below what the other one costs and still leave room for the rest of my budget."
+  ],
+  "note": "Tallyhold quote far cheaper; budget could not stretch.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D305": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Money. Your quote is thirteen thousand five hundred a year.",
+   "They said find the cheaper one."
+  ],
+  "note": "Found a much cheaper alternative; owners wanted lower cost.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D306": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "With ninety-eight people, the gap is too large for our budget this year."
+  ],
+  "note": "Tallyhold about $6,800 a year cheaper.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D308": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It comes down to our benefits broker.",
+   "It is the bundle our broker recommended."
+  ],
+  "note": "Chose broker's bundle; report gap and demo wait explicitly not decisive.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D309": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. Simple as that."
+  ],
+  "note": "Followed broker's Tallyhold bundle; no gap found in the product.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D310": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "The thing is, fourteen days.",
+   "in that time, my boss, who was the one who wanted this project, kind of lost steam."
+  ],
+  "note": "Fourteen-day wait before demo drained momentum; cost explicitly not the main thing.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D313": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The main factor was cost"
+  ],
+  "note": "Quote about $4,000 above the alternative; applicant tracking only a bonus.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D314": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Sixteen days between our first call and your demo. I counted.",
+   "It's the timing."
+  ],
+  "note": "Sixteen-day wait before demo; they signed with another vendor first.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D315": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the budget. Your price is about fourteen thousand a year.",
+   "the board looked at the two numbers, and that was that."
+  ],
+  "note": "Quote far above the roughly nine and a half thousand alternative.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D316": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "it was sixteen days. From the first call to the demo.",
+   "got us a demo in two days."
+  ],
+  "note": "Competitor demoed in two days while this vendor took sixteen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D317": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "We're out. It's the cost.",
+   "Brasswick gave us ten thousand eight hundred."
+  ],
+  "note": "Nearly six thousand dollars a year above Brasswick.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D318": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It was our benefits broker.",
+   "The recommendation came from someone we trust. That is the whole of it."
+  ],
+  "note": "Chose the broker's Tallyhold bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D320": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The determining factor is the annual cost.",
+   "It is purely a matter of budget."
+  ],
+  "note": "Over five thousand dollars a year above Tallyhold.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D321": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only 'a different direction'; no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D322": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the wait, mostly.",
+   "I just had a free trial open with Brasswick Payroll by then"
+  ],
+  "note": "Eleven-day wait; a Brasswick trial filled the gap.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D325": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given beyond a change of direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D327": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "As of Monday, we've got a hiring and spending freeze at Alderwick."
+  ],
+  "note": "CFO-issued spending freeze; evaluation paused, no other vendor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D328": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "it was twenty-two days before the demo.",
+   "Somebody gave us a demo in four days"
+  ],
+  "note": "Twenty-two days to demo; a competitor demoed in four.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D329": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The wait, really.",
+   "it took twelve days to get the demo on the calendar."
+  ],
+  "note": "Twelve-day wait; they took a Brasswick trial already waiting.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D330": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "our CEO has pulled a bunch of projects until a new person is in the seat."
+  ],
+  "note": "Leadership paused projects after the COO left; nobody else chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D331": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "it was eleven days before the demo.",
+   "It's timing, you know?"
+  ],
+  "note": "Eleven-day wait; the Brasswick trial started in the meantime.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D332": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But our budget for this, our whole budget, is set at twenty.",
+   "It's the yearly number that kills it."
+  ],
+  "note": "About ten thousand a year above Tallyhold and over the set budget.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D333": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the money.",
+   "Your yearly number is about thirty-eight thousand."
+  ],
+  "note": "Fourteen thousand above Tallyhold; the mobile app freeze was explicitly not the reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D334": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It was largely a matter of sequence.",
+   "In fact, it took eleven days."
+  ],
+  "note": "Eleven-day delay pushed them into another vendor's process.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D335": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "medium",
+  "quotes": [
+   "It's the wait."
+  ],
+  "note": "Only four days, but the competitor's demo came first and the CEO lost patience.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D336": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "No. It was the number.",
+   "That is nine thousand dollars annually"
+  ],
+  "note": "Nine thousand dollars a year above Brasswick; missing ATS module was minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D338": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I'm saying it came too late.",
+   "the twelve days between our first call and the demo is what moved us."
+  ],
+  "note": "Twelve-day wait; they committed to Brasswick before the demo.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D340": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's really our broker.",
+   "I trust her."
+  ],
+  "note": "Followed the broker's Tallyhold bundle; ATS gap was a nice-to-have.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D341": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D343": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D344": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The board reporting.",
+   "Our board members don't want the exported version. They want it live, and they want to slice it."
+  ],
+  "note": "Custom board reporting too limited; price and tax were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D345": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The principal matter is recruiting.",
+   "I need it now, and I cannot take a roadmap on faith."
+  ],
+  "note": "No applicant tracking module; the delay was said not to matter.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D346": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D347": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It is the bundle our broker put in front of us.",
+   "it is not a close decision."
+  ],
+  "note": "Chose the broker's Tallyhold bundle over a vendor they just met.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D349": {
+  "primary": "price_over_budget",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "The main thing is the seven thousand.",
+   "Well, the money, really."
+  ],
+  "note": "Seven thousand dollars above Tallyhold; broker recommendation was a minor extra.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D350": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only a gut feeling and a change; no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D351": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "every internal project that touches systems has been frozen until the integration team decides what stays."
+  ],
+  "note": "Merger froze systems projects; no other vendor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D352": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It's the figure. Just the figure.",
+   "I have $30,000 allocated for this line."
+  ],
+  "note": "Quote of $41,800 against $27,400 and a $30,000 budget; demo delay was a footnote.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D353": {
+  "primary": "slow_response",
+  "secondary": "broker_recommendation",
+  "confidence": "high",
+  "quotes": [
+   "Primary factor is timing.",
+   "That's sixteen days."
+  ],
+  "note": "Sixteen-day wait is primary; the broker's recommendation carried some weight.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D354": {
+  "primary": "product_gap",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "we have one policy template per company, and you'd have to pick one."
+  ],
+  "note": "Cannot configure different time-off accrual rules per location.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D355": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I can't blame anyone but timing.",
+   "Twenty-eight days."
+  ],
+  "note": "Twenty-eight days to demo; Tallyhold demoed in three days.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D356": {
+  "primary": "price_over_budget",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Money. Plain.",
+   "But I can't pay eighteen thousand for preferring."
+  ],
+  "note": "Eighteen thousand a year above another vendor and over the budget.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D357": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D358": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I can't sign something where my answer to the board is, we'd have to check.",
+   "If your tax was airtight we'd have fought for you."
+  ],
+  "note": "Unanswered multi-state tax questions; price and broker were background.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D359": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D360": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "State payroll taxes.",
+   "Price was not the reason."
+  ],
+  "note": "General answers on reciprocity and relocation left accountability unclear.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D361": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Eleven days between calls was long enough that our sponsor moved on and we'd already loaded a few campuses elsewhere."
+  ],
+  "note": "Eleven-day wait before the demo let the sponsor move on and another tool get started.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D362": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Buyers only say they went a different direction with no reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D363": {
+  "primary": "tax_confidence",
+  "secondary": "broker_recommendation",
+  "confidence": "medium",
+  "quotes": [
+   "But the larger question remains the tax filings. We cannot afford to find a gap after a quarter closes."
+  ],
+  "note": "Unanswered NJ/PA and Ohio municipal tax questions drove it; broker's Tallyhold recommendation was a secondary factor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D364": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Your answers on state and local payroll taxes, the Illinois and Wisconsin reciprocity and the Maryland county rates, weren't firm enough for us."
+  ],
+  "note": "Price fine; unsettled multi-state tax answers led them to Brasswick.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D366": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Show up sooner. That's it. Thirteen days is a lifetime when somebody's boss is asking questions."
+  ],
+  "note": "Thirteen days to demo meant the director went to another vendor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D367": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Good demo. Wrong week. Twelve days ago it would have been different."
+  ],
+  "note": "Twelve-day wait before demo; broker found Corvane with a demo in two days.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D368": {
+  "primary": "tax_confidence",
+  "secondary": "budget_freeze",
+  "confidence": "medium",
+  "quotes": [
+   "I can't sign off on a maybe. State notices come to me."
+  ],
+  "note": "Compliance lead cannot accept unanswered reciprocity and local tax questions; a budget freeze was also mentioned.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D370": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If you could tell me this stuff cleanly, I'd pay it."
+  ],
+  "note": "Price fine; unclear answers on Denver tax and new-state registration.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D371": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The sixteen days between our first call and the demo meant our owner had lost patience and we'd already started elsewhere."
+  ],
+  "note": "Sixteen-day wait before demo while Brasswick responded in a day and a half.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D372": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If the tax handling was clear, we'd be signing today."
+  ],
+  "note": "Repeated 'we'd have to check' on Oregon and mid-year move tax questions; price fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D373": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker put the bundle in front of us."
+  ],
+  "note": "Chose Tallyhold bundle on broker's word.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D375": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only a vague different direction with no reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D376": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She put the bundle in front of us, payroll, benefits, and the administration all together."
+  ],
+  "note": "Went with Tallyhold bundle on broker relationship.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D377": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If the tax part was firm, I'd pay it."
+  ],
+  "note": "Unresolved withholding and registration answers; missing ATS called minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D378": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "we couldn't get that certainty from your side"
+  ],
+  "note": "Tallyhold confirmed PA and Detroit local taxes immediately; price fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D379": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But I need the tax part to be solid."
+  ],
+  "note": "Repeated 'we'd have to check' on reciprocity and county taxes; price fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D380": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Our broker. She brought us the bundle."
+  ],
+  "note": "Tallyhold chosen via broker's bundle.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D382": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "They gave us a written list of what they register and file in each of our twelve states, including Washington and California, and we couldn't get that from you."
+  ],
+  "note": "Corvane gave written tax filing coverage; price not the issue.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D383": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "I would only say that the six days mattered."
+  ],
+  "note": "Six-day wait for demo; Corvane presented in two days and a pilot began.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D384": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If the tax part was clear, I'd sign."
+  ],
+  "note": "Unanswered tax split and Colorado family leave questions; Tallyhold said yes.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D385": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If I was sure about the taxes, I'd probably say yes today."
+  ],
+  "note": "Massachusetts and NH tax answers kept landing on 'let me check'; Corvane answered in one call.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D387": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "our owner decided to freeze all new spending until the first of the year."
+  ],
+  "note": "Owner froze spending; no vendor chosen.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D388": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Only a collective different direction with no reason.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D389": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "But I can't negotiate my way out of a tax notice."
+  ],
+  "note": "Missouri earnings tax questions unanswered; Brasswick answered; price fine.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D390": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "If I knew the taxes were handled, we'd probably be signed already."
+  ],
+  "note": "City tax and mid-year move answers lacking; Corvane listed covered cities.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D392": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It was our broker's recommendation."
+  ],
+  "note": "Chose Tallyhold on broker's recommendation.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D393": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "Collective decision with no single reason given.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D395": {
+  "primary": "unclear",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [],
+  "note": "No reason given beyond a different direction.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D397": {
+  "primary": "slow_response",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "Not because of the product. It's the thirteen days."
+  ],
+  "note": "Thirteen days to demo; Tallyhold demoed in three days and a trial started.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D398": {
+  "primary": "broker_recommendation",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "It was our broker's advice, principally."
+  ],
+  "note": "Went with Tallyhold bundle on broker's advice.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D399": {
+  "primary": "tax_confidence",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "The tax answers are what concern me."
+  ],
+  "note": "Parish and new-state registration answers unclear; Corvane documented them; leadership pause called minor.",
+  "quotes_removed": [],
+  "dropped": false
+ },
+ "D400": {
+  "primary": "budget_freeze",
+  "secondary": null,
+  "confidence": "high",
+  "quotes": [
+   "our owner decided to put the brakes on."
+  ],
+  "note": "Owner paused projects over lease costs; product and price were fine.",
+  "quotes_removed": [],
+  "dropped": false
+ }
+}
